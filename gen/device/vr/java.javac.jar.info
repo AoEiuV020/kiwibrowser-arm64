@@ -1,0 +1,2 @@
+org.chromium.device.vr.NonPresentingGvrContext,../../device/vr/android/java/src/org/chromium/device/vr/NonPresentingGvrContext.java
+com.google.vr.cardboard.R,gen/third_party/gvr-android-sdk/gvr_common_java__res.srcjar

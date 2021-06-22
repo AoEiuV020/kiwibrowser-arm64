@@ -1,0 +1,1505 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/feed/feed_lib_java.dex.jar"
+  ], 
+  "files-md5": "87b8261139e1defaa0060a33b12aba77", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/feed/feed_lib_java.jar", 
+      "tag": "a137c109c74785301347dc02c7a01ac6", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedapplifecyclelistener/FeedAppLifecycleListener.class", 
+          "tag": 2025375727
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$3.class", 
+          "tag": 1916919822
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/ContentGc$$Lambda$0.class", 
+          "tag": 1955184946
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$2.class", 
+          "tag": 3079966090
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$28.class", 
+          "tag": 1188150194
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$21.class", 
+          "tag": 3908472070
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$7.class", 
+          "tag": 884676786
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$6.class", 
+          "tag": 3709388743
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore.class", 
+          "tag": 3097673687
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/ContentGc$$Lambda$3.class", 
+          "tag": 564315952
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$11.class", 
+          "tag": 1121911581
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$16.class", 
+          "tag": 3032762595
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$9.class", 
+          "tag": 2243086640
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$19.class", 
+          "tag": 155765402
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$10.class", 
+          "tag": 476466102
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/ContentGc.class", 
+          "tag": 1463180715
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$12.class", 
+          "tag": 2430604031
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$5.class", 
+          "tag": 3979055144
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/ContentGc$$Lambda$2.class", 
+          "tag": 1802286149
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$23.class", 
+          "tag": 162158168
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$29.class", 
+          "tag": 3737253500
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$1.class", 
+          "tag": 4225969534
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$14.class", 
+          "tag": 661784955
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$24.class", 
+          "tag": 2192267519
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$13.class", 
+          "tag": 3337521784
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$8.class", 
+          "tag": 4222511594
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$26.class", 
+          "tag": 2645819172
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$15.class", 
+          "tag": 3343971904
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$22.class", 
+          "tag": 3794651528
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$17.class", 
+          "tag": 1911692601
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$0.class", 
+          "tag": 3608425610
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$25.class", 
+          "tag": 3830657696
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$27.class", 
+          "tag": 63129191
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$4.class", 
+          "tag": 2801512391
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$30.class", 
+          "tag": 2167997631
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$18.class", 
+          "tag": 2658005928
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/ContentGc$$Lambda$1.class", 
+          "tag": 2798341262
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/FeedStore$$Lambda$20.class", 
+          "tag": 2144580660
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/FeedSessionMutation.class", 
+          "tag": 759173246
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/ActionGc$$Lambda$1.class", 
+          "tag": 2252309913
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/ActionGc.class", 
+          "tag": 477907834
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/FeedSemanticPropertiesMutation.class", 
+          "tag": 4094134789
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/ActionGc$$Lambda$0.class", 
+          "tag": 221188119
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/FeedActionMutation.class", 
+          "tag": 146319124
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/FeedContentMutation.class", 
+          "tag": 1538389509
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedstore/internal/SessionState.class", 
+          "tag": 2605056181
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedprotocoladapter/FeedProtocolAdapter$1.class", 
+          "tag": 1178156587
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedprotocoladapter/FeedProtocolAdapter.class", 
+          "tag": 4134737112
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$InitializeModel.class", 
+          "tag": 2995104576
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$TokenMutation$$Lambda$0.class", 
+          "tag": 124546501
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$TokenTracking.class", 
+          "tag": 2277580945
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$1.class", 
+          "tag": 1062912687
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$MutationHandler.class", 
+          "tag": 3664448068
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider.class", 
+          "tag": 2447882464
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$$Lambda$1.class", 
+          "tag": 3065644227
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$SyntheticTokenTracker$$Lambda$1.class", 
+          "tag": 2779873242
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$TokenMutation.class", 
+          "tag": 2796409168
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$SyntheticTokenTracker.class", 
+          "tag": 681892741
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$$Lambda$2.class", 
+          "tag": 3867616003
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProviderFactory.class", 
+          "tag": 2812194804
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$$Lambda$0.class", 
+          "tag": 3177016630
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$InitializeModel$$Lambda$0.class", 
+          "tag": 3553483686
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$1$$Lambda$0.class", 
+          "tag": 1627508839
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$SyntheticTokenTracker$$Lambda$0.class", 
+          "tag": 2377803631
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$UpdateMutation$$Lambda$0.class", 
+          "tag": 2836699852
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$1$$Lambda$1.class", 
+          "tag": 31268285
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/FeedModelProvider$UpdateMutation.class", 
+          "tag": 2400136300
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/UpdatableModelChild.class", 
+          "tag": 4172513994
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/FeatureChangeImpl.class", 
+          "tag": 1935418092
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/UpdatableModelFeature.class", 
+          "tag": 572901447
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/ModelCursorImpl$CursorIterator.class", 
+          "tag": 2408907224
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/UpdatableModelToken.class", 
+          "tag": 960726865
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/ModelCursorImpl.class", 
+          "tag": 147265194
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/FeatureChangeImpl$ChildChangesImpl.class", 
+          "tag": 1847084866
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/ModelChildBinder.class", 
+          "tag": 184513717
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/ModelMutationImpl$Change.class", 
+          "tag": 3527564174
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/ModelChildBinder$$Lambda$0.class", 
+          "tag": 1955317847
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/CursorProvider.class", 
+          "tag": 345501045
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedmodelprovider/internal/ModelMutationImpl.class", 
+          "tag": 2582619994
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/BasicStream.class", 
+          "tag": 2640905809
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/StreamScrollMonitor.class", 
+          "tag": 130612377
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/StreamActionApiImpl.class", 
+          "tag": 421142114
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/StreamActionApiImpl$$Lambda$0.class", 
+          "tag": 1412231646
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/StreamRecyclerViewAdapter.class", 
+          "tag": 950351454
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/HeaderViewHolder.class", 
+          "tag": 638992125
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/PietViewHolder.class", 
+          "tag": 3627437038
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/FeedViewHolder.class", 
+          "tag": 2186863591
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/PietViewHolder$$Lambda$0.class", 
+          "tag": 3632359858
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/ViewHolderType.class", 
+          "tag": 1051161529
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/ContinuationViewHolder.class", 
+          "tag": 680993378
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/viewholders/PietViewHolder$$Lambda$1.class", 
+          "tag": 667305879
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/StreamDriver.class", 
+          "tag": 2588357007
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/StreamDriver$StreamContentListener.class", 
+          "tag": 3055918698
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/FeatureDriver.class", 
+          "tag": 1946138910
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/ClusterDriver.class", 
+          "tag": 2517462733
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/StreamDriver$$Lambda$0.class", 
+          "tag": 1819398297
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/CardDriver.class", 
+          "tag": 2349845700
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/LeafFeatureDriver.class", 
+          "tag": 147403355
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/ContinuationDriver.class", 
+          "tag": 1441573138
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/basicstream/internal/drivers/ContentDriver.class", 
+          "tag": 869479209
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/sessionmanager/SessionManager.class", 
+          "tag": 2624005955
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelChild$Type.class", 
+          "tag": 383157387
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelProviderFactory.class", 
+          "tag": 1409202327
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelCursor.class", 
+          "tag": 1338578312
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelProvider$State.class", 
+          "tag": 2226398310
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/FeatureChange.class", 
+          "tag": 1275322178
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelFeature.class", 
+          "tag": 3952029243
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelMutation.class", 
+          "tag": 2362222033
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/FeatureChangeObserver.class", 
+          "tag": 3772362911
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelChild.class", 
+          "tag": 3303408861
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelProvider.class", 
+          "tag": 2637202334
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/TokenCompletedObserver.class", 
+          "tag": 1065027658
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelProviderObserver.class", 
+          "tag": 4046791503
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/TokenCompleted.class", 
+          "tag": 2662488967
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/ModelToken.class", 
+          "tag": 3176259058
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/modelprovider/FeatureChange$ChildChanges.class", 
+          "tag": 2087683651
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedStreamScope$1.class", 
+          "tag": 50360183
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedStreamScope.class", 
+          "tag": 2020356270
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedProcessScope$1.class", 
+          "tag": 4215345760
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedStreamScope$Builder.class", 
+          "tag": 2056516162
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedProcessScope$Builder$$Lambda$0.class", 
+          "tag": 1876685630
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedProcessScope$Builder.class", 
+          "tag": 382838709
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/scope/FeedProcessScope.class", 
+          "tag": 4271569969
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/requestmanager/RequestManager.class", 
+          "tag": 2174746059
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/protocoladapter/ProtocolAdapter.class", 
+          "tag": 2246356837
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/actionmanager/ActionManager.class", 
+          "tag": 799687299
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/actionmanager/ActionReader.class", 
+          "tag": 3562323693
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/lifecycle/AppLifecycleListener.class", 
+          "tag": 282854259
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/store/ContentMutation.class", 
+          "tag": 74619520
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/store/Store.class", 
+          "tag": 4021201502
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/store/SemanticPropertiesMutation.class", 
+          "tag": 1209338734
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/store/SessionMutation.class", 
+          "tag": 1956778427
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/store/ActionMutation.class", 
+          "tag": 3137496318
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/store/ActionMutation$ActionType.class", 
+          "tag": 1856852265
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/stream/ScrollListener$ScrollState.class", 
+          "tag": 2251734771
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/stream/ScrollListener.class", 
+          "tag": 1376750397
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/stream/Stream.class", 
+          "tag": 2002228633
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/stream/ContentChangedListener.class", 
+          "tag": 3659678233
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/actionparser/ActionParser.class", 
+          "tag": 1880351556
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/MutationContext.class", 
+          "tag": 570703501
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/DismissActionWithSemanticProperties.class", 
+          "tag": 3936995923
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/PayloadWithId.class", 
+          "tag": 747952860
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/ThreadUtils.class", 
+          "tag": 2057960507
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/SemanticPropertiesWithId.class", 
+          "tag": 1763702132
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/MutationContext$Builder.class", 
+          "tag": 4040491047
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/api/common/MutationContext$1.class", 
+          "tag": 28007069
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/mocknetworkclient/MockPushServer.class", 
+          "tag": 2435282842
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/mocknetworkclient/MockServerNetworkClient$$Lambda$0.class", 
+          "tag": 2983027668
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/mocknetworkclient/MockServerNetworkClient.class", 
+          "tag": 4254657161
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/mocknetworkclient/MockPushServer$$Lambda$0.class", 
+          "tag": 3508179079
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/mocknetworkclient/MockPushServer$MockServerLooper.class", 
+          "tag": 2311706200
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/mocknetworkclient/MockPushServer$1.class", 
+          "tag": 3171825353
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/sharedstream/piet/PietHostBindingProvider.class", 
+          "tag": 150120416
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/sharedstream/piet/PietCustomElementProvider.class", 
+          "tag": 3723754444
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/sharedstream/piet/PietAssetProvider.class", 
+          "tag": 3642039386
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/logging/LoggingApiImpl.class", 
+          "tag": 2275794599
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentJournalStorage.class", 
+          "tag": 308186317
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentJournalStorage$$Lambda$3.class", 
+          "tag": 705822250
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentContentStorage.class", 
+          "tag": 3881305232
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentJournalStorage$$Lambda$1.class", 
+          "tag": 2619991795
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentJournalStorage$$Lambda$2.class", 
+          "tag": 1916568671
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentJournalStorage$$Lambda$0.class", 
+          "tag": 1371643160
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/InMemoryContentStorage.class", 
+          "tag": 385895045
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentContentStorage$$Lambda$0.class", 
+          "tag": 706261798
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/InMemoryJournalStorage.class", 
+          "tag": 580798014
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentContentStorage$$Lambda$2.class", 
+          "tag": 2256845762
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/storage/PersistentContentStorage$$Lambda$1.class", 
+          "tag": 1361701330
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/hostimpl/scheduler/FeedSchedulerApiImpl.class", 
+          "tag": 2604141483
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedactionparser/FeedActionParser$1.class", 
+          "tag": 4128747440
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedactionparser/FeedActionParser.class", 
+          "tag": 729769702
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedactionparser/internal/PietFeedActionPaylaodRetriever.class", 
+          "tag": 2641304455
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedactionmanager/FeedActionManagerImpl$$Lambda$0.class", 
+          "tag": 2970513276
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedactionmanager/FeedActionManagerImpl.class", 
+          "tag": 3793130925
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedactionreader/FeedActionReader.class", 
+          "tag": 3161549443
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$2.class", 
+          "tag": 3243669069
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$CommitterTask$$Lambda$2.class", 
+          "tag": 3817988985
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$6.class", 
+          "tag": 2637876212
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$7.class", 
+          "tag": 1425576292
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$8.class", 
+          "tag": 2476969769
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$CommitterTask$$Lambda$1.class", 
+          "tag": 3586390124
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$CommitterTask.class", 
+          "tag": 3123222872
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$5.class", 
+          "tag": 678428515
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$3.class", 
+          "tag": 4139694979
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager.class", 
+          "tag": 1413333821
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$CommitterTask$$Lambda$0.class", 
+          "tag": 516530187
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$1.class", 
+          "tag": 750249169
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$4.class", 
+          "tag": 519787347
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/FeedSessionManager$$Lambda$0.class", 
+          "tag": 4197400810
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$2.class", 
+          "tag": 1204394628
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$TaskType.class", 
+          "tag": 3438967021
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$8.class", 
+          "tag": 2522870118
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$5.class", 
+          "tag": 837170262
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$9.class", 
+          "tag": 4136365006
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$4.class", 
+          "tag": 1537977314
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/HeadSessionImpl.class", 
+          "tag": 1236376532
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/SessionImpl.class", 
+          "tag": 4121798123
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$0.class", 
+          "tag": 2371815770
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$6.class", 
+          "tag": 3601480382
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$1.class", 
+          "tag": 3893641397
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/Session.class", 
+          "tag": 183756515
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/SessionImpl$$Lambda$0.class", 
+          "tag": 1016269196
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$7.class", 
+          "tag": 1581897672
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/ContentCache.class", 
+          "tag": 1414109791
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/InitializableSession.class", 
+          "tag": 2273777723
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue.class", 
+          "tag": 1439645358
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/SessionFactory.class", 
+          "tag": 2528227032
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$TaskWithTimeout.class", 
+          "tag": 3207958856
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedsessionmanager/internal/TaskQueue$$Lambda$3.class", 
+          "tag": 3725717846
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/logging/LoggingApi.class", 
+          "tag": 2949955108
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentMutation.class", 
+          "tag": 2999307187
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalOperation$Type.class", 
+          "tag": 1167955670
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalOperation.class", 
+          "tag": 2780207482
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalOperation$Copy.class", 
+          "tag": 134876940
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperation$DeleteByPrefix.class", 
+          "tag": 3605728240
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentStorage.class", 
+          "tag": 2989691859
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentMutation$1.class", 
+          "tag": 4148559744
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperation$1.class", 
+          "tag": 2825955386
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperation$Type.class", 
+          "tag": 870791043
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalStorage.class", 
+          "tag": 4215018057
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalOperation$Append.class", 
+          "tag": 3665792875
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperation$Upsert.class", 
+          "tag": 912714991
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperation.class", 
+          "tag": 384856067
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalMutation$Builder.class", 
+          "tag": 978163710
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentMutation$Builder.class", 
+          "tag": 2361182140
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperationListSimplifier.class", 
+          "tag": 2894252036
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalOperation$1.class", 
+          "tag": 2669647105
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/ContentOperation$Delete.class", 
+          "tag": 1824899318
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/CommitResult$Result.class", 
+          "tag": 4222043038
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalOperation$Delete.class", 
+          "tag": 2496846553
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalMutation$1.class", 
+          "tag": 1389115884
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/CommitResult.class", 
+          "tag": 3136019599
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/storage/JournalMutation.class", 
+          "tag": 3969243005
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/action/ActionApi.class", 
+          "tag": 1398131164
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/action/StreamActionApi.class", 
+          "tag": 228692524
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/scheduler/SchedulerApi$RequestBehavior.class", 
+          "tag": 1249563562
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/scheduler/SchedulerApi.class", 
+          "tag": 1908706791
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/scheduler/SchedulerApi$SessionManagerState.class", 
+          "tag": 3498420840
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/config/Configuration$ConfigKey.class", 
+          "tag": 1820144326
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/config/DebugBehavior.class", 
+          "tag": 3984923508
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/config/Configuration$1.class", 
+          "tag": 377068673
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/config/Configuration$Builder.class", 
+          "tag": 1987258713
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/config/Configuration.class", 
+          "tag": 23713808
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/stream/StreamConfiguration.class", 
+          "tag": 2225010360
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/stream/CardConfiguration.class", 
+          "tag": 3100287805
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/network/HttpHeader.class", 
+          "tag": 3450084855
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/network/HttpResponse.class", 
+          "tag": 1981205217
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/network/NetworkClient.class", 
+          "tag": 1852926111
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/network/HttpRequest.class", 
+          "tag": 4015321898
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/network/HttpHeader$HttpHeaderName.class", 
+          "tag": 2923712493
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/network/HttpRequest$HttpMethod.class", 
+          "tag": 1457499341
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/proto/ProtoExtensionProvider.class", 
+          "tag": 2670839508
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/host/imageloader/ImageLoaderApi.class", 
+          "tag": 1057086116
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/Result.class", 
+          "tag": 1185684701
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/Validators.class", 
+          "tag": 743128477
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/logging/Dumpable.class", 
+          "tag": 173824032
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/logging/StringFormattingUtils.class", 
+          "tag": 1957899701
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/logging/Dumper.class", 
+          "tag": 1845295909
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/logging/Dumper$DumperValue.class", 
+          "tag": 3163647751
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/logging/Logger.class", 
+          "tag": 1471399478
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/logging/Logger$DebugStackTraceLogger.class", 
+          "tag": 595461876
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/functional/Committer.class", 
+          "tag": 1364325429
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/functional/Consumer.class", 
+          "tag": 1517129510
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/functional/Supplier.class", 
+          "tag": 2723290703
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/functional/SettableSupplier.class", 
+          "tag": 1400147989
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/protoextensions/FeedExtensionRegistry.class", 
+          "tag": 2881259708
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/concurrent/AbstractRunner.class", 
+          "tag": 275346092
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/concurrent/MainThreadRunner$$Lambda$0.class", 
+          "tag": 1606088397
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/concurrent/SimpleSettableFuture.class", 
+          "tag": 2851564807
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/concurrent/MainThreadRunner.class", 
+          "tag": 1262226793
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/TimingUtils$1.class", 
+          "tag": 2282255889
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/Clock$$CC.class", 
+          "tag": 1974784821
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/TimingUtils$TrackerState.class", 
+          "tag": 554328987
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/TimingUtils$ElapsedTimeTracker.class", 
+          "tag": 1240853978
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/TimingUtils$ThreadStack.class", 
+          "tag": 3555317966
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/TimingUtils.class", 
+          "tag": 2288241210
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/Clock.class", 
+          "tag": 2961186197
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/SystemClockImpl.class", 
+          "tag": 1189357617
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/common/time/TimingUtils$ThreadState.class", 
+          "tag": 748226671
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/AdapterFactory$AdapterKeySupplier.class", 
+          "tag": 393577346
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ImageElementAdapter$1.class", 
+          "tag": 3122155915
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ChunkedTextElementAdapter$1.class", 
+          "tag": 1586976828
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/RecyclerKey.class", 
+          "tag": 261107954
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/DebugLogger.class", 
+          "tag": 3311736050
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/PietManager.class", 
+          "tag": 1516107091
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/AdapterParameters.class", 
+          "tag": 1250171677
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ParameterizedTextEvaluator.class", 
+          "tag": 1540007451
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ChunkedTextElementAdapter$ImageSpanDrawableCallback.class", 
+          "tag": 2478863919
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/DebugLogger$MessageType.class", 
+          "tag": 3096688702
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/SpacerElementAdapter$KeySupplier.class", 
+          "tag": 168996231
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/TextElementAdapter.class", 
+          "tag": 663971150
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ImageElementAdapter.class", 
+          "tag": 2809813552
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/FrameContext.class", 
+          "tag": 884754487
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementAdapterFactory.class", 
+          "tag": 1208532102
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ParameterizedTextElementAdapter$KeySupplier.class", 
+          "tag": 1104125566
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/RecyclerPool.class", 
+          "tag": 907827907
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ParameterizedTextElementAdapter$1.class", 
+          "tag": 2321391299
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ImageElementAdapter$LoadImageCallback.class", 
+          "tag": 2203817812
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/GridRowAdapter$KeySupplier.class", 
+          "tag": 183223300
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementListAdapter$KeySupplier.class", 
+          "tag": 2619477261
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/FrameContext$ThrowingEmptyMap.class", 
+          "tag": 1534784262
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/StyleProvider.class", 
+          "tag": 3620410528
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/TextElementAdapter$1.class", 
+          "tag": 2245808911
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/FrameAdapter$1.class", 
+          "tag": 2482192083
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/CustomElementAdapter$KeySupplier.class", 
+          "tag": 2405501082
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ChunkedTextElementAdapter$ChunkedTextTouchListener.class", 
+          "tag": 1321475812
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementAdapterFactory$1.class", 
+          "tag": 3098892605
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/TemplateInstanceAdapter$TemplateKeySupplier.class", 
+          "tag": 2452553824
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ViewUtils$$Lambda$1.class", 
+          "tag": 1563913499
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementAdapter.class", 
+          "tag": 2278194698
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementAdapter$1.class", 
+          "tag": 422565717
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/GridRowAdapter.class", 
+          "tag": 4040757976
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ViewUtils$$Lambda$0.class", 
+          "tag": 2614286107
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/TemplateInstanceAdapter.class", 
+          "tag": 2148328272
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/PietStylesHelper.class", 
+          "tag": 659257201
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ChunkedTextElementAdapter.class", 
+          "tag": 2018560889
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ParameterizedTextElementAdapter$Key.class", 
+          "tag": 212133070
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/SingleKeyRecyclerPool.class", 
+          "tag": 2594068516
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/AdapterFactory.class", 
+          "tag": 140594008
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementContainerAdapter.class", 
+          "tag": 1040301325
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementListAdapter.class", 
+          "tag": 2384464249
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/AdapterFactory$SingletonKeySupplier.class", 
+          "tag": 2285280520
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/SpacerElementAdapter.class", 
+          "tag": 453478088
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/FrameAdapter.class", 
+          "tag": 1003055980
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/KeyedRecyclerPool.class", 
+          "tag": 1713691239
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/SpacerElementAdapter$DividerView.class", 
+          "tag": 52095747
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ChunkedTextElementAdapter$KeySupplier.class", 
+          "tag": 1376789459
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/GridRowAdapter$1.class", 
+          "tag": 132312888
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/CustomElementAdapter$1.class", 
+          "tag": 173933222
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ImageElementAdapter$KeySupplier.class", 
+          "tag": 3090792738
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ParameterizedTextElementAdapter.class", 
+          "tag": 2304250317
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/AdapterFactory$Statistics.class", 
+          "tag": 1536175533
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ChunkedTextElementAdapter$ActionsClickableSpan.class", 
+          "tag": 1383159323
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ElementListAdapter$1.class", 
+          "tag": 2487979361
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/FrameContext$1.class", 
+          "tag": 4151764202
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/TemplateInstanceAdapter$TemplateAdapterModel.class", 
+          "tag": 74845065
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/TemplateInstanceAdapter$TemplateKey.class", 
+          "tag": 773556331
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/CustomElementAdapter.class", 
+          "tag": 2059255151
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ViewUtils.class", 
+          "tag": 2372614888
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ui/RoundedCornerColorDrawable.class", 
+          "tag": 1682364465
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ui/RoundedCornerImageView.class", 
+          "tag": 317724017
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/ui/RoundedCornerViewHelper.class", 
+          "tag": 84677325
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/host/HostBindingProvider.class", 
+          "tag": 93021970
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/host/ActionHandler.class", 
+          "tag": 905464522
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/host/AssetProvider.class", 
+          "tag": 508924092
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/piet/host/CustomElementProvider.class", 
+          "tag": 976721186
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$$Lambda$3.class", 
+          "tag": 2402554300
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$$Lambda$0.class", 
+          "tag": 1565552022
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$$Lambda$1.class", 
+          "tag": 1866694836
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager.class", 
+          "tag": 1728482360
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$$Lambda$2.class", 
+          "tag": 2220032507
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$$Lambda$4.class", 
+          "tag": 2073341253
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$RequestBuilder.class", 
+          "tag": 3056823417
+        }, 
+        {
+          "path": "com/google/android/libraries/feed/feedrequestmanager/FeedRequestManager$1.class", 
+          "tag": 1118330197
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "a322ce68900c4c4f170dc05a0d40cb85"
+}

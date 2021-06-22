@@ -1,0 +1,481 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/components/web_contents_delegate_android/web_contents_delegate_android_java__lint/config.xml"
+  ], 
+  "files-md5": "a14fe3c7a0a327af5640a59b016ffbc3", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/components/web_contents_delegate_android/web_contents_delegate_android_java.javac.jar", 
+      "tag": "b33d65f686655d73deabc3591d933513", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid$1.class", 
+          "tag": 2384149299
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$dimen.class", 
+          "tag": 2448120189
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$id.class", 
+          "tag": 985887991
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog.class", 
+          "tag": 3308076621
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerAdvanced.class", 
+          "tag": 3291685801
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$color.class", 
+          "tag": 3979468829
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$1.class", 
+          "tag": 4003688156
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.class", 
+          "tag": 2473500740
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.class", 
+          "tag": 1114351884
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$drawable.class", 
+          "tag": 1431842137
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerSimple.class", 
+          "tag": 2172282496
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorSuggestion.class", 
+          "tag": 1136129830
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorSuggestionListAdapter$OnColorSuggestionClickListener.class", 
+          "tag": 1447762120
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$4.class", 
+          "tag": 201625474
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R.class", 
+          "tag": 2654983825
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$string.class", 
+          "tag": 436417085
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/OnColorChangedListener.class", 
+          "tag": 693665703
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorSuggestionListAdapter.class", 
+          "tag": 4285713014
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$2.class", 
+          "tag": 2762271479
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$layout.class", 
+          "tag": 3575598591
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerAdvancedComponent.class", 
+          "tag": 3782564628
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerMoreButton.class", 
+          "tag": 2471974693
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$3.class", 
+          "tag": 2903057145
+        }
+      ]
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.java", 
+      "tag": "6718c9fb1bc0a56d794bd563310e1159"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerAdvanced.java", 
+      "tag": "b69275bf229ee9d469aff02bf8bce8d3"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerAdvancedComponent.java", 
+      "tag": "2d1ba2c5cb91dff14df70da71f0fcf7d"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerDialog.java", 
+      "tag": "0707f852d8887533118982db72fb3553"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerMoreButton.java", 
+      "tag": "115d43de480120d1fcbc910df6bddb5b"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerSimple.java", 
+      "tag": "2d2c3918639a2299d5c519b3c94a9d41"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorSuggestion.java", 
+      "tag": "b9c26ac914619345a7ac35f65bd51b7d"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorSuggestionListAdapter.java", 
+      "tag": "a1210d736b81504800806c799dbf07be"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.java", 
+      "tag": "fa49bf4bbfee0292fd64a5bec1fcfff7"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/OnColorChangedListener.java", 
+      "tag": "234c6809b051b342022fbbe1691cfc60"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/content/public/android/content_java.interface.jar", 
+      "tag": "572c1dc78571f2f1a4a064b21340a926"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_full_java.interface.jar", 
+      "tag": "813eb7847cac5ce2b6876c88debd02da"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_utils_java.interface.jar", 
+      "tag": "eb4e5ee13546d5c2ddf82165145e0074"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/drawable/color_picker_border.xml", 
+      "tag": "b16ed0e36f18880af4e3d16b7d23c0e5"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/drawable/color_button_background.xml", 
+      "tag": "fe3546b032219cc00d52c7d88333c5ca"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/values/colors.xml", 
+      "tag": "512f1a247dff227406b7f35887273ad7"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/values/dimens.xml", 
+      "tag": "9394e1929132e917c46f2c1e7a153968"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/drawable-xhdpi/color_picker_advanced_select_handle.png", 
+      "tag": "00efac1a48479138ceda4068d2a39889"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/layout/color_picker_dialog_content.xml", 
+      "tag": "3177828223b6dc12ee9d2c8bf5e9f03b"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/layout/color_picker_dialog_title.xml", 
+      "tag": "d48f61a90ed1544c18127a359a55f3b9"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/layout/color_picker_advanced_component.xml", 
+      "tag": "e0e77c272885bfde5448e5ad0ac0442c"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/drawable-hdpi/color_picker_advanced_select_handle.png", 
+      "tag": "2efed50a28ae7580d0665fb97e1e44e0"
+    }, 
+    {
+      "path": "../../components/web_contents_delegate_android/java/res/drawable-mdpi/color_picker_advanced_select_handle.png", 
+      "tag": "aacb2fbf692764dc79f8d951f235f7be"
+    }, 
+    {
+      "path": "resource_zips/components/web_contents_delegate_android/web_contents_delegate_android_strings_grd.resources.zip", 
+      "tag": "e939cf9544bc636af120aae5af17d2ba", 
+      "entries": [
+        {
+          "path": "values-am/web_contents_delegate_android_strings.xml", 
+          "tag": 150695781
+        }, 
+        {
+          "path": "values-ar/web_contents_delegate_android_strings.xml", 
+          "tag": 2884745773
+        }, 
+        {
+          "path": "values-bg/web_contents_delegate_android_strings.xml", 
+          "tag": 2671749779
+        }, 
+        {
+          "path": "values-ca/web_contents_delegate_android_strings.xml", 
+          "tag": 2798548589
+        }, 
+        {
+          "path": "values-cs/web_contents_delegate_android_strings.xml", 
+          "tag": 2099818572
+        }, 
+        {
+          "path": "values-da/web_contents_delegate_android_strings.xml", 
+          "tag": 2718738457
+        }, 
+        {
+          "path": "values-de/web_contents_delegate_android_strings.xml", 
+          "tag": 3868299517
+        }, 
+        {
+          "path": "values-el/web_contents_delegate_android_strings.xml", 
+          "tag": 1039843730
+        }, 
+        {
+          "path": "values-en-rGB/web_contents_delegate_android_strings.xml", 
+          "tag": 2083538601
+        }, 
+        {
+          "path": "values-es-rUS/web_contents_delegate_android_strings.xml", 
+          "tag": 2042344114
+        }, 
+        {
+          "path": "values-es/web_contents_delegate_android_strings.xml", 
+          "tag": 2342407173
+        }, 
+        {
+          "path": "values-fa/web_contents_delegate_android_strings.xml", 
+          "tag": 2571004011
+        }, 
+        {
+          "path": "values-fi/web_contents_delegate_android_strings.xml", 
+          "tag": 1706195457
+        }, 
+        {
+          "path": "values-fr/web_contents_delegate_android_strings.xml", 
+          "tag": 4201465320
+        }, 
+        {
+          "path": "values-hi/web_contents_delegate_android_strings.xml", 
+          "tag": 3941689088
+        }, 
+        {
+          "path": "values-hr/web_contents_delegate_android_strings.xml", 
+          "tag": 4046486761
+        }, 
+        {
+          "path": "values-hu/web_contents_delegate_android_strings.xml", 
+          "tag": 1156944692
+        }, 
+        {
+          "path": "values-in/web_contents_delegate_android_strings.xml", 
+          "tag": 1265054901
+        }, 
+        {
+          "path": "values-it/web_contents_delegate_android_strings.xml", 
+          "tag": 3570178852
+        }, 
+        {
+          "path": "values-iw/web_contents_delegate_android_strings.xml", 
+          "tag": 3309823331
+        }, 
+        {
+          "path": "values-ja/web_contents_delegate_android_strings.xml", 
+          "tag": 4228660111
+        }, 
+        {
+          "path": "values-ko/web_contents_delegate_android_strings.xml", 
+          "tag": 3970911154
+        }, 
+        {
+          "path": "values-lt/web_contents_delegate_android_strings.xml", 
+          "tag": 3980049369
+        }, 
+        {
+          "path": "values-lv/web_contents_delegate_android_strings.xml", 
+          "tag": 1402377601
+        }, 
+        {
+          "path": "values-nb/web_contents_delegate_android_strings.xml", 
+          "tag": 1756840856
+        }, 
+        {
+          "path": "values-nl/web_contents_delegate_android_strings.xml", 
+          "tag": 2146512950
+        }, 
+        {
+          "path": "values-pl/web_contents_delegate_android_strings.xml", 
+          "tag": 37553890
+        }, 
+        {
+          "path": "values-pt-rBR/web_contents_delegate_android_strings.xml", 
+          "tag": 2164071702
+        }, 
+        {
+          "path": "values-pt-rPT/web_contents_delegate_android_strings.xml", 
+          "tag": 3365748020
+        }, 
+        {
+          "path": "values-ro/web_contents_delegate_android_strings.xml", 
+          "tag": 2563308390
+        }, 
+        {
+          "path": "values-ru/web_contents_delegate_android_strings.xml", 
+          "tag": 2525830291
+        }, 
+        {
+          "path": "values-sk/web_contents_delegate_android_strings.xml", 
+          "tag": 3051657949
+        }, 
+        {
+          "path": "values-sl/web_contents_delegate_android_strings.xml", 
+          "tag": 2763309345
+        }, 
+        {
+          "path": "values-sr/web_contents_delegate_android_strings.xml", 
+          "tag": 2323387744
+        }, 
+        {
+          "path": "values-sv/web_contents_delegate_android_strings.xml", 
+          "tag": 578449492
+        }, 
+        {
+          "path": "values-sw/web_contents_delegate_android_strings.xml", 
+          "tag": 343387727
+        }, 
+        {
+          "path": "values-th/web_contents_delegate_android_strings.xml", 
+          "tag": 1103036067
+        }, 
+        {
+          "path": "values-tl/web_contents_delegate_android_strings.xml", 
+          "tag": 214406584
+        }, 
+        {
+          "path": "values-tr/web_contents_delegate_android_strings.xml", 
+          "tag": 719163894
+        }, 
+        {
+          "path": "values-uk/web_contents_delegate_android_strings.xml", 
+          "tag": 2634839579
+        }, 
+        {
+          "path": "values-vi/web_contents_delegate_android_strings.xml", 
+          "tag": 3750919941
+        }, 
+        {
+          "path": "values-zh-rCN/web_contents_delegate_android_strings.xml", 
+          "tag": 2889483248
+        }, 
+        {
+          "path": "values-zh-rTW/web_contents_delegate_android_strings.xml", 
+          "tag": 2181262917
+        }, 
+        {
+          "path": "values/web_contents_delegate_android_strings.xml", 
+          "tag": 3309823331
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "1db5a2ec7d22b404a8c8e94b9c36cb53"
+}

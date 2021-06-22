@@ -1,0 +1,557 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/blink/public/mojom/mojom_core_java.dex.jar"
+  ], 
+  "files-md5": "3bedb794f6d6c2f6c453778639d1b9de", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/blink/public/mojom/mojom_core_java.jar", 
+      "tag": "e1569372c99e23093cf56255fb05945c", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$ServiceWorkerObjectHostPostMessageToServiceWorkerParams.class", 
+          "tag": 43293004
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostClearCachedMetadataParams.class", 
+          "tag": 867471546
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostSkipWaitingResponseParamsProxyToResponder.class", 
+          "tag": 2481515311
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostEnableNavigationPreloadParams.class", 
+          "tag": 3247966887
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$OpenPaymentHandlerWindowResponse.class", 
+          "tag": 984741046
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerUpdateViaCache.class", 
+          "tag": 3238236599
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenNewTabResponseParamsProxyToResponder.class", 
+          "tag": 2214553373
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$Stub.class", 
+          "tag": 1909589326
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost$GetNavigationPreloadStateResponse.class", 
+          "tag": 3686449979
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostFocusClientResponseParams.class", 
+          "tag": 1668242098
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$FocusClientResponse.class", 
+          "tag": 1942639731
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$NavigateClientResponse.class", 
+          "tag": 3661966208
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$OpenNewTabResponse.class", 
+          "tag": 3456995194
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/CloneableMessage.class", 
+          "tag": 3979662802
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientsResponseParamsProxyToResponder.class", 
+          "tag": 1920346630
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostPostMessageToClientParams.class", 
+          "tag": 1288498094
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostEnableNavigationPreloadResponseParams.class", 
+          "tag": 3850606448
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$Proxy.class", 
+          "tag": 3724594421
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientResponseParamsProxyToResponder.class", 
+          "tag": 2598433487
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject_Internal$1.class", 
+          "tag": 2869016299
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject_Internal.class", 
+          "tag": 2816367788
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUnregisterParams.class", 
+          "tag": 635806119
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenPaymentHandlerWindowResponseParams.class", 
+          "tag": 2998441628
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$GetClientResponse.class", 
+          "tag": 2052163285
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost$TerminateForTestingResponse.class", 
+          "tag": 3303761470
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject_Internal$Stub.class", 
+          "tag": 4033380892
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal$1.class", 
+          "tag": 1407900423
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject.class", 
+          "tag": 2343639569
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$1.class", 
+          "tag": 1398082239
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostSetCachedMetadataParams.class", 
+          "tag": 2366254998
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUpdateResponseParamsProxyToResponder.class", 
+          "tag": 1592367848
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostGetNavigationPreloadStateParams.class", 
+          "tag": 3178201104
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostGetNavigationPreloadStateResponseParamsProxyToResponder.class", 
+          "tag": 2519616346
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$Stub.class", 
+          "tag": 3676972841
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$SkipWaitingResponse.class", 
+          "tag": 473126085
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenNewTabResponseParams.class", 
+          "tag": 4268534827
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal$Proxy.class", 
+          "tag": 1606445213
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostClaimClientsParams.class", 
+          "tag": 3652337076
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$ServiceWorkerObjectHostTerminateForTestingResponseParamsProxyToResponder.class", 
+          "tag": 373936135
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostNavigateClientResponseParams.class", 
+          "tag": 2836504716
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUpdateResponseParams.class", 
+          "tag": 1072744671
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost.class", 
+          "tag": 2267163645
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal.class", 
+          "tag": 1154117055
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostSetNavigationPreloadHeaderResponseParamsForwardToCallback.class", 
+          "tag": 2439863005
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal$ServiceWorkerRegistrationObjectSetUpdateViaCacheParams.class", 
+          "tag": 2914371627
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal$Stub.class", 
+          "tag": 3657612536
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$GetClientsResponse.class", 
+          "tag": 1526345427
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject.class", 
+          "tag": 2189924450
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost$Proxy.class", 
+          "tag": 4136196495
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$ServiceWorkerObjectHostTerminateForTestingResponseParams.class", 
+          "tag": 3823563965
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectInfo.class", 
+          "tag": 1022962594
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationOptions.class", 
+          "tag": 3991846527
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject$Proxy.class", 
+          "tag": 1417756369
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostEnableNavigationPreloadResponseParamsProxyToResponder.class", 
+          "tag": 1341852439
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostFocusClientResponseParamsForwardToCallback.class", 
+          "tag": 2844633475
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost$EnableNavigationPreloadResponse.class", 
+          "tag": 3026036834
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostFocusClientParams.class", 
+          "tag": 4049148344
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$ServiceWorkerObjectHostTerminateForTestingParams.class", 
+          "tag": 3138752576
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostSkipWaitingParams.class", 
+          "tag": 2681380038
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$1.class", 
+          "tag": 3985277344
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenNewTabResponseParamsForwardToCallback.class", 
+          "tag": 1266233821
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$1.class", 
+          "tag": 2006451
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUpdateParams.class", 
+          "tag": 1384861623
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostSetNavigationPreloadHeaderParams.class", 
+          "tag": 955355323
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$Proxy.class", 
+          "tag": 2309623197
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostEnableNavigationPreloadResponseParamsForwardToCallback.class", 
+          "tag": 3352630561
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostSetNavigationPreloadHeaderResponseParamsProxyToResponder.class", 
+          "tag": 559102672
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal$ServiceWorkerRegistrationObjectSetVersionAttributesParams.class", 
+          "tag": 3540304152
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenPaymentHandlerWindowResponseParamsForwardToCallback.class", 
+          "tag": 3411434070
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostNavigateClientParams.class", 
+          "tag": 1549410668
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostSkipWaitingResponseParams.class", 
+          "tag": 2166229928
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost$SetNavigationPreloadHeaderResponse.class", 
+          "tag": 3229849304
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostNavigateClientResponseParamsForwardToCallback.class", 
+          "tag": 2360895086
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenPaymentHandlerWindowParams.class", 
+          "tag": 3070158688
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostSkipWaitingResponseParamsForwardToCallback.class", 
+          "tag": 3752599180
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost$Proxy.class", 
+          "tag": 1920051242
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientParams.class", 
+          "tag": 1635776765
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUpdateResponseParamsForwardToCallback.class", 
+          "tag": 1452573944
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost.class", 
+          "tag": 854550382
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientsResponseParams.class", 
+          "tag": 471673586
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TransferableMessage.class", 
+          "tag": 1316531160
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostGetNavigationPreloadStateResponseParams.class", 
+          "tag": 3483083716
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenNewTabParams.class", 
+          "tag": 3040837848
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectInfo.class", 
+          "tag": 1560358818
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientsParams.class", 
+          "tag": 3399822040
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal.class", 
+          "tag": 120811829
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientResponseParamsForwardToCallback.class", 
+          "tag": 116917269
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUnregisterResponseParams.class", 
+          "tag": 4187677396
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectConstants.class", 
+          "tag": 4001149778
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost.class", 
+          "tag": 2101382532
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$ServiceWorkerObjectHostTerminateForTestingResponseParamsForwardToCallback.class", 
+          "tag": 1069712815
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$ClaimClientsResponse.class", 
+          "tag": 3552779917
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost$Proxy.class", 
+          "tag": 3804982518
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostFocusClientResponseParamsProxyToResponder.class", 
+          "tag": 3308148111
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$Stub.class", 
+          "tag": 3150524838
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal.class", 
+          "tag": 3716363278
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostGetNavigationPreloadStateResponseParamsForwardToCallback.class", 
+          "tag": 547675904
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationConstants.class", 
+          "tag": 773807471
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost$UpdateResponse.class", 
+          "tag": 1209400869
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostClaimClientsResponseParams.class", 
+          "tag": 3692953549
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObjectHost_Internal$Proxy.class", 
+          "tag": 3127080665
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost$UnregisterResponse.class", 
+          "tag": 3242523905
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostNavigateClientResponseParamsProxyToResponder.class", 
+          "tag": 3261529139
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUnregisterResponseParamsProxyToResponder.class", 
+          "tag": 288179180
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostClaimClientsResponseParamsForwardToCallback.class", 
+          "tag": 2928018025
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostOpenPaymentHandlerWindowResponseParamsProxyToResponder.class", 
+          "tag": 2878699717
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject_Internal$Proxy.class", 
+          "tag": 1607339398
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostClaimClientsResponseParamsProxyToResponder.class", 
+          "tag": 3249086589
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientResponseParams.class", 
+          "tag": 3214054659
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal.class", 
+          "tag": 2318479431
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject$Proxy.class", 
+          "tag": 526030433
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObject_Internal$ServiceWorkerRegistrationObjectUpdateFoundParams.class", 
+          "tag": 3045343050
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostSetNavigationPreloadHeaderResponseParams.class", 
+          "tag": 1331469214
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerRegistrationObjectHost_Internal$ServiceWorkerRegistrationObjectHostUnregisterResponseParamsForwardToCallback.class", 
+          "tag": 3043421797
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerHost_Internal$ServiceWorkerHostGetClientsResponseParamsForwardToCallback.class", 
+          "tag": 3829577947
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/ServiceWorkerObject_Internal$ServiceWorkerObjectStateChangedParams.class", 
+          "tag": 2246710041
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "a0cb603084d6ec21b1a7e44f4c3cefc3"
+}

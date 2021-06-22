@@ -1,0 +1,2109 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/feed/feed_lib_proto_java.dex.jar"
+  ], 
+  "files-md5": "a492dbc81acdb891bb5adb4e9b21a9f9", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/feed/feed_lib_proto_java.jar", 
+      "tag": "bb9945cacb14dee07a9e79d92e142234", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamFeatureOrBuilder.class", 
+          "tag": 3808173683
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSharedState$ShareStateCase.class", 
+          "tag": 2767054484
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSharedState$Builder.class", 
+          "tag": 3719320933
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSharedStateOrBuilder.class", 
+          "tag": 2983892302
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamCursor$Builder.class", 
+          "tag": 2725378087
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamToken.class", 
+          "tag": 196393451
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamToken$Builder.class", 
+          "tag": 3062534849
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSessionOrBuilder.class", 
+          "tag": 2880428159
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamAction$Builder.class", 
+          "tag": 2632629146
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSessions.class", 
+          "tag": 736343957
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamFeature.class", 
+          "tag": 1502350038
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSharedState.class", 
+          "tag": 3283709816
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamActionOrBuilder.class", 
+          "tag": 2485655587
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSession$Builder.class", 
+          "tag": 1160510920
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamStructure$Operation$1.class", 
+          "tag": 1294281339
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamDataOperation$Builder.class", 
+          "tag": 1024376463
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamDataOperation.class", 
+          "tag": 326871898
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto.class", 
+          "tag": 1106852925
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamStructure$Operation.class", 
+          "tag": 3380451124
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSession.class", 
+          "tag": 413776910
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamStructure.class", 
+          "tag": 1845983445
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSessionsOrBuilder.class", 
+          "tag": 3595437344
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamAction.class", 
+          "tag": 2667449963
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamSessions$Builder.class", 
+          "tag": 3252800622
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamCursorOrBuilder.class", 
+          "tag": 2324150806
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamFeature$FeaturePayloadCase.class", 
+          "tag": 2548202100
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamFeature$Builder.class", 
+          "tag": 2373034619
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamPayloadOrBuilder.class", 
+          "tag": 711231900
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamStructureOrBuilder.class", 
+          "tag": 1644709833
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamPayload.class", 
+          "tag": 3374217159
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamStructure$Builder.class", 
+          "tag": 4048495207
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$1.class", 
+          "tag": 2729073227
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamTokenOrBuilder.class", 
+          "tag": 1594743299
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamPayload$PayloadCase.class", 
+          "tag": 3172163938
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamDataOperationOrBuilder.class", 
+          "tag": 2566265578
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamPayload$Builder.class", 
+          "tag": 1126825021
+        }, 
+        {
+          "path": "com/google/search/now/feed/client/StreamDataProto$StreamCursor.class", 
+          "tag": 412303582
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionPayloadProto.class", 
+          "tag": 4108276842
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedAction$Builder.class", 
+          "tag": 120611140
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$LabelledFeedActionData.class", 
+          "tag": 1820745579
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$OpenContextMenuDataOrBuilder.class", 
+          "tag": 1905842058
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$DismissData$Builder.class", 
+          "tag": 3083028935
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$OpenUrlData.class", 
+          "tag": 2616659272
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionMetadata$Type.class", 
+          "tag": 364146292
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedAction.class", 
+          "tag": 514697665
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$1.class", 
+          "tag": 725263347
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionMetadata$Builder.class", 
+          "tag": 1649281985
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto.class", 
+          "tag": 3725899820
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$OpenContextMenuData$Builder.class", 
+          "tag": 1944669126
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/PietExtensionsProto$PietFeedActionPayloadOrBuilder.class", 
+          "tag": 4063196503
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionMetadata$DataCase.class", 
+          "tag": 4280689957
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionMetadata$Type$1.class", 
+          "tag": 1456171597
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionPayloadProto$FeedActionPayload.class", 
+          "tag": 299649970
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionOrBuilder.class", 
+          "tag": 2967240983
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$OpenContextMenuData.class", 
+          "tag": 2046779688
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$LabelledFeedActionData$Builder.class", 
+          "tag": 3507762905
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$LabelledFeedActionDataOrBuilder.class", 
+          "tag": 2202695418
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionPayloadProto$FeedActionPayloadOrBuilder.class", 
+          "tag": 259342544
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$OpenUrlData$Builder.class", 
+          "tag": 1472382999
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$OpenUrlDataOrBuilder.class", 
+          "tag": 371567205
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionMetadata.class", 
+          "tag": 2719464371
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/PietExtensionsProto$PietFeedActionPayload.class", 
+          "tag": 1054384459
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/PietExtensionsProto$PietFeedActionPayload$Builder.class", 
+          "tag": 2629631674
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionPayloadProto$FeedActionPayload$Builder.class", 
+          "tag": 2849209553
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$DismissDataOrBuilder.class", 
+          "tag": 1015343626
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/PietExtensionsProto.class", 
+          "tag": 1424794148
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$FeedActionMetadataOrBuilder.class", 
+          "tag": 738788392
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionPayloadProto$1.class", 
+          "tag": 817813706
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$DismissData.class", 
+          "tag": 1662701924
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$DownloadDataOrBuilder.class", 
+          "tag": 3280539621
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$DownloadData.class", 
+          "tag": 3327550454
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/PietExtensionsProto$1.class", 
+          "tag": 2829154895
+        }, 
+        {
+          "path": "com/google/search/now/ui/action/FeedActionProto$DownloadData$Builder.class", 
+          "tag": 3367501513
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Stream$Builder.class", 
+          "tag": 738683168
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Stream.class", 
+          "tag": 2110313203
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamExtensionsProto$SwipeActionExtension$Builder.class", 
+          "tag": 1682116574
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Content$Type.class", 
+          "tag": 2330263476
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$ContentOrBuilder.class", 
+          "tag": 3754159193
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Card$Builder.class", 
+          "tag": 3446183082
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto.class", 
+          "tag": 2772042529
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Cluster$Builder.class", 
+          "tag": 1125871564
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamExtensionsProto.class", 
+          "tag": 2314300461
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$1.class", 
+          "tag": 1286576092
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamExtensionsProto$SwipeActionExtensionOrBuilder.class", 
+          "tag": 2466003656
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$CardOrBuilder.class", 
+          "tag": 2819034394
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Cluster.class", 
+          "tag": 3671720073
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Content$Type$1.class", 
+          "tag": 4103682630
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$PietContent.class", 
+          "tag": 1046911919
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$PietContent$Builder.class", 
+          "tag": 1856691212
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$ClusterOrBuilder.class", 
+          "tag": 1886027790
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Content.class", 
+          "tag": 83419560
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Content$Builder.class", 
+          "tag": 3720085765
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$Card.class", 
+          "tag": 3404853073
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$StreamOrBuilder.class", 
+          "tag": 958186569
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamExtensionsProto$1.class", 
+          "tag": 2598695513
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamStructureProto$PietContentOrBuilder.class", 
+          "tag": 1188649604
+        }, 
+        {
+          "path": "com/google/search/now/ui/stream/StreamExtensionsProto$SwipeActionExtension.class", 
+          "tag": 1254308308
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ParameterizedTextBindingRefOrBuilder.class", 
+          "tag": 3078718081
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$1.class", 
+          "tag": 3784147727
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$StyleBindingRef$Builder.class", 
+          "tag": 1080280595
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssStyleHelper.class", 
+          "tag": 3868483141
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$HostBindingDataOrBuilder.class", 
+          "tag": 2464438895
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Element$ElementsCase.class", 
+          "tag": 569780654
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ChunkOrBuilder.class", 
+          "tag": 1697440625
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$ImageSourceOrBuilder.class", 
+          "tag": 791219927
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$VisibilityActionOrBuilder.class", 
+          "tag": 252239597
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingValue$Builder.class", 
+          "tag": 1618183718
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$Selectable$Builder.class", 
+          "tag": 227788383
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$Shadow$Builder.class", 
+          "tag": 4036672918
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElementDataOrBuilder.class", 
+          "tag": 2457398460
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$Chunk$Builder.class", 
+          "tag": 26392402
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto.class", 
+          "tag": 461234569
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Font$Builder.class", 
+          "tag": 2514261277
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$BoundStyle.class", 
+          "tag": 3882617456
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ImageBindingRefOrBuilder.class", 
+          "tag": 773297405
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$StylesheetOrBuilder.class", 
+          "tag": 1197391026
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingValue.class", 
+          "tag": 1308753695
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCell.class", 
+          "tag": 145080592
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledTextChunk$Builder.class", 
+          "tag": 2800291703
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledTextChunkOrBuilder.class", 
+          "tag": 2522234642
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$BoundStyle$Builder.class", 
+          "tag": 3406473783
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$TemplateBindingRef$Builder.class", 
+          "tag": 1598953134
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$VedBindingRef$Builder.class", 
+          "tag": 3332563420
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ChunkedText$Builder.class", 
+          "tag": 2049865396
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Template$TemplateStylesheetCase.class", 
+          "tag": 3743829240
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElementData$Builder.class", 
+          "tag": 1457958417
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GravityHorizontal$1.class", 
+          "tag": 4146388967
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$LinearGradient.class", 
+          "tag": 1903652619
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$1.class", 
+          "tag": 1192970026
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ChunkedTextOrBuilder.class", 
+          "tag": 1199369152
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$SpacerElementOrBuilder.class", 
+          "tag": 3602095173
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$Actions.class", 
+          "tag": 3126595784
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$TextArea$Builder.class", 
+          "tag": 3336306774
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridRow.class", 
+          "tag": 3784548137
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$BordersOrBuilder.class", 
+          "tag": 724494435
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$VedBindingRef.class", 
+          "tag": 2932532551
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$OverflowBehavior$1.class", 
+          "tag": 2528323732
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$VisibilityAction.class", 
+          "tag": 2879052516
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto$RoundedCorners$Corners.class", 
+          "tag": 1448941172
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$StyleIdsStackHelperOrBuilder.class", 
+          "tag": 2190227928
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssRoundedCornersHelper.class", 
+          "tag": 1147884031
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$BoxShadow$Builder.class", 
+          "tag": 3188713272
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto$RoundedCornersOrBuilder.class", 
+          "tag": 2220004177
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledTextChunk$ContentCase.class", 
+          "tag": 4033822462
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Template$Builder.class", 
+          "tag": 1223745131
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$LocationOrBuilder.class", 
+          "tag": 2817724284
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$GridCellWidthBindingRef.class", 
+          "tag": 3781513294
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$Checkable$Builder.class", 
+          "tag": 2070645492
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElement.class", 
+          "tag": 1899240724
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Font$FontWeight.class", 
+          "tag": 1571834043
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$Actions$Builder.class", 
+          "tag": 3749098181
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$ImageSource.class", 
+          "tag": 1857051935
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElementData$Builder.class", 
+          "tag": 3391255615
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Element$ActionsDataCase.class", 
+          "tag": 3991442132
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ImageElement$ContentCase.class", 
+          "tag": 2959969543
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$GridCellWidthBindingRefOrBuilder.class", 
+          "tag": 3511943530
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto.class", 
+          "tag": 540633065
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedTextOrBuilder.class", 
+          "tag": 4209060431
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GravityHorizontal.class", 
+          "tag": 4011502648
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GravityVertical$1.class", 
+          "tag": 25966783
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$SelectableOrBuilder.class", 
+          "tag": 1340025094
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto.class", 
+          "tag": 368215879
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElementOrBuilder.class", 
+          "tag": 2272213402
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TemplateInvocation$Builder.class", 
+          "tag": 2295146289
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElement$ContentCase.class", 
+          "tag": 1196579135
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$Selectable.class", 
+          "tag": 670311882
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$Chunk$ContentCase.class", 
+          "tag": 3128335117
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietAndroidSupport$1.class", 
+          "tag": 1979450832
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$Chunk$ActionsDataCase.class", 
+          "tag": 1555056355
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ModuleBindingRefOrBuilder.class", 
+          "tag": 3207926264
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$Slider.class", 
+          "tag": 1722226553
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$TextAreaOrBuilder.class", 
+          "tag": 3783671097
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$VisibilityAction$Builder.class", 
+          "tag": 3474407537
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietAndroidSupport$ShardingControl.class", 
+          "tag": 3084394585
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$InlineStyleOrBuilder.class", 
+          "tag": 2964363050
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto.class", 
+          "tag": 2054601092
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto$RoundedCorners$Corners$1.class", 
+          "tag": 2452110390
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssBorderHelperOrBuilder.class", 
+          "tag": 3071432275
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElementData.class", 
+          "tag": 277074628
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$FillOrBuilder.class", 
+          "tag": 1044528036
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Content$Builder.class", 
+          "tag": 3351623765
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Stylesheet.class", 
+          "tag": 245890962
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$1.class", 
+          "tag": 1341125768
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElement$Builder.class", 
+          "tag": 3188509665
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto.class", 
+          "tag": 1443645136
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssBorderHelper$Builder.class", 
+          "tag": 694146929
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ElementListBindingRefOrBuilder.class", 
+          "tag": 2264696128
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Template.class", 
+          "tag": 943627787
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$StyleIdsStackHelper$Builder.class", 
+          "tag": 1736423448
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Font$FontWeight$1.class", 
+          "tag": 1849779853
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$AccessibilityRole.class", 
+          "tag": 3559730625
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$Accessibility$Builder.class", 
+          "tag": 3578420947
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ChunkedText.class", 
+          "tag": 853340442
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$LinearGradientOrBuilder.class", 
+          "tag": 1312978013
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ModuleBindingRef$Builder.class", 
+          "tag": 1182059236
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Style.class", 
+          "tag": 1443136987
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$CustomBindingRefOrBuilder.class", 
+          "tag": 729260321
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$Fill$FillTypeCase.class", 
+          "tag": 2478653552
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$FormField$FormFieldTypeCase.class", 
+          "tag": 1216965604
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto$1.class", 
+          "tag": 42885971
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedText.class", 
+          "tag": 2503313935
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingContext$Builder.class", 
+          "tag": 2161619963
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridRow$Builder.class", 
+          "tag": 1862232969
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledImageChunk.class", 
+          "tag": 389822604
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$Slider$Builder.class", 
+          "tag": 1365832968
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$BoundStyleOrBuilder.class", 
+          "tag": 2778590404
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElementOrBuilder.class", 
+          "tag": 2991267691
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$1.class", 
+          "tag": 2881833769
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedText$Parameter$ParameterTypesCase.class", 
+          "tag": 1627108266
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$AccessibilityRole$1.class", 
+          "tag": 3235638520
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$PietSharedState.class", 
+          "tag": 2117746424
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$HostBindingData$Builder.class", 
+          "tag": 2632551563
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ElementBindingRef.class", 
+          "tag": 922994075
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$Fill.class", 
+          "tag": 473966013
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElement.class", 
+          "tag": 214282668
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledTextChunk.class", 
+          "tag": 2875645206
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TextElement.class", 
+          "tag": 3508945988
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingContextOrBuilder.class", 
+          "tag": 2799622727
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElement$Builder.class", 
+          "tag": 2747064775
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$InlineStyle$Builder.class", 
+          "tag": 1915836459
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$Action$Builder.class", 
+          "tag": 2787320227
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$Action.class", 
+          "tag": 3179537993
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$Chunk.class", 
+          "tag": 1453634225
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$CheckableOrBuilder.class", 
+          "tag": 40019237
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Frame$FrameStyleScopeCase.class", 
+          "tag": 3990839405
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto.class", 
+          "tag": 1298257257
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Slice.class", 
+          "tag": 1637325319
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$LinearGradient$Builder.class", 
+          "tag": 2617244088
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ImageElement$Builder.class", 
+          "tag": 2674426358
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$BorderOrBuilder.class", 
+          "tag": 3425733564
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingContext.class", 
+          "tag": 434076300
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingValue$ValuesCase.class", 
+          "tag": 2859536284
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCellOrBuilder.class", 
+          "tag": 200927404
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$ActionsOrBuilder.class", 
+          "tag": 2966612542
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$FormFieldOrBuilder.class", 
+          "tag": 2496988664
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TextElementOrBuilder.class", 
+          "tag": 1019059830
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$ImageSource$Builder.class", 
+          "tag": 2441668126
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Style$Builder.class", 
+          "tag": 3659246738
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$EdgeWidths.class", 
+          "tag": 4040351211
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$StyleBindingRefOrBuilder.class", 
+          "tag": 731516841
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Slice$SliceInstanceCase.class", 
+          "tag": 3679348138
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ElementListBindingRef.class", 
+          "tag": 453343897
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCellWidthOrBuilder.class", 
+          "tag": 1702343541
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$ColorStop$Builder.class", 
+          "tag": 3107039436
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledImageChunkOrBuilder.class", 
+          "tag": 821671169
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$1.class", 
+          "tag": 3155593270
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Slice$Builder.class", 
+          "tag": 1230709956
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssRoundedCornersHelperOrBuilder.class", 
+          "tag": 257449653
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GravityVertical.class", 
+          "tag": 3024210949
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Element$VedValueCase.class", 
+          "tag": 946320123
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$PietSharedState$Builder.class", 
+          "tag": 3637451487
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$EdgeWidthsOrBuilder.class", 
+          "tag": 1496108738
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ChunkedTextBindingRef$Builder.class", 
+          "tag": 1976958508
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingValue$Visibility.class", 
+          "tag": 1463720070
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$SpacerElement$Builder.class", 
+          "tag": 3817449512
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto.class", 
+          "tag": 413581493
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ElementListBindingRef$Builder.class", 
+          "tag": 2494162818
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TemplateInvocation.class", 
+          "tag": 3578894713
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ChunkedTextBindingRef.class", 
+          "tag": 1512063997
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Border$Builder.class", 
+          "tag": 2878889322
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ContentOrBuilder.class", 
+          "tag": 2225453289
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$Image.class", 
+          "tag": 835251487
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto.class", 
+          "tag": 2167162039
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ElementList.class", 
+          "tag": 3042535029
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$TemplateBindingRefOrBuilder.class", 
+          "tag": 1720360123
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ActionsProto$ActionOrBuilder.class", 
+          "tag": 3924399169
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$TemplateOrBuilder.class", 
+          "tag": 827052050
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto$RoundedCorners$Builder.class", 
+          "tag": 2499288837
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$1.class", 
+          "tag": 1361319997
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$Image$Builder.class", 
+          "tag": 3056809477
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$ImageOrBuilder.class", 
+          "tag": 2296564472
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$Image$ScaleType$1.class", 
+          "tag": 128024493
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$GridCellWidthBindingRef$Builder.class", 
+          "tag": 1295086857
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$StyleIdsStack.class", 
+          "tag": 1322677597
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$BoxShadow.class", 
+          "tag": 1120082900
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Font.class", 
+          "tag": 3026748687
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingValue$Visibility$1.class", 
+          "tag": 279306985
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$SliderOrBuilder.class", 
+          "tag": 2476483583
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$FormField.class", 
+          "tag": 3300056005
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TemplateInvocationOrBuilder.class", 
+          "tag": 1168359424
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$ColorStop.class", 
+          "tag": 1650749872
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$StyleOrBuilder.class", 
+          "tag": 1669937327
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ActionsBindingRef.class", 
+          "tag": 2357648326
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TextElement$Builder.class", 
+          "tag": 1010341983
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$SliceOrBuilder.class", 
+          "tag": 1688865094
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$PietSharedStateOrBuilder.class", 
+          "tag": 3141135268
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ImageElement.class", 
+          "tag": 1269533494
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$StyleBindingRef.class", 
+          "tag": 3418851120
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$StyleIdsStack$Builder.class", 
+          "tag": 2627826951
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElementDataOrBuilder.class", 
+          "tag": 1633498920
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ElementList$Builder.class", 
+          "tag": 4095868151
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$Fill$Builder.class", 
+          "tag": 1441554778
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Stylesheet$Builder.class", 
+          "tag": 1734259318
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCell$CellContentCase.class", 
+          "tag": 3623080699
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$SpacerElement.class", 
+          "tag": 867765295
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedText$Builder.class", 
+          "tag": 1406796772
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$StyleIdsStackOrBuilder.class", 
+          "tag": 2269798085
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Borders.class", 
+          "tag": 529934268
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssStyleHelper$Builder.class", 
+          "tag": 127828073
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedText$Parameter$Builder.class", 
+          "tag": 1534105170
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/GradientsProto$ColorStopOrBuilder.class", 
+          "tag": 1405254119
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$FrameOrBuilder.class", 
+          "tag": 1045411072
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietAndroidSupport.class", 
+          "tag": 3155714658
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$CustomElement$ContentCase.class", 
+          "tag": 2102393870
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ElementList$ActionsDataCase.class", 
+          "tag": 4157905912
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Element$Builder.class", 
+          "tag": 960283500
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ParameterizedTextBindingRef.class", 
+          "tag": 2208764921
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ImageBindingRef.class", 
+          "tag": 2361597010
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$HostBindingData.class", 
+          "tag": 845156474
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$Checkable.class", 
+          "tag": 2546136054
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCellWidth$Builder.class", 
+          "tag": 4174816885
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$1.class", 
+          "tag": 3522235475
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridRowOrBuilder.class", 
+          "tag": 377077840
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ModuleElementData.class", 
+          "tag": 3378808053
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCellWidth$WidthSpecCase.class", 
+          "tag": 2476216544
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto$RoundedCorners.class", 
+          "tag": 3968061649
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ElementOrBuilder.class", 
+          "tag": 4052697280
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ModuleBindingRef.class", 
+          "tag": 539694786
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Content.class", 
+          "tag": 1279451712
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ActionsBindingRefOrBuilder.class", 
+          "tag": 2243847441
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$BindingValueOrBuilder.class", 
+          "tag": 2378925358
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledImageChunk$ContentCase.class", 
+          "tag": 3388577552
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$TextElement$ContentCase.class", 
+          "tag": 321736049
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietAndroidSupport$ShardingControl$Builder.class", 
+          "tag": 99744279
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$StyleIdsStackHelper.class", 
+          "tag": 1181129861
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$1.class", 
+          "tag": 2313451056
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$InlineStyle.class", 
+          "tag": 2317160938
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$AccessibilityOrBuilder.class", 
+          "tag": 559410428
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$Location.class", 
+          "tag": 4105280968
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$BoxShadowOrBuilder.class", 
+          "tag": 3630241535
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ImagesProto$Image$ScaleType.class", 
+          "tag": 501746433
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ElementBindingRefOrBuilder.class", 
+          "tag": 2038725460
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Frame.class", 
+          "tag": 1348119924
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedText$Parameter.class", 
+          "tag": 313509373
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$EdgeWidths$Builder.class", 
+          "tag": 723040281
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$Location$Builder.class", 
+          "tag": 3869883710
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$1.class", 
+          "tag": 4136788505
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCellWidth.class", 
+          "tag": 3422321919
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$FontOrBuilder.class", 
+          "tag": 2879644023
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto.class", 
+          "tag": 913545554
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Content$ContentTypeCase.class", 
+          "tag": 3184743206
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$Accessibility$1.class", 
+          "tag": 3694605329
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto.class", 
+          "tag": 2470107324
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$InputType.class", 
+          "tag": 2807897681
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$TemplateBindingRef.class", 
+          "tag": 335272535
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$OverflowBehavior.class", 
+          "tag": 1430781831
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Borders$Builder.class", 
+          "tag": 1610442162
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$Accessibility.class", 
+          "tag": 481674379
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCell$Builder.class", 
+          "tag": 1685946460
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/RoundedCornersProto.class", 
+          "tag": 3774830848
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietAndroidSupport$ShardingControlOrBuilder.class", 
+          "tag": 2671423722
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$Element.class", 
+          "tag": 1957833022
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/AccessibilityProto$1.class", 
+          "tag": 3470999045
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssStyleHelperOrBuilder.class", 
+          "tag": 3001304333
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$FormField$Builder.class", 
+          "tag": 1927655018
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssBorderHelper.class", 
+          "tag": 1705818364
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ChunkedTextBindingRefOrBuilder.class", 
+          "tag": 20515282
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$Frame$Builder.class", 
+          "tag": 4000726788
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport.class", 
+          "tag": 1814430498
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$ParameterizedText$ParameterOrBuilder.class", 
+          "tag": 2733963039
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$CssRoundedCornersHelper$Builder.class", 
+          "tag": 237294236
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$TextArea.class", 
+          "tag": 2171224558
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/StylesProto$Border.class", 
+          "tag": 2505163083
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietProto$1.class", 
+          "tag": 3690770809
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ParameterizedTextBindingRef$Builder.class", 
+          "tag": 3373495413
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ImageElementOrBuilder.class", 
+          "tag": 2707512621
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ActionsBindingRef$Builder.class", 
+          "tag": 1730031169
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$ShadowOrBuilder.class", 
+          "tag": 2135145369
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto.class", 
+          "tag": 960761914
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/FormFieldsProto$InputType$1.class", 
+          "tag": 1298284506
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ShadowsProto$Shadow.class", 
+          "tag": 2238453761
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/PietHtmlSupport$1.class", 
+          "tag": 3952692196
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$ElementListOrBuilder.class", 
+          "tag": 202120778
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/TextProto$StyledImageChunk$Builder.class", 
+          "tag": 2889725831
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$VedBindingRefOrBuilder.class", 
+          "tag": 557088605
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/ElementsProto$GridCell$CellWidthCase.class", 
+          "tag": 1503550343
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$CustomBindingRef$Builder.class", 
+          "tag": 2402535522
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$CustomBindingRef.class", 
+          "tag": 3277552289
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ImageBindingRef$Builder.class", 
+          "tag": 2983296017
+        }, 
+        {
+          "path": "com/google/search/now/ui/piet/BindingRefsProto$ElementBindingRef$Builder.class", 
+          "tag": 1064908656
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PayloadMetadataProto.class", 
+          "tag": 1705866671
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$Action.class", 
+          "tag": 3175282060
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PayloadMetadataProto$1.class", 
+          "tag": 2678004533
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedRequestProto$FeedRequest$Builder.class", 
+          "tag": 3448852503
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/TokenProto$Token.class", 
+          "tag": 2605380050
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto.class", 
+          "tag": 135259933
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ContentIdProto$ContentId.class", 
+          "tag": 3839429099
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedResponseProto.class", 
+          "tag": 171708824
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/TokenProto.class", 
+          "tag": 4206446300
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto$Feature.class", 
+          "tag": 4117261720
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto$FeedQuery$RequestReason$1.class", 
+          "tag": 3425509148
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$FeedActionQueryData.class", 
+          "tag": 3565856746
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfo$AppType$1.class", 
+          "tag": 1777327885
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedCardProto$FeedCardOrBuilder.class", 
+          "tag": 4022650555
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedStreamProto$FeedStreamOrBuilder.class", 
+          "tag": 3339206660
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto$RequestOrBuilder.class", 
+          "tag": 3877094660
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$FeedActionQueryDataOrBuilder.class", 
+          "tag": 1934989462
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PayloadMetadataProto$PayloadMetadata.class", 
+          "tag": 658378414
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$Version$BuildType$1.class", 
+          "tag": 4034017776
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PietSharedStateItemProto$PietSharedStateItem.class", 
+          "tag": 1822529228
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$1.class", 
+          "tag": 3477741578
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$FeedActionQueryDataItemOrBuilder.class", 
+          "tag": 3370958837
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto$Request$RequestVersion$1.class", 
+          "tag": 4117182516
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto$FeedQueryOrBuilder.class", 
+          "tag": 3806722453
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ContentIdProto.class", 
+          "tag": 404755549
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$VersionOrBuilder.class", 
+          "tag": 3591942486
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfo$Builder.class", 
+          "tag": 3328430791
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedCardProto$FeedCard.class", 
+          "tag": 3162547125
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto$Response.class", 
+          "tag": 4066570189
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedResponseProto$FeedResponseOrBuilder.class", 
+          "tag": 2739333405
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto$1.class", 
+          "tag": 1682257904
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto$1.class", 
+          "tag": 3404988067
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto$Response$Builder.class", 
+          "tag": 3393894926
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$FeedActionQueryDataItem$Builder.class", 
+          "tag": 645528352
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$DataOperation$Builder.class", 
+          "tag": 2485054706
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$Version$Architecture$1.class", 
+          "tag": 737962225
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedResponseProto$FeedResponse.class", 
+          "tag": 2531998906
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$DataOperation$PayloadCase.class", 
+          "tag": 3665354963
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$DataOperation.class", 
+          "tag": 2288054686
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PietSharedStateItemProto$PietSharedStateItem$Builder.class", 
+          "tag": 2227982692
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$DataOperation$Operation.class", 
+          "tag": 2928271281
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/TokenProto$1.class", 
+          "tag": 870439619
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PietSharedStateItemProto$PietSharedStateItemOrBuilder.class", 
+          "tag": 1537158564
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ActionTypeProto.class", 
+          "tag": 2920762960
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedRequestProto$FeedRequestOrBuilder.class", 
+          "tag": 1436532543
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$Version.class", 
+          "tag": 761438361
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto.class", 
+          "tag": 4166846666
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$Version$Architecture.class", 
+          "tag": 2763281709
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfo$AppType.class", 
+          "tag": 909357851
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto$Request$Builder.class", 
+          "tag": 3046085570
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedStreamProto$FeedStream$Builder.class", 
+          "tag": 4010593870
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto$FeedQuery$Builder.class", 
+          "tag": 2010691579
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ActionTypeProto$ActionType$1.class", 
+          "tag": 3076389831
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedRequestProto$FeedRequest.class", 
+          "tag": 127969118
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto.class", 
+          "tag": 1812934264
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ActionTypeProto$ActionType.class", 
+          "tag": 435692625
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfo$PlatformType.class", 
+          "tag": 1257337714
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto.class", 
+          "tag": 1027227411
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$Version$Builder.class", 
+          "tag": 2619372797
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfo$PlatformType$1.class", 
+          "tag": 2508231652
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto$Request$RequestVersion.class", 
+          "tag": 1218107949
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto$Response$ResponseVersion.class", 
+          "tag": 2616569138
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/SemanticPropertiesProto$SemanticProperties$Builder.class", 
+          "tag": 663670484
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto$FeedQuery$RequestReason.class", 
+          "tag": 2024273505
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedCardProto$1.class", 
+          "tag": 4049783182
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto.class", 
+          "tag": 896309938
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$DataOperationOrBuilder.class", 
+          "tag": 2008422902
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/SemanticPropertiesProto$SemanticProperties.class", 
+          "tag": 3794169414
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto$FeatureOrBuilder.class", 
+          "tag": 712920499
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/TokenProto$Token$Builder.class", 
+          "tag": 778777254
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$Action$Builder.class", 
+          "tag": 1421074541
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedResponseProto$FeedResponse$Builder.class", 
+          "tag": 4005335725
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PayloadMetadataProto$PayloadMetadata$Builder.class", 
+          "tag": 2778351720
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfoOrBuilder.class", 
+          "tag": 1291114919
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$1.class", 
+          "tag": 194663655
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$FeedActionQueryDataItem.class", 
+          "tag": 608739674
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto$FeedQuery.class", 
+          "tag": 1717468830
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$1.class", 
+          "tag": 842769690
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$FeedActionQueryData$Builder.class", 
+          "tag": 114872522
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/DataOperationProto$DataOperation$Operation$1.class", 
+          "tag": 3867900181
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedStreamProto$1.class", 
+          "tag": 2742474191
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PietSharedStateItemProto.class", 
+          "tag": 3186896638
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/SemanticPropertiesProto$SemanticPropertiesOrBuilder.class", 
+          "tag": 3273764500
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedQueryProto.class", 
+          "tag": 333292938
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto.class", 
+          "tag": 799602431
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/SemanticPropertiesProto.class", 
+          "tag": 3527075718
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto$1.class", 
+          "tag": 2903057689
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedCardProto$FeedCard$Builder.class", 
+          "tag": 722248479
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto$Response$ResponseVersion$1.class", 
+          "tag": 3540170911
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto$Feature$RenderableUnit.class", 
+          "tag": 3619175485
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PietSharedStateItemProto$1.class", 
+          "tag": 2645836456
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto$Feature$RenderableUnit$1.class", 
+          "tag": 3956391867
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ResponseProto$ResponseOrBuilder.class", 
+          "tag": 97805562
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ClientInfoProto$ClientInfo.class", 
+          "tag": 1196277652
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedRequestProto.class", 
+          "tag": 2296978190
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedStreamProto.class", 
+          "tag": 2103459102
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto$Request.class", 
+          "tag": 54593327
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ContentIdProto$1.class", 
+          "tag": 856729034
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/VersionProto$Version$BuildType.class", 
+          "tag": 12276024
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/RequestProto$1.class", 
+          "tag": 561197919
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/PayloadMetadataProto$PayloadMetadataOrBuilder.class", 
+          "tag": 191886255
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$1.class", 
+          "tag": 4000279164
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ContentIdProto$ContentIdOrBuilder.class", 
+          "tag": 1452810099
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeatureProto$Feature$Builder.class", 
+          "tag": 167071714
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedStreamProto$FeedStream.class", 
+          "tag": 3124801085
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/TokenProto$TokenOrBuilder.class", 
+          "tag": 611300022
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedRequestProto$1.class", 
+          "tag": 603379360
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedCardProto.class", 
+          "tag": 834203743
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto$ActionOrBuilder.class", 
+          "tag": 3539671494
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedActionQueryDataProto.class", 
+          "tag": 4224245047
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/FeedResponseProto$1.class", 
+          "tag": 4272693353
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/ContentIdProto$ContentId$Builder.class", 
+          "tag": 1648924696
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/SemanticPropertiesProto$1.class", 
+          "tag": 2499687332
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$MockUpdate$Builder.class", 
+          "tag": 2721801002
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$MockUpdate.class", 
+          "tag": 3039319881
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$ConditionalResponse$Builder.class", 
+          "tag": 3077939253
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$ConditionalResponseOrBuilder.class", 
+          "tag": 2962802232
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$1.class", 
+          "tag": 2055790299
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$MockServer.class", 
+          "tag": 3906922960
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$ConditionalResponse.class", 
+          "tag": 2292654529
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$MockServerOrBuilder.class", 
+          "tag": 3502208672
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto.class", 
+          "tag": 851636213
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$MockServer$Builder.class", 
+          "tag": 3131529652
+        }, 
+        {
+          "path": "com/google/search/now/wire/feed/mockserver/MockServerProto$MockUpdateOrBuilder.class", 
+          "tag": 777461272
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "41e1939ee82d590e044f488f1c0395cd"
+}

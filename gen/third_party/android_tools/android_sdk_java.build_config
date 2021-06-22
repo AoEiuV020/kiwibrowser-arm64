@@ -1,0 +1,29 @@
+{
+  "deps_info": {
+    "deps_configs": [],
+    "dex_path": "gen/third_party/android_tools/android_sdk_java.dex.jar",
+    "interface_jar_path": "lib.java/third_party/android_tools/android.interface.jar",
+    "jar_path": "lib.java/third_party/android_tools/android.jar",
+    "javac_full_classpath": [],
+    "javac_full_interface_classpath": [],
+    "name": "android_sdk_java.build_config",
+    "path": "gen/third_party/android_tools/android_sdk_java.build_config",
+    "requires_android": false,
+    "supports_android": true,
+    "type": "system_java_library",
+    "unprocessed_jar_path": "../../third_party/android_tools/sdk/platforms/android-29/android.jar"
+  },
+  "gradle": {
+    "bundled_srcjars": [],
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": []
+  },
+  "javac": {
+    "bootclasspath": [],
+    "classpath": [],
+    "interface_classpath": [],
+    "processor_classes": [],
+    "processor_classpath": []
+  }
+}

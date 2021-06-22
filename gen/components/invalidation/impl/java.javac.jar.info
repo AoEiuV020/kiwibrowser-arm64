@@ -1,0 +1,3 @@
+org.chromium.components.invalidation.InvalidationClientService,../../components/invalidation/impl/android/java/src/org/chromium/components/invalidation/InvalidationClientService.java
+org.chromium.components.invalidation.PendingInvalidation,../../components/invalidation/impl/android/java/src/org/chromium/components/invalidation/PendingInvalidation.java
+org.chromium.components.invalidation.InvalidationService,../../components/invalidation/impl/android/java/src/org/chromium/components/invalidation/InvalidationService.java

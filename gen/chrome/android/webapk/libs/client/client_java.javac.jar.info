@@ -1,0 +1,7 @@
+org.chromium.webapk.lib.client.WebApkVerifySignature,../../chrome/android/webapk/libs/client/src/org/chromium/webapk/lib/client/WebApkVerifySignature.java
+org.chromium.webapk.lib.client.WebApkServiceConnectionManager,../../chrome/android/webapk/libs/client/src/org/chromium/webapk/lib/client/WebApkServiceConnectionManager.java
+org.chromium.webapk.lib.client.WebApkIdentityServiceClient,../../chrome/android/webapk/libs/client/src/org/chromium/webapk/lib/client/WebApkIdentityServiceClient.java
+org.chromium.webapk.lib.client.WebApkVersion,gen/chrome/android/webapk/libs/client/runtime_library_version_java.srcjar
+org.chromium.webapk.lib.client.WebApkValidator,../../chrome/android/webapk/libs/client/src/org/chromium/webapk/lib/client/WebApkValidator.java
+org.chromium.webapk.lib.client.WebApkNavigationClient,../../chrome/android/webapk/libs/client/src/org/chromium/webapk/lib/client/WebApkNavigationClient.java
+org.chromium.webapk.lib.client.DexOptimizer,../../chrome/android/webapk/libs/client/src/org/chromium/webapk/lib/client/DexOptimizer.java

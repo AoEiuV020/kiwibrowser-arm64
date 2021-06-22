@@ -1,0 +1,251 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/media/capture/video/android/capture_java__lint/config.xml"
+  ], 
+  "files-md5": "f133d15951e26362e0baa543a3b0b6e5", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/media/capture/video/android/capture_java.javac.jar", 
+      "tag": "697f32f7307bbfd6d55cc3b7d63f7c2f", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrPhotoSessionListener.class", 
+          "tag": 2054707765
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera$BuggyDeviceHack.class", 
+          "tag": 1875418151
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera$CrPictureCallback.class", 
+          "tag": 360706329
+        }, 
+        {
+          "path": "org/chromium/media/VideoCapture.class", 
+          "tag": 1735521337
+        }, 
+        {
+          "path": "org/chromium/media/PhotoCapabilities.class", 
+          "tag": 2339613974
+        }, 
+        {
+          "path": "org/chromium/media/VideoFacingMode.class", 
+          "tag": 1802859735
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CameraState.class", 
+          "tag": 2705861683
+        }, 
+        {
+          "path": "org/chromium/media/AndroidImageFormat.class", 
+          "tag": 3419829067
+        }, 
+        {
+          "path": "org/chromium/media/PhotoCapabilities$Builder.class", 
+          "tag": 3433896584
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$1.class", 
+          "tag": 4117205322
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrPreviewSessionListener$1.class", 
+          "tag": 3654091310
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2.class", 
+          "tag": 3949856927
+        }, 
+        {
+          "path": "org/chromium/media/VideoCapture$FramerateRange.class", 
+          "tag": 3798493015
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrStateListener.class", 
+          "tag": 217174572
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureFactory.class", 
+          "tag": 2495352401
+        }, 
+        {
+          "path": "org/chromium/media/VideoCapture$1.class", 
+          "tag": 4267231647
+        }, 
+        {
+          "path": "org/chromium/media/AndroidFillLightMode.class", 
+          "tag": 325342969
+        }, 
+        {
+          "path": "org/chromium/media/AndroidMeteringMode.class", 
+          "tag": 2099733287
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureFormat.class", 
+          "tag": 3427025237
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureApi.class", 
+          "tag": 3092373454
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureFactory$ChromiumCameraInfo.class", 
+          "tag": 485196999
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera$CrErrorCallback.class", 
+          "tag": 314072170
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrPhotoReaderListener.class", 
+          "tag": 2597632926
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrPreviewReaderListener.class", 
+          "tag": 1575558589
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera.class", 
+          "tag": 396170261
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera$1.class", 
+          "tag": 2378829091
+        }, 
+        {
+          "path": "org/chromium/media/VideoCaptureCamera2$CrPreviewSessionListener.class", 
+          "tag": 2924037355
+        }
+      ]
+    }, 
+    {
+      "path": "../../media/capture/video/android/java/src/org/chromium/media/PhotoCapabilities.java", 
+      "tag": "901e80a365f35728f66f5d724d0f2271"
+    }, 
+    {
+      "path": "../../media/capture/video/android/java/src/org/chromium/media/VideoCapture.java", 
+      "tag": "2ad2da0d8605fe5ba4b34b27cf0ee00d"
+    }, 
+    {
+      "path": "../../media/capture/video/android/java/src/org/chromium/media/VideoCaptureCamera.java", 
+      "tag": "ef47ed56ad6a51c41bce507d82994b8c"
+    }, 
+    {
+      "path": "../../media/capture/video/android/java/src/org/chromium/media/VideoCaptureCamera2.java", 
+      "tag": "29b063989f0e094b2ffce619676c291a"
+    }, 
+    {
+      "path": "../../media/capture/video/android/java/src/org/chromium/media/VideoCaptureFactory.java", 
+      "tag": "ab99620eade3d4ec9b57762a9e56687d"
+    }, 
+    {
+      "path": "../../media/capture/video/android/java/src/org/chromium/media/VideoCaptureFormat.java", 
+      "tag": "a1e65e70edd5b0377aa659c3c1158fc3"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_annotations.interface.jar", 
+      "tag": "f831b51b730af50ca145513631459cf4"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "961318abb848d4ed39112f720a1ef328"
+}

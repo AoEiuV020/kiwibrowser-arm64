@@ -1,0 +1,205 @@
+{
+  "input-strings": [], 
+  "files-md5": "73d116da65db784198d825371ec02cfd", 
+  "input-files": [
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/content/public/android/content_java.interface.jar", 
+      "tag": "572c1dc78571f2f1a4a064b21340a926"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_full_java.interface.jar", 
+      "tag": "813eb7847cac5ce2b6876c88debd02da"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_utils_java.interface.jar", 
+      "tag": "eb4e5ee13546d5c2ddf82165145e0074"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/components/web_contents_delegate_android/web_contents_delegate_android_java__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "49a63f0a6e5fc4fe72a4649c97e955c7", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid$1.class", 
+          "tag": 2252297336
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$dimen.class", 
+          "tag": 248977044
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$id.class", 
+          "tag": 3797390201
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog.class", 
+          "tag": 77254927
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerAdvanced.class", 
+          "tag": 1109677815
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$color.class", 
+          "tag": 1929837119
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$1.class", 
+          "tag": 2532664389
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.class", 
+          "tag": 288969774
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.class", 
+          "tag": 815624322
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$drawable.class", 
+          "tag": 1597932430
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerSimple.class", 
+          "tag": 3091627936
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorSuggestion.class", 
+          "tag": 1926328570
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorSuggestionListAdapter$OnColorSuggestionClickListener.class", 
+          "tag": 1447762128
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$4.class", 
+          "tag": 3421285851
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R.class", 
+          "tag": 1775455852
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$string.class", 
+          "tag": 3371798951
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/OnColorChangedListener.class", 
+          "tag": 693665711
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorSuggestionListAdapter.class", 
+          "tag": 218098069
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$2.class", 
+          "tag": 4181869611
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/R$layout.class", 
+          "tag": 538559061
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerAdvancedComponent.class", 
+          "tag": 121588921
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerMoreButton.class", 
+          "tag": 2562964206
+        }, 
+        {
+          "path": "org/chromium/components/web_contents_delegate_android/ColorPickerDialog$3.class", 
+          "tag": 641016170
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

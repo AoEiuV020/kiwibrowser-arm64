@@ -1,0 +1,581 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/ui/android/ui_full_java.dex.jar"
+  ], 
+  "files-md5": "d1905850129a0dd3bdda39d5d64416e6", 
+  "input-files": [
+    {
+      "path": "lib.java/ui/android/ui_full_java.jar", 
+      "tag": "f413901ced3dd0c8272418b07a5e7c87", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/blink_public/web/WebCursorInfoType.class", 
+          "tag": 2072742132
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowImpl$2.class", 
+          "tag": 3297118988
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownItemBase.class", 
+          "tag": 4242433192
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor$1.class", 
+          "tag": 3131996875
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowImpl.class", 
+          "tag": 2790056021
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowJellyBean$1.class", 
+          "tag": 3589756806
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowJellyBean$2.class", 
+          "tag": 1455940412
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownAdapter.class", 
+          "tag": 1741314871
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownItem.class", 
+          "tag": 1000035058
+        }, 
+        {
+          "path": "org/chromium/ui/HorizontalListDividerDrawable.class", 
+          "tag": 1069585981
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor$Listener.class", 
+          "tag": 2911194594
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindow.class", 
+          "tag": 539198513
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowInterface.class", 
+          "tag": 76338472
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownDividerDrawable.class", 
+          "tag": 2830593167
+        }, 
+        {
+          "path": "org/chromium/ui/VSyncMonitor.class", 
+          "tag": 3480016642
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowImpl$1.class", 
+          "tag": 2368606646
+        }, 
+        {
+          "path": "org/chromium/ui/DropdownPopupWindowJellyBean.class", 
+          "tag": 3955949641
+        }, 
+        {
+          "path": "org/chromium/ui/OverscrollRefreshHandler.class", 
+          "tag": 1672092750
+        }, 
+        {
+          "path": "org/chromium/ui/text/SpanApplier$SpanInfo.class", 
+          "tag": 2498745905
+        }, 
+        {
+          "path": "org/chromium/ui/text/NoUnderlineClickableSpan.class", 
+          "tag": 1496126169
+        }, 
+        {
+          "path": "org/chromium/ui/text/SpanApplier.class", 
+          "tag": 1662197606
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplaySwitches.class", 
+          "tag": 3687644048
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroidManager$DisplayListenerBackend.class", 
+          "tag": 323077257
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroidManager$DisplayListenerAPI16$1.class", 
+          "tag": 2649813833
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayUtil.class", 
+          "tag": 313232835
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroid$DisplayAndroidObserver.class", 
+          "tag": 3734510122
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroidManager$DisplayListenerAPI16.class", 
+          "tag": 3248057183
+        }, 
+        {
+          "path": "org/chromium/ui/display/VirtualDisplayAndroid.class", 
+          "tag": 4042011129
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroidManager$1.class", 
+          "tag": 4282414593
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroid.class", 
+          "tag": 676637384
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroidManager.class", 
+          "tag": 38895938
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroidManager$DisplayListenerBackendImpl.class", 
+          "tag": 2409977657
+        }, 
+        {
+          "path": "org/chromium/ui/display/PhysicalDisplayAndroid.class", 
+          "tag": 82242206
+        }, 
+        {
+          "path": "org/chromium/ui/display/DisplayAndroid$DisplayAndroidObserver$$CC.class", 
+          "tag": 972846950
+        }, 
+        {
+          "path": "org/chromium/ui/events/devices/InputDeviceObserver.class", 
+          "tag": 1494688184
+        }, 
+        {
+          "path": "org/chromium/ui/widget/AnchoredPopupWindow$1.class", 
+          "tag": 3331705358
+        }, 
+        {
+          "path": "org/chromium/ui/widget/RectProvider$Observer.class", 
+          "tag": 41914218
+        }, 
+        {
+          "path": "org/chromium/ui/widget/AnchoredPopupWindow$VerticalOrientation.class", 
+          "tag": 1036664076
+        }, 
+        {
+          "path": "org/chromium/ui/widget/ButtonCompat.class", 
+          "tag": 3176034532
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithLeading.class", 
+          "tag": 3593033451
+        }, 
+        {
+          "path": "org/chromium/ui/widget/RectProvider.class", 
+          "tag": 3277937173
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans$1.class", 
+          "tag": 2123840985
+        }, 
+        {
+          "path": "org/chromium/ui/widget/Toast$1.class", 
+          "tag": 2619604858
+        }, 
+        {
+          "path": "org/chromium/ui/widget/UiWidgetFactory.class", 
+          "tag": 523077856
+        }, 
+        {
+          "path": "org/chromium/ui/widget/Toast.class", 
+          "tag": 2909905102
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans$3.class", 
+          "tag": 389180768
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans$2.class", 
+          "tag": 3729203907
+        }, 
+        {
+          "path": "org/chromium/ui/widget/ChromeImageView.class", 
+          "tag": 2569320737
+        }, 
+        {
+          "path": "org/chromium/ui/widget/TextViewWithClickableSpans.class", 
+          "tag": 4033019997
+        }, 
+        {
+          "path": "org/chromium/ui/widget/ViewRectProvider.class", 
+          "tag": 2762460176
+        }, 
+        {
+          "path": "org/chromium/ui/widget/AnchoredPopupWindow$HorizontalOrientation.class", 
+          "tag": 556287143
+        }, 
+        {
+          "path": "org/chromium/ui/widget/AnchoredPopupWindow.class", 
+          "tag": 3011087881
+        }, 
+        {
+          "path": "org/chromium/ui/widget/AnchoredPopupWindow$LayoutObserver.class", 
+          "tag": 116073663
+        }, 
+        {
+          "path": "org/chromium/ui/widget/AnchoredPopupWindow$2.class", 
+          "tag": 1102039002
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog.class", 
+          "tag": 1925873768
+        }, 
+        {
+          "path": "org/chromium/ui/base/ViewAndroidDelegate.class", 
+          "tag": 1632781576
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$ActivityStateObserver.class", 
+          "tag": 3004941721
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$TouchExplorationMonitor$1.class", 
+          "tag": 3262984825
+        }, 
+        {
+          "path": "org/chromium/ui/base/MenuSourceType.class", 
+          "tag": 3204071401
+        }, 
+        {
+          "path": "org/chromium/ui/base/HoverType.class", 
+          "tag": 3957290447
+        }, 
+        {
+          "path": "org/chromium/ui/base/GestureEventType.class", 
+          "tag": 3316315491
+        }, 
+        {
+          "path": "org/chromium/ui/base/EventForwarder.class", 
+          "tag": 1676301079
+        }, 
+        {
+          "path": "org/chromium/ui/base/ViewAndroidDelegate$ContainerViewObserver.class", 
+          "tag": 935071604
+        }, 
+        {
+          "path": "org/chromium/ui/base/TouchDevice.class", 
+          "tag": 1094213559
+        }, 
+        {
+          "path": "org/chromium/ui/base/SPenSupport.class", 
+          "tag": 1801222601
+        }, 
+        {
+          "path": "org/chromium/ui/base/PermissionCallback.class", 
+          "tag": 808159089
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$TouchExplorationMonitor.class", 
+          "tag": 2376161329
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$2.class", 
+          "tag": 2590075805
+        }, 
+        {
+          "path": "org/chromium/ui/base/ResourceBundle.class", 
+          "tag": 1759191255
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog$GetCameraIntentTask.class", 
+          "tag": 3173553301
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid.class", 
+          "tag": 4279953155
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$OnCloseContextMenuListener.class", 
+          "tag": 3456092711
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog$1.class", 
+          "tag": 1391292124
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog$GetDisplayNameTask.class", 
+          "tag": 402935569
+        }, 
+        {
+          "path": "org/chromium/ui/base/SelectFileDialog$2.class", 
+          "tag": 3485149540
+        }, 
+        {
+          "path": "org/chromium/ui/base/LocalizationUtils.class", 
+          "tag": 3872540475
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityWindowAndroid.class", 
+          "tag": 3852455864
+        }, 
+        {
+          "path": "org/chromium/ui/base/AndroidPermissionDelegate.class", 
+          "tag": 228192989
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$KeyboardVisibilityListener.class", 
+          "tag": 26773960
+        }, 
+        {
+          "path": "org/chromium/ui/base/Clipboard.class", 
+          "tag": 2509129984
+        }, 
+        {
+          "path": "org/chromium/ui/base/PageTransition.class", 
+          "tag": 1668328688
+        }, 
+        {
+          "path": "org/chromium/ui/base/DeviceFormFactor.class", 
+          "tag": 2560794450
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$1.class", 
+          "tag": 2037861588
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityAndroidPermissionDelegate$1.class", 
+          "tag": 189448391
+        }, 
+        {
+          "path": "org/chromium/ui/base/ActivityAndroidPermissionDelegate.class", 
+          "tag": 775307759
+        }, 
+        {
+          "path": "org/chromium/ui/base/WindowAndroid$IntentCallback.class", 
+          "tag": 2164864284
+        }, 
+        {
+          "path": "org/chromium/ui/base/PointerType.class", 
+          "tag": 3166744773
+        }, 
+        {
+          "path": "org/chromium/ui/base/ViewUtils.class", 
+          "tag": 1744512343
+        }, 
+        {
+          "path": "org/chromium/ui/base/ime/TextInputType.class", 
+          "tag": 334671683
+        }, 
+        {
+          "path": "org/chromium/ui/interpolators/BakedBezierInterpolator.class", 
+          "tag": 574556608
+        }, 
+        {
+          "path": "org/chromium/ui/resources/Resource.class", 
+          "tag": 2698441932
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceManager.class", 
+          "tag": 1719424794
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceLoader$ResourceLoaderCallback.class", 
+          "tag": 919800266
+        }, 
+        {
+          "path": "org/chromium/ui/resources/LayoutResource.class", 
+          "tag": 1698202133
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceFactory.class", 
+          "tag": 3084722689
+        }, 
+        {
+          "path": "org/chromium/ui/resources/SystemUIResourceType.class", 
+          "tag": 3391558130
+        }, 
+        {
+          "path": "org/chromium/ui/resources/ResourceLoader.class", 
+          "tag": 2225468147
+        }, 
+        {
+          "path": "org/chromium/ui/resources/AndroidResourceType.class", 
+          "tag": 553829197
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/StaticResourceLoader$1.class", 
+          "tag": 2920259159
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/NinePatchData.class", 
+          "tag": 4279732529
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/StaticResourceLoader.class", 
+          "tag": 289066226
+        }, 
+        {
+          "path": "org/chromium/ui/resources/statics/StaticResource.class", 
+          "tag": 1001573670
+        }, 
+        {
+          "path": "org/chromium/ui/resources/async/AsyncPreloadResourceLoader.class", 
+          "tag": 1465094745
+        }, 
+        {
+          "path": "org/chromium/ui/resources/async/AsyncPreloadResourceLoader$AsyncLoadTask.class", 
+          "tag": 1809617018
+        }, 
+        {
+          "path": "org/chromium/ui/resources/async/AsyncPreloadResourceLoader$ResourceCreator.class", 
+          "tag": 3796639012
+        }, 
+        {
+          "path": "org/chromium/ui/resources/system/SystemResourceLoader$1.class", 
+          "tag": 1172413225
+        }, 
+        {
+          "path": "org/chromium/ui/resources/system/SystemResourceLoader.class", 
+          "tag": 3644685864
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater$1.class", 
+          "tag": 1510530813
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/DynamicResourceLoader.class", 
+          "tag": 177751298
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceAdapter.class", 
+          "tag": 3712394744
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/BitmapDynamicResource.class", 
+          "tag": 3960670480
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater.class", 
+          "tag": 2316464895
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater$ViewInflaterAdapter.class", 
+          "tag": 943370524
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/DynamicResource.class", 
+          "tag": 1154177893
+        }, 
+        {
+          "path": "org/chromium/ui/resources/dynamics/ViewResourceInflater$ViewInflaterOnDrawListener.class", 
+          "tag": 1468304891
+        }, 
+        {
+          "path": "org/chromium/ui/gl/SurfaceTexturePlatformWrapper.class", 
+          "tag": 432152412
+        }, 
+        {
+          "path": "org/chromium/ui/gl/SurfaceTextureListener.class", 
+          "tag": 2808126917
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapHelper.class", 
+          "tag": 2627164990
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/ViewConfigurationHelper$1.class", 
+          "tag": 595493587
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapHelper$1.class", 
+          "tag": 2277065041
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/ViewConfigurationHelper.class", 
+          "tag": 3947051160
+        }, 
+        {
+          "path": "org/chromium/ui/gfx/BitmapFormat.class", 
+          "tag": 1985041630
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "edf69982bcecfa9468d320bab23e89dc"
+}

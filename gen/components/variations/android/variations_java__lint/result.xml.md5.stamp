@@ -1,0 +1,155 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/components/variations/android/variations_java__lint/config.xml"
+  ], 
+  "files-md5": "884ce70596903bb9a0bc04e566f7b492", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/components/variations/android/variations_java.javac.jar", 
+      "tag": "586e7682dd29d8648c8f6567dce3392a", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/variations/VariationsAssociatedData.class", 
+          "tag": 999509537
+        }, 
+        {
+          "path": "org/chromium/components/variations/firstrun/VariationsSeedFetcher$SeedInfo.class", 
+          "tag": 710717525
+        }, 
+        {
+          "path": "org/chromium/components/variations/firstrun/VariationsSeedFetcher$VariationsPlatform.class", 
+          "tag": 1245664757
+        }, 
+        {
+          "path": "org/chromium/components/variations/firstrun/VariationsSeedFetcher$1.class", 
+          "tag": 664972984
+        }, 
+        {
+          "path": "org/chromium/components/variations/firstrun/VariationsSeedBridge.class", 
+          "tag": 3396826922
+        }, 
+        {
+          "path": "org/chromium/components/variations/firstrun/VariationsSeedFetcher.class", 
+          "tag": 200670553
+        }
+      ]
+    }, 
+    {
+      "path": "../../components/variations/android/java/src/org/chromium/components/variations/VariationsAssociatedData.java", 
+      "tag": "1998232ac55335f799b38c10c77d06e3"
+    }, 
+    {
+      "path": "../../components/variations/android/java/src/org/chromium/components/variations/firstrun/VariationsSeedBridge.java", 
+      "tag": "aa99cf382bc928f5ddfd1d756cb5dec9"
+    }, 
+    {
+      "path": "../../components/variations/android/java/src/org/chromium/components/variations/firstrun/VariationsSeedFetcher.java", 
+      "tag": "e3602f9f64122bc51ec04cdfe0b7aa41"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_core_utils_java.interface.jar", 
+      "tag": "94ef98e505c0d72b38188cf62125e08f"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "16a014423e79f1336459e7e3da9e49e0"
+}

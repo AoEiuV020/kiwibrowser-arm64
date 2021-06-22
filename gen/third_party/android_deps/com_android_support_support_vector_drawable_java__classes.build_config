@@ -1,0 +1,101 @@
+{
+  "android": {
+    "sdk_interface_jars": [
+      "lib.java/third_party/android_tools/android.interface.jar"
+    ],
+    "sdk_jars": [
+      "lib.java/third_party/android_tools/android.jar"
+    ]
+  },
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_deps/com_android_support_support_annotations_java.build_config",
+      "gen/third_party/android_deps/com_android_support_support_compat_java__classes.build_config",
+      "gen/third_party/android_deps/com_android_support_support_compat_java__res.build_config",
+      "gen/third_party/android_deps/com_android_support_support_vector_drawable_java__res.build_config",
+      "gen/build/android/buildhooks/build_hooks_java.build_config",
+      "gen/build/android/buildhooks/build_hooks_android_java.build_config",
+      "gen/third_party/android_tools/android_sdk_java.build_config"
+    ],
+    "dex_path": "gen/third_party/android_deps/com_android_support_support_vector_drawable_java__classes.dex.jar",
+    "gradle_treat_as_prebuilt": null,
+    "interface_jar_path": "lib.java/third_party/android_deps/com_android_support_support_vector_drawable_java.interface.jar",
+    "is_prebuilt": true,
+    "jar_path": "lib.java/third_party/android_deps/com_android_support_support_vector_drawable_java.jar",
+    "javac_full_classpath": [
+      "../../third_party/bazel/desugar/Desugar-runtime.jar",
+      "gen/build/android/buildhooks/build_hooks_java.javac.jar",
+      "../../third_party/android_deps/repository/com_android_support_support_annotations/support-annotations-27.0.0.jar",
+      "../../third_party/android_deps/repository/android_arch_core_common/common-1.0.0.jar",
+      "../../third_party/android_deps/repository/android_arch_lifecycle_common/common-1.0.0.jar",
+      "gen/build/android/buildhooks/build_hooks_android_java.javac.jar",
+      "gen/third_party/android_deps/android_arch_lifecycle_runtime_java/classes.jar",
+      "gen/third_party/android_deps/com_android_support_support_compat_java/classes.jar"
+    ],
+    "javac_full_interface_classpath": [
+      "lib.java/third_party/bazel/desugar/Desugar-runtime.interface.jar",
+      "lib.java/build/android/buildhooks/build_hooks_java.interface.jar",
+      "lib.java/third_party/android_deps/com_android_support_support_annotations.interface.jar",
+      "lib.java/third_party/android_deps/android_arch_core_common.interface.jar",
+      "lib.java/third_party/android_deps/android_arch_lifecycle_common.interface.jar",
+      "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar",
+      "lib.java/third_party/android_deps/android_arch_lifecycle_runtime_java.interface.jar",
+      "lib.java/third_party/android_deps/com_android_support_support_compat_java.interface.jar"
+    ],
+    "name": "com_android_support_support_vector_drawable_java__classes.build_config",
+    "owned_resource_srcjars": [
+      "gen/third_party/android_deps/android_arch_lifecycle_runtime_java__res.srcjar",
+      "gen/third_party/android_deps/com_android_support_support_compat_java__res.srcjar",
+      "gen/third_party/android_deps/com_android_support_support_vector_drawable_java__res.srcjar"
+    ],
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [
+      "resource_zips/third_party/android_deps/com_android_support_support_vector_drawable_java__res.resources.zip"
+    ],
+    "path": "gen/third_party/android_deps/com_android_support_support_vector_drawable_java__classes.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library",
+    "unprocessed_jar_path": "gen/third_party/android_deps/com_android_support_support_vector_drawable_java/classes.jar"
+  },
+  "gradle": {
+    "bootclasspath": [
+      "lib.java/third_party/android_tools/android.jar"
+    ],
+    "bundled_srcjars": [],
+    "dependent_android_projects": [
+      "gen/build/android/buildhooks/build_hooks_android_java.build_config"
+    ],
+    "dependent_java_projects": [
+      "gen/build/android/buildhooks/build_hooks_java.build_config"
+    ],
+    "dependent_prebuilt_jars": [
+      "lib.java/third_party/android_deps/com_android_support_support_annotations.jar",
+      "lib.java/third_party/android_deps/com_android_support_support_compat_java.jar"
+    ]
+  },
+  "javac": {
+    "bootclasspath": [
+      "lib.java/third_party/android_tools/android.jar"
+    ],
+    "classpath": [
+      "../../third_party/android_deps/repository/com_android_support_support_annotations/support-annotations-27.0.0.jar",
+      "gen/third_party/android_deps/com_android_support_support_compat_java/classes.jar",
+      "gen/build/android/buildhooks/build_hooks_java.javac.jar",
+      "gen/build/android/buildhooks/build_hooks_android_java.javac.jar"
+    ],
+    "interface_classpath": [
+      "lib.java/third_party/android_deps/com_android_support_support_annotations.interface.jar",
+      "lib.java/third_party/android_deps/com_android_support_support_compat_java.interface.jar",
+      "lib.java/build/android/buildhooks/build_hooks_java.interface.jar",
+      "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar"
+    ],
+    "processor_classes": [],
+    "processor_classpath": [],
+    "resource_packages": [
+      "android.arch.lifecycle",
+      "android.support.compat",
+      "android.support.graphics.drawable"
+    ]
+  }
+}

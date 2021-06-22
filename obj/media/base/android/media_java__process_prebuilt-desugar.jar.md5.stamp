@@ -1,0 +1,397 @@
+{
+  "input-strings": [], 
+  "files-md5": "361292fabd4666949378f302309d81fb", 
+  "input-files": [
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_annotations.interface.jar", 
+      "tag": "f831b51b730af50ca145513631459cf4"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/media/base/android/media_java__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "cff99b4923f247518503495d8a4e5b93", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/media/CodecProfileLevelList$UnsupportedCodecProfileException.class", 
+          "tag": 74090344
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$KeyStatus.class", 
+          "tag": 4060729192
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerBridge.class", 
+          "tag": 1150039261
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil$MediaCodecListHelper.class", 
+          "tag": 4263306569
+        }, 
+        {
+          "path": "org/chromium/media/AudioTrackOutputStream$Callback.class", 
+          "tag": 2906602549
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$4.class", 
+          "tag": 2202708843
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil.class", 
+          "tag": 3579589654
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge.class", 
+          "tag": 2185561940
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerBridge$LoadDataUriTask.class", 
+          "tag": 2065634030
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$MediaCryptoDeferrer.class", 
+          "tag": 1646719535
+        }, 
+        {
+          "path": "org/chromium/media/AudioRecordInput$AudioRecordThread.class", 
+          "tag": 1723758791
+        }, 
+        {
+          "path": "org/chromium/media/AudioTrackOutputStream$AudioBufferInfo.class", 
+          "tag": 3374225918
+        }, 
+        {
+          "path": "org/chromium/media/AudioRecordInput.class", 
+          "tag": 1100507824
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$EventListener.class", 
+          "tag": 2563594965
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$5.class", 
+          "tag": 1621308256
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$KeyUpdatedCallback.class", 
+          "tag": 1100713783
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$DequeueOutputResult.class", 
+          "tag": 4044863428
+        }, 
+        {
+          "path": "org/chromium/media/AudioRecordInput$1.class", 
+          "tag": 1979550655
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmSessionManager$SessionId.class", 
+          "tag": 2808466462
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$2.class", 
+          "tag": 617246091
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$AudioDeviceName.class", 
+          "tag": 1823289200
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil$MimeTypes.class", 
+          "tag": 1970441390
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$DequeueInputResult.class", 
+          "tag": 3139786612
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$1.class", 
+          "tag": 3889974148
+        }, 
+        {
+          "path": "org/chromium/media/CodecProfileLevelList$1.class", 
+          "tag": 3932207733
+        }, 
+        {
+          "path": "org/chromium/media/BitrateAdjuster$1.class", 
+          "tag": 1534920319
+        }, 
+        {
+          "path": "org/chromium/media/CipherMode.class", 
+          "tag": 1174069092
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerListener.class", 
+          "tag": 1990686069
+        }, 
+        {
+          "path": "org/chromium/media/BitrateAdjuster.class", 
+          "tag": 442383700
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$ExpirationUpdateListener.class", 
+          "tag": 2690760560
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$NonThreadSafe.class", 
+          "tag": 3728360329
+        }, 
+        {
+          "path": "org/chromium/media/AudioTrackOutputStream.class", 
+          "tag": 2006900288
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid.class", 
+          "tag": 2499540896
+        }, 
+        {
+          "path": "org/chromium/media/CodecProfileLevelList$CodecProfileLevelAdapter.class", 
+          "tag": 12475144
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$3.class", 
+          "tag": 1516130180
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecEncoder.class", 
+          "tag": 407229281
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$1.class", 
+          "tag": 959936414
+        }, 
+        {
+          "path": "org/chromium/media/CodecProfileLevelList.class", 
+          "tag": 1482187798
+        }, 
+        {
+          "path": "org/chromium/media/R.class", 
+          "tag": 3380321168
+        }, 
+        {
+          "path": "org/chromium/media/MediaSwitches.class", 
+          "tag": 2926441509
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecStatus.class", 
+          "tag": 3183008138
+        }, 
+        {
+          "path": "org/chromium/media/AudioTrackOutputStream$WorkerThread.class", 
+          "tag": 3265943657
+        }, 
+        {
+          "path": "org/chromium/media/HdrMetadata.class", 
+          "tag": 1364315598
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmStorageBridge.class", 
+          "tag": 1470523681
+        }, 
+        {
+          "path": "org/chromium/media/VideoCodecProfile.class", 
+          "tag": 375192423
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil$MediaCodecListHelper$CodecInfoIterator.class", 
+          "tag": 3253589633
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmSessionManager$SessionInfo.class", 
+          "tag": 2486324698
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmSessionManager.class", 
+          "tag": 4180662104
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$KeyStatusChangeListener$1.class", 
+          "tag": 3042844932
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$GetOutputFormatResult.class", 
+          "tag": 33260420
+        }, 
+        {
+          "path": "org/chromium/media/MediaServerCrashListener.class", 
+          "tag": 2323444392
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecDirection.class", 
+          "tag": 1065859550
+        }, 
+        {
+          "path": "org/chromium/media/VideoCodec.class", 
+          "tag": 3905608621
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridgeBuilder.class", 
+          "tag": 3677532542
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil$CodecCreationInfo.class", 
+          "tag": 2789190094
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$ExpirationUpdateListener$1.class", 
+          "tag": 3180220182
+        }, 
+        {
+          "path": "org/chromium/media/BitrateAdjuster$2.class", 
+          "tag": 1161900051
+        }, 
+        {
+          "path": "org/chromium/media/MediaPlayerBridge$AllowedOperations.class", 
+          "tag": 939103372
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmStorageBridge$PersistentInfo.class", 
+          "tag": 2091198989
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$2.class", 
+          "tag": 1633653627
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge.class", 
+          "tag": 2816187394
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil$HWEncoderProperties.class", 
+          "tag": 3586358076
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecUtil$1.class", 
+          "tag": 1979827721
+        }, 
+        {
+          "path": "org/chromium/media/R$raw.class", 
+          "tag": 3300212333
+        }, 
+        {
+          "path": "org/chromium/media/CodecType.class", 
+          "tag": 3727434316
+        }, 
+        {
+          "path": "org/chromium/media/MediaFormatBuilder.class", 
+          "tag": 250272754
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmSessionManager$1.class", 
+          "tag": 1376662908
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$SessionEventDeferrer.class", 
+          "tag": 3045475811
+        }, 
+        {
+          "path": "org/chromium/media/MediaCodecBridge$1.class", 
+          "tag": 4283636822
+        }, 
+        {
+          "path": "org/chromium/media/MediaDrmBridge$KeyStatusChangeListener.class", 
+          "tag": 598422221
+        }, 
+        {
+          "path": "org/chromium/media/AudioTrackOutputStream$1.class", 
+          "tag": 2341347414
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$3.class", 
+          "tag": 1686315900
+        }, 
+        {
+          "path": "org/chromium/media/AudioManagerAndroid$4.class", 
+          "tag": 3675404026
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

@@ -1,0 +1,197 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/mojo/public/mojom/base/base_java.dex.jar"
+  ], 
+  "files-md5": "b3dc8789188f769cce3b110ef44523ed", 
+  "input-files": [
+    {
+      "path": "lib.java/mojo/public/mojom/base/base_java.jar", 
+      "tag": "4fdcb0819b2af0ba8f8ffa8dbee6798f", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/FileInfo.class", 
+          "tag": 2252170286
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/Value$Tag.class", 
+          "tag": 1987404255
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigString16.class", 
+          "tag": 3724818837
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ThreadPriority.class", 
+          "tag": 758442600
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/String16.class", 
+          "tag": 1554503748
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ListValue.class", 
+          "tag": 2442391261
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/RefCountedMemory.class", 
+          "tag": 2667139437
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/FileError.class", 
+          "tag": 1330573348
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/DictionaryValue.class", 
+          "tag": 1155343053
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigBuffer.class", 
+          "tag": 1237763484
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ReadOnlySharedMemoryRegion.class", 
+          "tag": 1466024083
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/TimeTicks.class", 
+          "tag": 1574036866
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigBuffer$Tag.class", 
+          "tag": 965824169
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/WritableSharedMemoryRegion.class", 
+          "tag": 3030007235
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/UnguessableToken.class", 
+          "tag": 3466764108
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/MemoryAllocatorDumpCrossProcessUid.class", 
+          "tag": 2837165287
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/TimeDelta.class", 
+          "tag": 1199056205
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/Value.class", 
+          "tag": 4131120095
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/TextDirection.class", 
+          "tag": 300460151
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/FilePath.class", 
+          "tag": 2316594255
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/File.class", 
+          "tag": 216389592
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/UnsafeSharedMemoryRegion.class", 
+          "tag": 3735508407
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ProcessId.class", 
+          "tag": 2676133316
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigBufferSharedMemoryRegion.class", 
+          "tag": 1811843775
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigString.class", 
+          "tag": 1825671356
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/Time.class", 
+          "tag": 3533515550
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "99d2550c27a0bb873bee369be13bbef7"
+}

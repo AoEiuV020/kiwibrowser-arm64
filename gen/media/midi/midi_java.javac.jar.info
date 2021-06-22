@@ -1,0 +1,6 @@
+org.chromium.midi.MidiManagerAndroid,../../media/midi/java/src/org/chromium/midi/MidiManagerAndroid.java
+org.chromium.midi.MidiOutputPortAndroid,../../media/midi/java/src/org/chromium/midi/MidiOutputPortAndroid.java
+org.chromium.midi.MidiDeviceAndroid,../../media/midi/java/src/org/chromium/midi/MidiDeviceAndroid.java
+org.chromium.midi.MidiInputPortAndroid,../../media/midi/java/src/org/chromium/midi/MidiInputPortAndroid.java
+org.chromium.midi.UsbMidiDeviceAndroid,../../media/midi/java/src/org/chromium/midi/UsbMidiDeviceAndroid.java
+org.chromium.midi.UsbMidiDeviceFactoryAndroid,../../media/midi/java/src/org/chromium/midi/UsbMidiDeviceFactoryAndroid.java

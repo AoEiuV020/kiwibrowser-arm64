@@ -1,0 +1,14 @@
+android.support.coreui.R,gen/third_party/android_deps/com_android_support_support_core_ui_java__res.srcjar
+android.support.v7.mediarouter.R,gen/third_party/android_deps/com_android_support_mediarouter_v7_java__res.srcjar
+android.support.compat.R,gen/third_party/android_deps/com_android_support_support_compat_java__res.srcjar
+android.support.fragment.R,gen/third_party/android_deps/com_android_support_support_fragment_java__res.srcjar
+android.support.coreutils.R,gen/third_party/android_deps/com_android_support_support_core_utils_java__res.srcjar
+org.chromium.third_party.android.media.R,gen/third_party/android_media/android_media_resources.srcjar
+android.support.v4.R,gen/third_party/android_deps/com_android_support_support_v4_java__res.srcjar
+android.arch.lifecycle.R,gen/third_party/android_deps/android_arch_lifecycle_runtime_java__res.srcjar
+org.chromium.third_party.android.media.MediaController,../../third_party/android_media/java/src/org/chromium/third_party/android/media/MediaController.java
+android.support.v7.appcompat.R,gen/third_party/android_deps/com_android_support_appcompat_v7_java__res.srcjar
+android.support.mediacompat.R,gen/third_party/android_deps/com_android_support_support_media_compat_java__res.srcjar
+android.support.v7.palette.R,gen/third_party/android_deps/com_android_support_palette_v7_java__res.srcjar
+android.support.graphics.drawable.animated.R,gen/third_party/android_deps/com_android_support_animated_vector_drawable_java__res.srcjar
+android.support.graphics.drawable.R,gen/third_party/android_deps/com_android_support_support_vector_drawable_java__res.srcjar

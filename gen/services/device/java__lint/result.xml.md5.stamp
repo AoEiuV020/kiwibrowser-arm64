@@ -1,0 +1,183 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/services/device/java__lint/config.xml"
+  ], 
+  "files-md5": "c2e7f05d805dc2eb11c5ca73c15f4204", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/services/device/java.javac.jar", 
+      "tag": "e8ccd46d780b88c77aca95fd34c777e5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/services/device/InterfaceRegistrar.class", 
+          "tag": 1665057116
+        }
+      ]
+    }, 
+    {
+      "path": "../../services/device/android/java/src/org/chromium/services/device/InterfaceRegistrar.java", 
+      "tag": "05a375d97f85ff47a52c637141a315ed"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/device/geolocation/geolocation_java.interface.jar", 
+      "tag": "fc822953b0e64942a8c25b8bcd1e5cac"
+    }, 
+    {
+      "path": "lib.java/mojo/android/system_java.interface.jar", 
+      "tag": "dccfe2deb3b01c37ceb7f553513c965b"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/bindings_java.interface.jar", 
+      "tag": "0ffcb9623a4334fe858331af34a93783"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/system_java.interface.jar", 
+      "tag": "3c5878f028ccfef88e66d66ebd150540"
+    }, 
+    {
+      "path": "lib.java/services/device/battery/android/battery_monitor_java.interface.jar", 
+      "tag": "1ed7e732837a6d0be9dcd765a92d6f0c"
+    }, 
+    {
+      "path": "lib.java/services/device/generic_sensor/java.interface.jar", 
+      "tag": "7a9c55b12bd3417283a9e5012c758439"
+    }, 
+    {
+      "path": "lib.java/services/device/nfc/android/java.interface.jar", 
+      "tag": "5a42123ea5e3ca43ac7d7f7982ce9dae"
+    }, 
+    {
+      "path": "lib.java/services/device/public/java/nfc_java.interface.jar", 
+      "tag": "8ca7407fcbda0818ad20e662d0828e9d"
+    }, 
+    {
+      "path": "lib.java/services/device/public/mojom/mojom_java.interface.jar", 
+      "tag": "0ee88fe6c1343ac1303a8a3cee6a5e48"
+    }, 
+    {
+      "path": "lib.java/services/device/screen_orientation/java.interface.jar", 
+      "tag": "12df7e646eafdc8205f1f96db64590bf"
+    }, 
+    {
+      "path": "lib.java/services/device/time_zone_monitor/java.interface.jar", 
+      "tag": "cdfee4e380fbc235ed1d41019a487a18"
+    }, 
+    {
+      "path": "lib.java/services/device/vibration/android/vibration_manager_java.interface.jar", 
+      "tag": "95250ded1b475ecadc69c070c6e73b4e"
+    }, 
+    {
+      "path": "lib.java/services/device/wake_lock/power_save_blocker/java.interface.jar", 
+      "tag": "0b5d91439593a64e1cea1165d5888b04"
+    }, 
+    {
+      "path": "lib.java/services/service_manager/public/java/service_manager_java.interface.jar", 
+      "tag": "b333c0b4233189703185188e4daaf8ca"
+    }, 
+    {
+      "path": "lib.java/services/service_manager/public/mojom/mojom_java.interface.jar", 
+      "tag": "2e490a146ac0ae21d9b8d9af12445539"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "ecb5d41c59d93399fdff5ca0d9302522"
+}

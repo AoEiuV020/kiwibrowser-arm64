@@ -1,0 +1,6 @@
+org.chromium.device.geolocation.LocationProviderAdapter,../../device/geolocation/android/java/src/org/chromium/device/geolocation/LocationProviderAdapter.java
+com.google.android.gms.base.R,gen/third_party/android_tools/google_play_services_base_java__res.srcjar
+com.google.android.gms.R,gen/third_party/android_tools/google_play_services_basement_java__res.srcjar
+org.chromium.device.geolocation.LocationProviderFactory,../../device/geolocation/android/java/src/org/chromium/device/geolocation/LocationProviderFactory.java
+org.chromium.device.geolocation.LocationProviderGmsCore,../../device/geolocation/android/java/src/org/chromium/device/geolocation/LocationProviderGmsCore.java
+org.chromium.device.geolocation.LocationProviderAndroid,../../device/geolocation/android/java/src/org/chromium/device/geolocation/LocationProviderAndroid.java

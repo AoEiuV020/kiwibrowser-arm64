@@ -1,0 +1,413 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_tools/google_play_services_vision_java__classes.dex.jar"
+  ], 
+  "files-md5": "02b42e9c69a7a34456f50076fdcd2ae0", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_vision_java.jar", 
+      "tag": "054e0b63bbdfc250097bc0ac82ee68dd", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2282617941
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zza.class", 
+          "tag": 915891015
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$Address.class", 
+          "tag": 523561737
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$CalendarDateTime.class", 
+          "tag": 3005085252
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$CalendarEvent.class", 
+          "tag": 1404759221
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$ContactInfo.class", 
+          "tag": 2264164804
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$DriverLicense.class", 
+          "tag": 393951576
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$Email.class", 
+          "tag": 1152893685
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$GeoPoint.class", 
+          "tag": 4073596032
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$PersonName.class", 
+          "tag": 117122314
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$Phone.class", 
+          "tag": 2558518625
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$Sms.class", 
+          "tag": 1160601509
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$UrlBookmark.class", 
+          "tag": 4110041681
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode$WiFi.class", 
+          "tag": 4140196521
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/Barcode.class", 
+          "tag": 94143706
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzb.class", 
+          "tag": 2149771378
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzc.class", 
+          "tag": 833794377
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/BarcodeDetector$Builder.class", 
+          "tag": 3311313623
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/BarcodeDetector.class", 
+          "tag": 1782329357
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzd.class", 
+          "tag": 3424967740
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zze.class", 
+          "tag": 2646133240
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzf.class", 
+          "tag": 4147412501
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzg.class", 
+          "tag": 4028205600
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzh.class", 
+          "tag": 3976045393
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzi.class", 
+          "tag": 2555878193
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzj.class", 
+          "tag": 358600742
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzk.class", 
+          "tag": 3556368970
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzl.class", 
+          "tag": 1169842398
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzm.class", 
+          "tag": 496441092
+        }, 
+        {
+          "path": "com/google/android/gms/vision/barcode/zzn.class", 
+          "tag": 4208331370
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/Face.class", 
+          "tag": 2146321263
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/zza.class", 
+          "tag": 2469379414
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/FaceDetector$Builder.class", 
+          "tag": 1697463886
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/FaceDetector.class", 
+          "tag": 2057925750
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/Landmark.class", 
+          "tag": 3110726069
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/LargestFaceFocusingProcessor$Builder.class", 
+          "tag": 409207081
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/LargestFaceFocusingProcessor.class", 
+          "tag": 1529505079
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zza.class", 
+          "tag": 2541399224
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/FaceParcel.class", 
+          "tag": 803480887
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzb.class", 
+          "tag": 200418375
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzc.class", 
+          "tag": 2500454213
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzd.class", 
+          "tag": 3909837068
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzf.class", 
+          "tag": 2593004931
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zze.class", 
+          "tag": 1858042742
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzh.class", 
+          "tag": 3388936712
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzg.class", 
+          "tag": 3697641566
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/LandmarkParcel.class", 
+          "tag": 3794101310
+        }, 
+        {
+          "path": "com/google/android/gms/vision/face/internal/client/zzi.class", 
+          "tag": 855409002
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/Element.class", 
+          "tag": 1435732000
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/Line.class", 
+          "tag": 1293013931
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/Text.class", 
+          "tag": 2015160413
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/zza.class", 
+          "tag": 3406276400
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/TextBlock.class", 
+          "tag": 1940609717
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/zzb.class", 
+          "tag": 2445992689
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/TextRecognizer$Builder.class", 
+          "tag": 4143901984
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/TextRecognizer.class", 
+          "tag": 4036280569
+        }, 
+        {
+          "path": "com/google/android/gms/vision/text/zzc.class", 
+          "tag": 3718986610
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdkv.class", 
+          "tag": 1272351320
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdkw.class", 
+          "tag": 3685557564
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdkx.class", 
+          "tag": 1787613322
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdkz.class", 
+          "tag": 2124362241
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdky.class", 
+          "tag": 4261526902
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlb.class", 
+          "tag": 1400024116
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdla.class", 
+          "tag": 447494653
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlf.class", 
+          "tag": 1708172380
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlg.class", 
+          "tag": 3720059592
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdli.class", 
+          "tag": 1574811383
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlh.class", 
+          "tag": 256681314
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlk.class", 
+          "tag": 541347447
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlj.class", 
+          "tag": 4294211013
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdll.class", 
+          "tag": 2914246332
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlm.class", 
+          "tag": 2334953131
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdln.class", 
+          "tag": 1783435874
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlo.class", 
+          "tag": 1852386002
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlp.class", 
+          "tag": 2672742118
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlq.class", 
+          "tag": 4051087770
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlr.class", 
+          "tag": 1551494287
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdls.class", 
+          "tag": 1160975508
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlt.class", 
+          "tag": 3755428306
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlu.class", 
+          "tag": 3559539830
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlv.class", 
+          "tag": 3688136915
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "970cbb239ed46afd0d273aed941bbe62"
+}

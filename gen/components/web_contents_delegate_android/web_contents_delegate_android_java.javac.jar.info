@@ -1,0 +1,11 @@
+org.chromium.components.web_contents_delegate_android.ColorPickerAdvancedComponent,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerAdvancedComponent.java
+org.chromium.components.web_contents_delegate_android.ColorPickerDialog,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerDialog.java
+org.chromium.components.web_contents_delegate_android.ColorPickerMoreButton,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerMoreButton.java
+org.chromium.components.web_contents_delegate_android.ColorSuggestionListAdapter,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorSuggestionListAdapter.java
+org.chromium.components.web_contents_delegate_android.ColorPickerSimple,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerSimple.java
+org.chromium.components.web_contents_delegate_android.ColorChooserAndroid,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorChooserAndroid.java
+org.chromium.components.web_contents_delegate_android.WebContentsDelegateAndroid,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/WebContentsDelegateAndroid.java
+org.chromium.components.web_contents_delegate_android.OnColorChangedListener,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/OnColorChangedListener.java
+org.chromium.components.web_contents_delegate_android.R,gen/components/web_contents_delegate_android/web_contents_delegate_android_java_resources.srcjar
+org.chromium.components.web_contents_delegate_android.ColorSuggestion,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorSuggestion.java
+org.chromium.components.web_contents_delegate_android.ColorPickerAdvanced,../../components/web_contents_delegate_android/java/src/org/chromium/components/web_contents_delegate_android/ColorPickerAdvanced.java

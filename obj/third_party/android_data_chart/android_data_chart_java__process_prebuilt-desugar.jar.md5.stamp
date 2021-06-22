@@ -1,0 +1,177 @@
+{
+  "input-strings": [], 
+  "files-md5": "28b34505a7ccd2d8eb87b561e2326578", 
+  "input-files": [
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/third_party/android_data_chart/android_data_chart_java__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "e4b067c17e5624fa681781459ab47cf5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/third_party/android/R$attr.class", 
+          "tag": 923816350
+        }, 
+        {
+          "path": "org/chromium/third_party/android/R$id.class", 
+          "tag": 1016412682
+        }, 
+        {
+          "path": "org/chromium/third_party/android/R$styleable.class", 
+          "tag": 2914325270
+        }, 
+        {
+          "path": "org/chromium/third_party/android/R.class", 
+          "tag": 2155089196
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats$Entry.class", 
+          "tag": 3944260061
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats$NonMonotonicObserver.class", 
+          "tag": 2806747477
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartNetworkSeriesView.class", 
+          "tag": 1984974758
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$1.class", 
+          "tag": 3536023657
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartDataUsageView$TimeAxis.class", 
+          "tag": 267839403
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartDataUsageView.class", 
+          "tag": 1984990204
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$Entry.class", 
+          "tag": 3187451535
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$ParcelUtils.class", 
+          "tag": 3343999718
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartView.class", 
+          "tag": 3145577072
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/InvertedChartAxis.class", 
+          "tag": 4174050675
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats.class", 
+          "tag": 1047603263
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartAxis.class", 
+          "tag": 2920216539
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory.class", 
+          "tag": 492493091
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStats$1.class", 
+          "tag": 1517573998
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/NetworkStatsHistory$DataStreamUtils.class", 
+          "tag": 658761521
+        }, 
+        {
+          "path": "org/chromium/third_party/android/datausagechart/ChartDataUsageView$DataAxis.class", 
+          "tag": 2475129539
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

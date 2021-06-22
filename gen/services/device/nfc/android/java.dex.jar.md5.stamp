@@ -1,0 +1,149 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/services/device/nfc/android/java.dex.jar"
+  ], 
+  "files-md5": "5fa4b037310fdab98c3cf62b0b274b55", 
+  "input-files": [
+    {
+      "path": "lib.java/services/device/nfc/android/java.jar", 
+      "tag": "82334bd3a9e7a84ba77c05718bcaf82d", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcProviderImpl.class", 
+          "tag": 231890866
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl$1.class", 
+          "tag": 967174471
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl$2.class", 
+          "tag": 3049077412
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTypeConverter.class", 
+          "tag": 3391347395
+        }, 
+        {
+          "path": "org/chromium/device/nfc/InvalidNfcMessageException.class", 
+          "tag": 3611920723
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl.class", 
+          "tag": 2540962355
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler$NdefHandler.class", 
+          "tag": 1453380463
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl$ReaderCallbackHandler.class", 
+          "tag": 1970539551
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler$NdefFormattableHandler.class", 
+          "tag": 3525693949
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcProviderImpl$Factory.class", 
+          "tag": 432938719
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler.class", 
+          "tag": 1750982020
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcImpl$PendingPushOperation.class", 
+          "tag": 3210763858
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcTagHandler$TagTechnologyHandler.class", 
+          "tag": 670972010
+        }, 
+        {
+          "path": "org/chromium/device/nfc/NfcMessageValidator.class", 
+          "tag": 3467568625
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "abad12d142903528f165b155ee31495f"
+}

@@ -1,0 +1,705 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/protobuf/protobuf_lite_javalib.dex.jar"
+  ], 
+  "files-md5": "044270d98d8bcd2d8817de6f2908a4bc", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/protobuf/protobuf_lite_javalib.jar", 
+      "tag": "ce3740ef356c7a8029ebb1f046d1332d", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "com/google/protobuf/ExtensionLite.class", 
+          "tag": 1788832784
+        }, 
+        {
+          "path": "com/google/protobuf/Utf8$UnsafeProcessor.class", 
+          "tag": 3760982861
+        }, 
+        {
+          "path": "com/google/protobuf/UnmodifiableLazyStringList$2.class", 
+          "tag": 2342737578
+        }, 
+        {
+          "path": "com/google/protobuf/UnmodifiableLazyStringList$1.class", 
+          "tag": 2637600602
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite.class", 
+          "tag": 3080541062
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$ListAdapter$Converter.class", 
+          "tag": 254334059
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$AbstractBufferedEncoder.class", 
+          "tag": 829345136
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$ExtendableMessage$ExtensionWriter.class", 
+          "tag": 4125455882
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$EnumLite.class", 
+          "tag": 1590902784
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$Visitor.class", 
+          "tag": 70272585
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$EntryIterator.class", 
+          "tag": 1794471925
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$ExtendableMessageOrBuilder.class", 
+          "tag": 2400170511
+        }, 
+        {
+          "path": "com/google/protobuf/DoubleArrayList.class", 
+          "tag": 963563314
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$EmptySet.class", 
+          "tag": 1645613879
+        }, 
+        {
+          "path": "com/google/protobuf/ProtobufArrayList.class", 
+          "tag": 1105724582
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$EqualsVisitor.class", 
+          "tag": 2811939307
+        }, 
+        {
+          "path": "com/google/protobuf/ExperimentalApi.class", 
+          "tag": 2747044878
+        }, 
+        {
+          "path": "com/google/protobuf/AbstractMessageLite.class", 
+          "tag": 1692865623
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$LeafByteString.class", 
+          "tag": 2746991688
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$ListAdapter.class", 
+          "tag": 3212962499
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString.class", 
+          "tag": 2388961020
+        }, 
+        {
+          "path": "com/google/protobuf/MessageLiteOrBuilder.class", 
+          "tag": 2149015186
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$EmptySet$1.class", 
+          "tag": 2996641966
+        }, 
+        {
+          "path": "com/google/protobuf/FloatArrayList.class", 
+          "tag": 1325555675
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$GeneratedExtension.class", 
+          "tag": 2106998233
+        }, 
+        {
+          "path": "com/google/protobuf/AbstractMessageLite$Builder$LimitedInputStream.class", 
+          "tag": 1182070333
+        }, 
+        {
+          "path": "com/google/protobuf/UnsafeByteOperations.class", 
+          "tag": 4182106553
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$ExtendableMessage.class", 
+          "tag": 2261463205
+        }, 
+        {
+          "path": "com/google/protobuf/ProtocolStringList.class", 
+          "tag": 4111920557
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$Output.class", 
+          "tag": 3350774500
+        }, 
+        {
+          "path": "com/google/protobuf/AbstractParser.class", 
+          "tag": 2139894813
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$FloatList.class", 
+          "tag": 4019320122
+        }, 
+        {
+          "path": "com/google/protobuf/Utf8$Processor.class", 
+          "tag": 3063194488
+        }, 
+        {
+          "path": "com/google/protobuf/LazyStringArrayList$ByteStringListView.class", 
+          "tag": 1422774269
+        }, 
+        {
+          "path": "com/google/protobuf/IntArrayList.class", 
+          "tag": 3047674980
+        }, 
+        {
+          "path": "com/google/protobuf/RopeByteString$1.class", 
+          "tag": 1371689530
+        }, 
+        {
+          "path": "com/google/protobuf/Internal.class", 
+          "tag": 3789814118
+        }, 
+        {
+          "path": "com/google/protobuf/LazyStringList.class", 
+          "tag": 4220372479
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$EntrySet.class", 
+          "tag": 3090272096
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$SystemByteArrayCopier.class", 
+          "tag": 1993340581
+        }, 
+        {
+          "path": "com/google/protobuf/ByteBufferWriter.class", 
+          "tag": 2021684388
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$BoundedByteString.class", 
+          "tag": 1080300118
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$MethodToInvoke.class", 
+          "tag": 3659501669
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$ByteOutputEncoder.class", 
+          "tag": 1496115429
+        }, 
+        {
+          "path": "com/google/protobuf/LongArrayList.class", 
+          "tag": 1771927431
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$Utf8Validation$1.class", 
+          "tag": 1166256595
+        }, 
+        {
+          "path": "com/google/protobuf/BooleanArrayList.class", 
+          "tag": 2640713625
+        }, 
+        {
+          "path": "com/google/protobuf/MutabilityOracle$1.class", 
+          "tag": 2559155198
+        }, 
+        {
+          "path": "com/google/protobuf/UnsafeUtil$1.class", 
+          "tag": 1272502064
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$FieldType.class", 
+          "tag": 3717622486
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat.class", 
+          "tag": 794349571
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$ExtensionDescriptor.class", 
+          "tag": 1217067277
+        }, 
+        {
+          "path": "com/google/protobuf/UnsafeUtil$MemoryAccessor.class", 
+          "tag": 3459180248
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$MapAdapter$1.class", 
+          "tag": 2145182999
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$SafeDirectNioEncoder.class", 
+          "tag": 96179096
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream.class", 
+          "tag": 2918262958
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$MapAdapter$SetAdapter.class", 
+          "tag": 1543301948
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$ExtendableBuilder.class", 
+          "tag": 1920536912
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$SerializedForm.class", 
+          "tag": 1691798837
+        }, 
+        {
+          "path": "com/google/protobuf/AbstractMessageLite$Builder.class", 
+          "tag": 2310909704
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$MapAdapter$IteratorAdapter.class", 
+          "tag": 1555841975
+        }, 
+        {
+          "path": "com/google/protobuf/FieldSet.class", 
+          "tag": 4258190462
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$JavaType.class", 
+          "tag": 763144508
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$FieldType$4.class", 
+          "tag": 733468943
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$OutputStreamEncoder.class", 
+          "tag": 3390688056
+        }, 
+        {
+          "path": "com/google/protobuf/RopeByteString$PieceIterator.class", 
+          "tag": 2005155885
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$EqualsVisitor$NotEqualsException.class", 
+          "tag": 2575052645
+        }, 
+        {
+          "path": "com/google/protobuf/AbstractProtobufList.class", 
+          "tag": 1526078966
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$UnsafeDirectNioEncoder.class", 
+          "tag": 38263525
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$EnumLiteMap.class", 
+          "tag": 1506855715
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$EmptySet$2.class", 
+          "tag": 272878026
+        }, 
+        {
+          "path": "com/google/protobuf/LazyField.class", 
+          "tag": 1720048059
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$1.class", 
+          "tag": 2890535892
+        }, 
+        {
+          "path": "com/google/protobuf/LazyFieldLite.class", 
+          "tag": 351866579
+        }, 
+        {
+          "path": "com/google/protobuf/ExtensionRegistryLite$ObjectIntPair.class", 
+          "tag": 2561238411
+        }, 
+        {
+          "path": "com/google/protobuf/LazyStringArrayList.class", 
+          "tag": 580498274
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$DefaultInstanceBasedParser.class", 
+          "tag": 2632261086
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap.class", 
+          "tag": 569906005
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$Entry.class", 
+          "tag": 3195438353
+        }, 
+        {
+          "path": "com/google/protobuf/SmallSortedMap$1.class", 
+          "tag": 1375610079
+        }, 
+        {
+          "path": "com/google/protobuf/RopeByteString$RopeInputStream.class", 
+          "tag": 3729052843
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$HeapNioEncoder.class", 
+          "tag": 3367890235
+        }, 
+        {
+          "path": "com/google/protobuf/UnsafeUtil.class", 
+          "tag": 3185015522
+        }, 
+        {
+          "path": "com/google/protobuf/RopeByteString$Balancer.class", 
+          "tag": 4260343985
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$MapAdapter$Converter.class", 
+          "tag": 3596682620
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$FieldType$1.class", 
+          "tag": 781231950
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$DoubleList.class", 
+          "tag": 4083679414
+        }, 
+        {
+          "path": "com/google/protobuf/Utf8$SafeProcessor.class", 
+          "tag": 1750171874
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$Builder.class", 
+          "tag": 3502312361
+        }, 
+        {
+          "path": "com/google/protobuf/PrimitiveNonBoxingCollection.class", 
+          "tag": 2495750054
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$CodedBuilder.class", 
+          "tag": 1089207511
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$ByteArrayCopier.class", 
+          "tag": 634641349
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$ByteIterator.class", 
+          "tag": 4195822182
+        }, 
+        {
+          "path": "com/google/protobuf/Parser.class", 
+          "tag": 2342679492
+        }, 
+        {
+          "path": "com/google/protobuf/FieldSet$FieldDescriptorLite.class", 
+          "tag": 4144092781
+        }, 
+        {
+          "path": "com/google/protobuf/MessageLite$Builder.class", 
+          "tag": 2177938109
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$MapAdapter$EntryAdapter.class", 
+          "tag": 1214257913
+        }, 
+        {
+          "path": "com/google/protobuf/LazyField$LazyIterator.class", 
+          "tag": 1129781143
+        }, 
+        {
+          "path": "com/google/protobuf/TextFormatEscaper$2.class", 
+          "tag": 43276841
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$ArraysByteArrayCopier.class", 
+          "tag": 3174572662
+        }, 
+        {
+          "path": "com/google/protobuf/MessageLite.class", 
+          "tag": 19854973
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$OutOfSpaceException.class", 
+          "tag": 230675573
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$LongList.class", 
+          "tag": 4092922655
+        }, 
+        {
+          "path": "com/google/protobuf/TextFormatEscaper.class", 
+          "tag": 1047972771
+        }, 
+        {
+          "path": "com/google/protobuf/TextFormatEscaper$1.class", 
+          "tag": 3344699589
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$MergeFromVisitor.class", 
+          "tag": 4094442294
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$1.class", 
+          "tag": 4010840011
+        }, 
+        {
+          "path": "com/google/protobuf/RopeByteString.class", 
+          "tag": 1205810692
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream$UnsafeDirectNioDecoder.class", 
+          "tag": 3886611456
+        }, 
+        {
+          "path": "com/google/protobuf/MapEntryLite$Metadata.class", 
+          "tag": 981871811
+        }, 
+        {
+          "path": "com/google/protobuf/TextFormatEscaper$ByteSequence.class", 
+          "tag": 2264098565
+        }, 
+        {
+          "path": "com/google/protobuf/Utf8.class", 
+          "tag": 3718560958
+        }, 
+        {
+          "path": "com/google/protobuf/UninitializedMessageException.class", 
+          "tag": 666031842
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream$StreamDecoder.class", 
+          "tag": 2007340944
+        }, 
+        {
+          "path": "com/google/protobuf/LazyField$LazyEntry.class", 
+          "tag": 2533046141
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream$ArrayDecoder.class", 
+          "tag": 3907087313
+        }, 
+        {
+          "path": "com/google/protobuf/InvalidProtocolBufferException$InvalidWireTypeException.class", 
+          "tag": 4220327035
+        }, 
+        {
+          "path": "com/google/protobuf/UnknownFieldSetLite.class", 
+          "tag": 334369419
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$1.class", 
+          "tag": 2454132619
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream$1.class", 
+          "tag": 3964992138
+        }, 
+        {
+          "path": "com/google/protobuf/MessageLiteToString.class", 
+          "tag": 893606737
+        }, 
+        {
+          "path": "com/google/protobuf/ExtensionRegistryLite.class", 
+          "tag": 4174393510
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$1.class", 
+          "tag": 3619820703
+        }, 
+        {
+          "path": "com/google/protobuf/ByteOutput.class", 
+          "tag": 125282799
+        }, 
+        {
+          "path": "com/google/protobuf/UnmodifiableLazyStringList.class", 
+          "tag": 3017743017
+        }, 
+        {
+          "path": "com/google/protobuf/Utf8$UnpairedSurrogateException.class", 
+          "tag": 3194348973
+        }, 
+        {
+          "path": "com/google/protobuf/NioByteString$1.class", 
+          "tag": 4247101123
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$ProtobufList.class", 
+          "tag": 2198904440
+        }, 
+        {
+          "path": "com/google/protobuf/MutabilityOracle.class", 
+          "tag": 2731541290
+        }, 
+        {
+          "path": "com/google/protobuf/MapEntryLite$1.class", 
+          "tag": 3481206801
+        }, 
+        {
+          "path": "com/google/protobuf/LazyField$1.class", 
+          "tag": 676140725
+        }, 
+        {
+          "path": "com/google/protobuf/ExtensionRegistryFactory.class", 
+          "tag": 2733197211
+        }, 
+        {
+          "path": "com/google/protobuf/MapEntryLite.class", 
+          "tag": 2247183650
+        }, 
+        {
+          "path": "com/google/protobuf/ByteString$LiteralByteString.class", 
+          "tag": 177656886
+        }, 
+        {
+          "path": "com/google/protobuf/UnsafeUtil$JvmMemoryAccessor.class", 
+          "tag": 2735995758
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$BooleanList.class", 
+          "tag": 1928193326
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$FieldType$3.class", 
+          "tag": 3207480529
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$Utf8Validation$2.class", 
+          "tag": 2288697924
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$MapAdapter.class", 
+          "tag": 2435911900
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$Utf8Validation$3.class", 
+          "tag": 2155871359
+        }, 
+        {
+          "path": "com/google/protobuf/FieldSet$1.class", 
+          "tag": 3979983373
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream$StreamDecoder$RefillCallback.class", 
+          "tag": 648723356
+        }, 
+        {
+          "path": "com/google/protobuf/LazyStringArrayList$ByteArrayListView.class", 
+          "tag": 2249341896
+        }, 
+        {
+          "path": "com/google/protobuf/InvalidProtocolBufferException.class", 
+          "tag": 1134380482
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$Utf8Validation.class", 
+          "tag": 451526033
+        }, 
+        {
+          "path": "com/google/protobuf/MapFieldLite.class", 
+          "tag": 1307423321
+        }, 
+        {
+          "path": "com/google/protobuf/CodedOutputStream$ArrayEncoder.class", 
+          "tag": 3148804130
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream.class", 
+          "tag": 2434039372
+        }, 
+        {
+          "path": "com/google/protobuf/Internal$IntList.class", 
+          "tag": 2342381254
+        }, 
+        {
+          "path": "com/google/protobuf/WireFormat$FieldType$2.class", 
+          "tag": 1722427739
+        }, 
+        {
+          "path": "com/google/protobuf/GeneratedMessageLite$HashCodeVisitor.class", 
+          "tag": 905790473
+        }, 
+        {
+          "path": "com/google/protobuf/NioByteString.class", 
+          "tag": 126866120
+        }, 
+        {
+          "path": "com/google/protobuf/CodedInputStream$StreamDecoder$SkippedDataSink.class", 
+          "tag": 3404009614
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "9c87798ff8929262be070fdbfcf761bd"
+}

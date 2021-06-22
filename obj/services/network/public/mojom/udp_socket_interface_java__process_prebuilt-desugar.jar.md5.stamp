@@ -1,0 +1,329 @@
+{
+  "input-strings": [], 
+  "files-md5": "215b5df394db6ebf35aa2d604a10fbad", 
+  "input-files": [
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/bindings_java.interface.jar", 
+      "tag": "0ffcb9623a4334fe858331af34a93783"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/system_java.interface.jar", 
+      "tag": "3c5878f028ccfef88e66d66ebd150540"
+    }, 
+    {
+      "path": "lib.java/services/network/public/mojom/mutable_network_traffic_annotation_interface_java.interface.jar", 
+      "tag": "69ca22dbb9c250b0953721b6b52e5f1f"
+    }, 
+    {
+      "path": "lib.java/mojo/public/mojom/base/read_only_buffer_java.interface.jar", 
+      "tag": "18c054c5b7cb556e2cbb6890797ca8ca"
+    }, 
+    {
+      "path": "lib.java/net/interfaces/interfaces_java.interface.jar", 
+      "tag": "2b302e61838170bc72a9a6e74d858955"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/services/network/public/mojom/udp_socket_interface_java__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "e4de95e836826f1f80a8843424eab143", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$SendToResponse.class", 
+          "tag": 3299974075
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketJoinGroupResponseParams.class", 
+          "tag": 780102906
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$Proxy.class", 
+          "tag": 3606445543
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver_Internal$UdpSocketReceiverOnReceivedParams.class", 
+          "tag": 4202092479
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendResponseParamsProxyToResponder.class", 
+          "tag": 1734258730
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketBindResponseParamsProxyToResponder.class", 
+          "tag": 3648589882
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketBindResponseParams.class", 
+          "tag": 3426899586
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$ConnectResponse.class", 
+          "tag": 4191465673
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal.class", 
+          "tag": 3449660101
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$SetBroadcastResponse.class", 
+          "tag": 3634912857
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketCloseParams.class", 
+          "tag": 261745099
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketBindParams.class", 
+          "tag": 990856537
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendToResponseParams.class", 
+          "tag": 2897456155
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketLeaveGroupParams.class", 
+          "tag": 2486825419
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketConnectResponseParamsProxyToResponder.class", 
+          "tag": 3584463407
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver_Internal$Stub.class", 
+          "tag": 2698954933
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketOptions.class", 
+          "tag": 1796130628
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver_Internal$1.class", 
+          "tag": 4199723210
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$Stub.class", 
+          "tag": 4062085713
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$JoinGroupResponse.class", 
+          "tag": 462700770
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSetBroadcastParams.class", 
+          "tag": 2082437682
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver.class", 
+          "tag": 3745785454
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketConnectParams.class", 
+          "tag": 88620991
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver_Internal$Proxy.class", 
+          "tag": 2460803403
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver$Proxy.class", 
+          "tag": 4059468259
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSetBroadcastResponseParamsForwardToCallback.class", 
+          "tag": 284229044
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendParams.class", 
+          "tag": 67096245
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketConnectResponseParams.class", 
+          "tag": 2604471618
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketJoinGroupParams.class", 
+          "tag": 3420930666
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketJoinGroupResponseParamsForwardToCallback.class", 
+          "tag": 122180120
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocketReceiver_Internal.class", 
+          "tag": 2534990593
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket.class", 
+          "tag": 960976877
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$SendResponse.class", 
+          "tag": 4092544574
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketLeaveGroupResponseParamsProxyToResponder.class", 
+          "tag": 3053862620
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketLeaveGroupResponseParamsForwardToCallback.class", 
+          "tag": 357415530
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketBindResponseParamsForwardToCallback.class", 
+          "tag": 1380819657
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketReceiveMoreWithBufferSizeParams.class", 
+          "tag": 3421862406
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$BindResponse.class", 
+          "tag": 1142238195
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendResponseParams.class", 
+          "tag": 1896118427
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$1.class", 
+          "tag": 3168135773
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$Proxy.class", 
+          "tag": 1698553024
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendToParams.class", 
+          "tag": 1284548087
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendResponseParamsForwardToCallback.class", 
+          "tag": 3026534923
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketReceiveMoreParams.class", 
+          "tag": 2612588738
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendToResponseParamsForwardToCallback.class", 
+          "tag": 690741854
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket$LeaveGroupResponse.class", 
+          "tag": 550821354
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketConnectResponseParamsForwardToCallback.class", 
+          "tag": 1712807946
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSetBroadcastResponseParams.class", 
+          "tag": 3215310470
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSendToResponseParamsProxyToResponder.class", 
+          "tag": 1980931155
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketJoinGroupResponseParamsProxyToResponder.class", 
+          "tag": 3438958590
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketSetBroadcastResponseParamsProxyToResponder.class", 
+          "tag": 4100930325
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UdpSocket_Internal$UdpSocketLeaveGroupResponseParams.class", 
+          "tag": 935517251
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

@@ -1,0 +1,1753 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/services/network/public/mojom/mojom_java.dex.jar"
+  ], 
+  "files-md5": "30c68c703e265ff357f3c22930fdd0f8", 
+  "input-files": [
+    {
+      "path": "lib.java/services/network/public/mojom/mojom_java.jar", 
+      "tag": "7275d277ca95f14e4ed70b27e490d0d1", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslVersion.class", 
+          "tag": 684881890
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketUpgradeToTlsResponseParamsProxyToResponder.class", 
+          "tag": 572738493
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient.class", 
+          "tag": 2846449353
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder_Internal$1.class", 
+          "tag": 572068688
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetCookieListResponseParamsProxyToResponder.class", 
+          "tag": 2492363711
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory_Internal$1.class", 
+          "tag": 2472363753
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyBypassRules.class", 
+          "tag": 1718032250
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketAcceptResponseParams.class", 
+          "tag": 3532871862
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceSetClientParams.class", 
+          "tag": 3162325330
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient$Proxy.class", 
+          "tag": 2738174689
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient_Internal$Proxy.class", 
+          "tag": 2095030150
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfig.class", 
+          "tag": 1562606736
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetFailingHttpTransactionForTestingResponseParamsForwardToCallback.class", 
+          "tag": 2248859230
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderCompletionStatus.class", 
+          "tag": 4080550908
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerAddChangeListenerParams.class", 
+          "tag": 3975314772
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetAllCookiesResponseParams.class", 
+          "tag": 486423286
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$Proxy.class", 
+          "tag": 3839894875
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DownloadedTempFile.class", 
+          "tag": 296882673
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket$AcceptResponse.class", 
+          "tag": 2033473988
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateUrlLoaderFactoryParams.class", 
+          "tag": 1992344682
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$UrlLoaderResumeReadingBodyFromNetParams.class", 
+          "tag": 904895529
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$1.class", 
+          "tag": 4071520453
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnSslCertificateErrorParams.class", 
+          "tag": 3886392790
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketUpgradeToTlsResponseParams.class", 
+          "tag": 1940795584
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager_Internal$Proxy.class", 
+          "tag": 2032616734
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheReportsParams.class", 
+          "tag": 1117119971
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetAllCookiesResponseParamsProxyToResponder.class", 
+          "tag": 3765855090
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnUploadProgressParams.class", 
+          "tag": 684222290
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerSetCanonicalCookieResponseParams.class", 
+          "tag": 488281505
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearHttpAuthCacheResponse.class", 
+          "tag": 4057517843
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient_Internal$ProxyConfigPollerClientOnLazyProxyConfigPollParams.class", 
+          "tag": 3704348611
+        }, 
+        {
+          "path": "org/chromium/network/mojom/HttpRequestHeaders.class", 
+          "tag": 4224595554
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkUsage.class", 
+          "tag": 1682041997
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierSetDefaultResultParams.class", 
+          "tag": 3280947987
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$Proxy.class", 
+          "tag": 1225427257
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextAddHstsForTestingResponseParams.class", 
+          "tag": 1853976171
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager$SetCanonicalCookieResponse.class", 
+          "tag": 1485032769
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetAllCookiesResponseParamsForwardToCallback.class", 
+          "tag": 4287293031
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager_Internal$Stub.class", 
+          "tag": 2408725341
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactoryParams.class", 
+          "tag": 1497749891
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal.class", 
+          "tag": 3820614524
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient.class", 
+          "tag": 909340733
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketAcceptParams.class", 
+          "tag": 1947096029
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpConnectedSocketResponseParamsProxyToResponder.class", 
+          "tag": 197055235
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal.class", 
+          "tag": 3152604410
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlRequestRedirectInfo.class", 
+          "tag": 2779477282
+        }, 
+        {
+          "path": "org/chromium/network/mojom/HttpRequestHeaderKeyValuePair.class", 
+          "tag": 3104180269
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$CreateTcpServerSocketResponse.class", 
+          "tag": 1724073539
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextAddHstsForTestingResponseParamsForwardToCallback.class", 
+          "tag": 521092690
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheClientsParams.class", 
+          "tag": 1246108172
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetNetworkConditionsParams.class", 
+          "tag": 4144474202
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheClientsResponseParams.class", 
+          "tag": 1005307932
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RequestContextFrameType.class", 
+          "tag": 1727003464
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal.class", 
+          "tag": 3128735178
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketAcceptResponseParamsProxyToResponder.class", 
+          "tag": 2379881955
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerFlushCookieStoreResponseParamsForwardToCallback.class", 
+          "tag": 2026979616
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient$Proxy.class", 
+          "tag": 555307522
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnDataDownloadedParams.class", 
+          "tag": 3768215936
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkingHistorySinceResponseParamsProxyToResponder.class", 
+          "tag": 876792010
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver_Internal$Stub.class", 
+          "tag": 2614695557
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$1.class", 
+          "tag": 3695690771
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearNetworkErrorLoggingResponse.class", 
+          "tag": 900854021
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$Stub.class", 
+          "tag": 2612119358
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient_Internal.class", 
+          "tag": 4126170377
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStartResponseParamsForwardToCallback.class", 
+          "tag": 3568658781
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$Stub.class", 
+          "tag": 2476638023
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerAddCookieChangeListenerParams.class", 
+          "tag": 3077038639
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManagerGetOptions.class", 
+          "tag": 2924017364
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerSetCanonicalCookieResponseParamsForwardToCallback.class", 
+          "tag": 3606153363
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$SetShouldRequireCtResponse.class", 
+          "tag": 768057939
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnTransferSizeUpdatedParams.class", 
+          "tag": 1640005003
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$Stub.class", 
+          "tag": 776454391
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactoryConstants.class", 
+          "tag": 2448142462
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver.class", 
+          "tag": 2880625038
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder_Internal$Proxy.class", 
+          "tag": 1266632627
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStopParams.class", 
+          "tag": 3175250480
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager$SetCanonicalCookieResponse.class", 
+          "tag": 3222628540
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyList.class", 
+          "tag": 1300340604
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient_Internal$NetworkChangeManagerClientOnInitialConnectionTypeParams.class", 
+          "tag": 655775637
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerSetCanonicalCookieParams.class", 
+          "tag": 3181596519
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStopResponseParamsForwardToCallback.class", 
+          "tag": 2464206878
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CertVerifyResult.class", 
+          "tag": 2736199104
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceSetRawHeadersAccessParams.class", 
+          "tag": 2038031761
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlRequest.class", 
+          "tag": 3566500627
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$MockCertVerifierSetDefaultResultResponse.class", 
+          "tag": 3384015021
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager$DeleteCookiesResponse.class", 
+          "tag": 2136833086
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpCacheParams.class", 
+          "tag": 530019984
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierSetDefaultResultResponseParamsForwardToCallback.class", 
+          "tag": 3992007288
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketGetLocalAddressResponseParamsProxyToResponder.class", 
+          "tag": 3627115804
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnReceiveResponseParams.class", 
+          "tag": 2397220767
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient_Internal$1.class", 
+          "tag": 2851707341
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TlsClientSocket_Internal$1.class", 
+          "tag": 2815805017
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClientEndpoints.class", 
+          "tag": 3818309452
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$SslPrivateKeySignResponseParamsProxyToResponder.class", 
+          "tag": 4015735633
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheReportsResponseParamsProxyToResponder.class", 
+          "tag": 3916675194
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketGetLocalAddressResponseParamsForwardToCallback.class", 
+          "tag": 1219535779
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager$GetAllCookiesResponse.class", 
+          "tag": 2206230860
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager.class", 
+          "tag": 3520834080
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateWebSocketParams.class", 
+          "tag": 4073891094
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketGetLocalAddressResponseParams.class", 
+          "tag": 3949204966
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket$Proxy.class", 
+          "tag": 2002187398
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DownloadedTempFile_Internal$Proxy.class", 
+          "tag": 2387796792
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStartResponseParams.class", 
+          "tag": 2468997644
+        }, 
+        {
+          "path": "org/chromium/network/mojom/FetchResponseType.class", 
+          "tag": 3110696573
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener_Internal$Stub.class", 
+          "tag": 114281447
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient_Internal$Proxy.class", 
+          "tag": 192317518
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient_Internal$Proxy.class", 
+          "tag": 3585468557
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey$Proxy.class", 
+          "tag": 1065205070
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerFlushCookieStoreParams.class", 
+          "tag": 1081271061
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateNetLogExporterParams.class", 
+          "tag": 2696998939
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketUpgradeToTlsResponseParamsForwardToCallback.class", 
+          "tag": 2717747837
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal.class", 
+          "tag": 2498825235
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService.class", 
+          "tag": 1769588105
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnUploadProgressResponseParams.class", 
+          "tag": 2193264552
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnSslCertificateErrorResponseParamsForwardToCallback.class", 
+          "tag": 1615332998
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierAddResultForCertAndHostResponseParams.class", 
+          "tag": 2577853558
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient_Internal$1.class", 
+          "tag": 1826692933
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter$CaptureMode.class", 
+          "tag": 3009451156
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient$OnCertificateRequestedResponse.class", 
+          "tag": 2380984281
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerSetCanonicalCookieResponseParamsProxyToResponder.class", 
+          "tag": 4266855519
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearChannelIdsResponseParamsForwardToCallback.class", 
+          "tag": 4119314097
+        }, 
+        {
+          "path": "org/chromium/network/mojom/Tls13Variant.class", 
+          "tag": 2381383741
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$1.class", 
+          "tag": 3514949313
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient_Internal$Stub.class", 
+          "tag": 414382273
+        }, 
+        {
+          "path": "org/chromium/network/mojom/X509Certificate.class", 
+          "tag": 2910692387
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheReportsResponseParams.class", 
+          "tag": 1231294711
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$Proxy.class", 
+          "tag": 596770549
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient_Internal$Stub.class", 
+          "tag": 1205110246
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieMatchType.class", 
+          "tag": 3894686181
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearReportingCacheClientsResponse.class", 
+          "tag": 2065499253
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerSetCanonicalCookieResponseParamsForwardToCallback.class", 
+          "tag": 4076519053
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetFailingHttpTransactionForTestingResponseParams.class", 
+          "tag": 2025038732
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyRulesType.class", 
+          "tag": 876263291
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpAuthCacheResponseParamsProxyToResponder.class", 
+          "tag": 1878184927
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnCertificateRequestedParams.class", 
+          "tag": 956212882
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestAddRulesResponseParamsProxyToResponder.class", 
+          "tag": 363179640
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnAuthRequiredParams.class", 
+          "tag": 2613950102
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeCause.class", 
+          "tag": 3237294109
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient_Internal$Stub.class", 
+          "tag": 894430527
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$SimulateNetworkChangeResponse.class", 
+          "tag": 1452706114
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient_Internal$1.class", 
+          "tag": 533917350
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$CreateTcpConnectedSocketResponse.class", 
+          "tag": 2295142799
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket$Proxy.class", 
+          "tag": 3381151905
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearHttpCacheResponse.class", 
+          "tag": 3796701685
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketGetLocalAddressResponseParams.class", 
+          "tag": 3920935116
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TlsClientSocket_Internal$Proxy.class", 
+          "tag": 3003415453
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearReportingCacheReportsResponse.class", 
+          "tag": 3654757558
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient_Internal.class", 
+          "tag": 247856832
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory_Internal$UrlLoaderFactoryCreateLoaderAndStartParams.class", 
+          "tag": 2388052103
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$UrlLoaderFollowRedirectParams.class", 
+          "tag": 1736272886
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TlsClientSocket_Internal.class", 
+          "tag": 1105032670
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager$Proxy.class", 
+          "tag": 1788401621
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient$OnSslCertificateErrorResponse.class", 
+          "tag": 889212317
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SignatureAlgorithm.class", 
+          "tag": 2234967472
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket$GetLocalAddressResponse.class", 
+          "tag": 214248614
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TlsClientSocket_Internal$Stub.class", 
+          "tag": 3549019999
+        }, 
+        {
+          "path": "org/chromium/network/mojom/FetchRedirectMode.class", 
+          "tag": 1469391312
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyRules.class", 
+          "tag": 3693615735
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket.class", 
+          "tag": 728689959
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslInfo.class", 
+          "tag": 3362195971
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient.class", 
+          "tag": 203206931
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceGetTotalNetworkUsagesResponseParamsForwardToCallback.class", 
+          "tag": 2807481147
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$1.class", 
+          "tag": 2598179149
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSetShouldRequireCtResponseParams.class", 
+          "tag": 3436813050
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpConnectedSocketResponseParamsForwardToCallback.class", 
+          "tag": 2177114179
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieSameSiteFilter.class", 
+          "tag": 3939756299
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkErrorLoggingResponseParams.class", 
+          "tag": 4091059861
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RequestPriority.class", 
+          "tag": 3386079292
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpServerSocketResponseParamsForwardToCallback.class", 
+          "tag": 1624637618
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestAddRulesResponseParams.class", 
+          "tag": 1854545595
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket$GetLocalAddressResponse.class", 
+          "tag": 1579600558
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService$GetTotalNetworkUsagesResponse.class", 
+          "tag": 1029495795
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSimulateNetworkChangeParams.class", 
+          "tag": 3189435317
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieSameSite.class", 
+          "tag": 2568679161
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextAddHstsForTestingResponseParamsProxyToResponder.class", 
+          "tag": 3354395246
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierSetDefaultResultResponseParamsProxyToResponder.class", 
+          "tag": 2519684848
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthCredentials.class", 
+          "tag": 1985000157
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierAddResultForCertAndHostResponseParamsForwardToCallback.class", 
+          "tag": 3974805970
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager$Proxy.class", 
+          "tag": 2034828374
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheClientsResponseParamsForwardToCallback.class", 
+          "tag": 2390896419
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStartResponseParamsProxyToResponder.class", 
+          "tag": 4277390624
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$UrlLoaderProceedWithResponseParams.class", 
+          "tag": 1000785197
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpConnectedSocketParams.class", 
+          "tag": 1388696818
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient_Internal$Proxy.class", 
+          "tag": 735299187
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal.class", 
+          "tag": 2748536244
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ConnectionType.class", 
+          "tag": 32576012
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$MockCertVerifierAddResultForCertAndHostResponse.class", 
+          "tag": 689813861
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TlsClientSocket$Proxy.class", 
+          "tag": 1133648341
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkErrorLoggingResponseParamsForwardToCallback.class", 
+          "tag": 4025359902
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerSetCanonicalCookieResponseParams.class", 
+          "tag": 3290687747
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal.class", 
+          "tag": 3115323373
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal.class", 
+          "tag": 1769806781
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$1.class", 
+          "tag": 2917334038
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$Stub.class", 
+          "tag": 3060207177
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketAcceptResponseParamsForwardToCallback.class", 
+          "tag": 2975822301
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager$Proxy.class", 
+          "tag": 1698930140
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter.class", 
+          "tag": 3162773270
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal.class", 
+          "tag": 4147011971
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierSetDefaultResultResponseParams.class", 
+          "tag": 166215719
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerGetAllForUrlResponseParams.class", 
+          "tag": 2899929985
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketGetLocalAddressParams.class", 
+          "tag": 2047406313
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetCookieListParams.class", 
+          "tag": 3905196699
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder$Proxy.class", 
+          "tag": 1543591749
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$Stub.class", 
+          "tag": 1973494535
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetAllCookiesParams.class", 
+          "tag": 2179700788
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnStartLoadingResponseBodyParams.class", 
+          "tag": 2596251366
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DownloadedTempFile_Internal.class", 
+          "tag": 1268120193
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkingHistorySinceParams.class", 
+          "tag": 3203370233
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal.class", 
+          "tag": 185162542
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$Stub.class", 
+          "tag": 2049858477
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService$Proxy.class", 
+          "tag": 2724411966
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$Proxy.class", 
+          "tag": 3663591902
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager$GetCookieListResponse.class", 
+          "tag": 1326960060
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket.class", 
+          "tag": 367519580
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSetShouldRequireCtResponseParamsProxyToResponder.class", 
+          "tag": 481840771
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieDeletionFilter.class", 
+          "tag": 3079961522
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$Proxy.class", 
+          "tag": 4019553833
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory.class", 
+          "tag": 3176885629
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearChannelIdsParams.class", 
+          "tag": 577555818
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnReceiveRedirectParams.class", 
+          "tag": 945291473
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerSetCanonicalCookieResponseParamsProxyToResponder.class", 
+          "tag": 3283874470
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnSslCertificateErrorResponseParamsProxyToResponder.class", 
+          "tag": 4243834394
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieDeletionSessionControl.class", 
+          "tag": 1921977857
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnUploadProgressResponseParamsProxyToResponder.class", 
+          "tag": 4049574393
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter$StartResponse.class", 
+          "tag": 556226508
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter$StopResponse.class", 
+          "tag": 3007520528
+        }, 
+        {
+          "path": "org/chromium/network/mojom/EffectiveConnectionType.class", 
+          "tag": 2394888908
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader.class", 
+          "tag": 2264782954
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestAddRulesResponseParamsForwardToCallback.class", 
+          "tag": 337613073
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStopResponseParams.class", 
+          "tag": 1741074438
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnCertificateRequestedResponseParamsProxyToResponder.class", 
+          "tag": 3602668480
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketGetLocalAddressResponseParamsForwardToCallback.class", 
+          "tag": 1492529843
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$ShouldRequireCt.class", 
+          "tag": 4100765494
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$UrlLoaderPauseReadingBodyFromNetParams.class", 
+          "tag": 3473524370
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceDisableQuicParams.class", 
+          "tag": 170298991
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal.class", 
+          "tag": 821825170
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$Proxy.class", 
+          "tag": 4195186467
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory_Internal.class", 
+          "tag": 2159554577
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SignedTreeHead.class", 
+          "tag": 1959796917
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory_Internal$Stub.class", 
+          "tag": 1734866334
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory_Internal$UrlLoaderFactoryCloneParams.class", 
+          "tag": 4079396879
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetFailingHttpTransactionForTestingParams.class", 
+          "tag": 1778712665
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpAuthCacheParams.class", 
+          "tag": 1591817658
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener_Internal$Proxy.class", 
+          "tag": 3392132282
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextAddHstsForTestingParams.class", 
+          "tag": 4018960592
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DownloadedTempFile_Internal$Stub.class", 
+          "tag": 2388972617
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$Stub.class", 
+          "tag": 2458835833
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient.class", 
+          "tag": 3485723489
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerDeleteCookiesParams.class", 
+          "tag": 4264670048
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener_Internal.class", 
+          "tag": 3049640586
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$Proxy.class", 
+          "tag": 3950403677
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$SslPrivateKeySignParams.class", 
+          "tag": 2800060947
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$AddHstsForTestingResponse.class", 
+          "tag": 3421490415
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$1.class", 
+          "tag": 3426072245
+        }, 
+        {
+          "path": "org/chromium/network/mojom/HostPortPair.class", 
+          "tag": 2856419848
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerDeleteCookiesResponseParamsForwardToCallback.class", 
+          "tag": 2318479412
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener_Internal$CookieChangeListenerOnCookieChangeParams.class", 
+          "tag": 2668128105
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver_Internal$Proxy.class", 
+          "tag": 1783569403
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal.class", 
+          "tag": 203599296
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CanonicalCookie.class", 
+          "tag": 2781294119
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContextConstants.class", 
+          "tag": 2738263518
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkingHistorySinceResponseParams.class", 
+          "tag": 4283034453
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CorsPreflightPolicy.class", 
+          "tag": 242373594
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetFailingHttpTransactionForTestingResponseParamsProxyToResponder.class", 
+          "tag": 1466701407
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpConnectedSocketResponseParams.class", 
+          "tag": 2917129585
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceGetNetworkChangeManagerParams.class", 
+          "tag": 3432102514
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder_Internal$AuthChallengeResponderOnAuthCredentialsParams.class", 
+          "tag": 1053253979
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerDeleteCookiesResponseParams.class", 
+          "tag": 4137613301
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpServerSocketResponseParamsProxyToResponder.class", 
+          "tag": 2701997991
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkConditions.class", 
+          "tag": 950826902
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerGetAllForUrlResponseParamsForwardToCallback.class", 
+          "tag": 3701991262
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfig.class", 
+          "tag": 1262183032
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnCertificateRequestedResponseParamsForwardToCallback.class", 
+          "tag": 2296357586
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerSetCanonicalCookieParams.class", 
+          "tag": 844572487
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpServerSocketParams.class", 
+          "tag": 1944085674
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpCacheResponseParams.class", 
+          "tag": 4171299736
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient_Internal$1.class", 
+          "tag": 3580926795
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerGetAllForUrlParams.class", 
+          "tag": 1927918212
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$1.class", 
+          "tag": 65021633
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$Proxy.class", 
+          "tag": 978375454
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierAddResultForCertAndHostParams.class", 
+          "tag": 393665713
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext.class", 
+          "tag": 2659546731
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ClearDataFilter$Type.class", 
+          "tag": 3452355681
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$1.class", 
+          "tag": 22034162
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey$SignResponse.class", 
+          "tag": 4142124239
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$Stub.class", 
+          "tag": 14085903
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory_Internal$Proxy.class", 
+          "tag": 358873834
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContextParams.class", 
+          "tag": 2647131910
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal.class", 
+          "tag": 3707380085
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeInfo.class", 
+          "tag": 2143935715
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager_Internal.class", 
+          "tag": 3785335380
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$Proxy.class", 
+          "tag": 2066114457
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderFactory$Proxy.class", 
+          "tag": 2933504876
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearNetworkingHistorySinceResponse.class", 
+          "tag": 3012509319
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkErrorLoggingResponseParamsProxyToResponder.class", 
+          "tag": 1430218490
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslCertRequestInfo.class", 
+          "tag": 1135600161
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketUpgradeToTlsParams.class", 
+          "tag": 496416830
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkingHistorySinceResponseParamsForwardToCallback.class", 
+          "tag": 3412709306
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$UrlLoaderSetPriorityParams.class", 
+          "tag": 3729807557
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$Stub.class", 
+          "tag": 39041555
+        }, 
+        {
+          "path": "org/chromium/network/mojom/HashAlgorithm.class", 
+          "tag": 3362470651
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnCertificateRequestedResponseParams.class", 
+          "tag": 1935184038
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient$Proxy.class", 
+          "tag": 4011259596
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$SetFailingHttpTransactionForTestingResponse.class", 
+          "tag": 3930720375
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerFlushCookieStoreResponseParamsProxyToResponder.class", 
+          "tag": 494853149
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateTcpServerSocketResponseParams.class", 
+          "tag": 752904271
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceUpdateSignedTreeHeadParams.class", 
+          "tag": 3813492511
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver_Internal$SocketObserverOnWriteErrorParams.class", 
+          "tag": 3216043053
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient$Proxy.class", 
+          "tag": 2576548497
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader_Internal$Stub.class", 
+          "tag": 1244238744
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoader$Proxy.class", 
+          "tag": 3467798519
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver$Proxy.class", 
+          "tag": 3361245184
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetCtPolicyParams.class", 
+          "tag": 3974281848
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager.class", 
+          "tag": 3816527875
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerDeleteCookiesResponseParamsProxyToResponder.class", 
+          "tag": 956100389
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpCacheResponseParamsForwardToCallback.class", 
+          "tag": 899487032
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DigitallySigned.class", 
+          "tag": 3581209768
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$Proxy.class", 
+          "tag": 1105297533
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearNetworkErrorLoggingParams.class", 
+          "tag": 4030761975
+        }, 
+        {
+          "path": "org/chromium/network/mojom/FetchCredentialsMode.class", 
+          "tag": 2900112501
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager_Internal$NetworkChangeManagerRequestNotificationsParams.class", 
+          "tag": 2991773279
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$AddRulesResponse.class", 
+          "tag": 2349342245
+        }, 
+        {
+          "path": "org/chromium/network/mojom/FetchRequestMode.class", 
+          "tag": 292909183
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient_Internal$ProxyConfigClientOnProxyConfigUpdatedParams.class", 
+          "tag": 2095745768
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieOptions.class", 
+          "tag": 2043473086
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStopResponseParamsProxyToResponder.class", 
+          "tag": 1888492869
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$Proxy.class", 
+          "tag": 499809681
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter$Proxy.class", 
+          "tag": 1551280765
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigPollerClient_Internal.class", 
+          "tag": 2611326013
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestAddRulesParams.class", 
+          "tag": 564057997
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigClient_Internal$Stub.class", 
+          "tag": 1012129797
+        }, 
+        {
+          "path": "org/chromium/network/mojom/Rule.class", 
+          "tag": 630570334
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$Stub.class", 
+          "tag": 3249959811
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ProxyConfigWithAnnotation.class", 
+          "tag": 3243289905
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceCreateNetworkContextParams.class", 
+          "tag": 3595547509
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient_Internal$NetworkServiceClientOnSslCertificateErrorResponseParams.class", 
+          "tag": 1066806039
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextCreateUdpSocketParams.class", 
+          "tag": 2451197786
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSimulateNetworkChangeResponseParamsForwardToCallback.class", 
+          "tag": 2781817238
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$Proxy.class", 
+          "tag": 2558068764
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SignedTreeHeadVersion.class", 
+          "tag": 3884096491
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookiePriority.class", 
+          "tag": 4171304856
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextGetCookieManagerParams.class", 
+          "tag": 4223244165
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceClient.class", 
+          "tag": 2717505516
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest.class", 
+          "tag": 2348034148
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerAddGlobalChangeListenerParams.class", 
+          "tag": 3100562728
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest$Proxy.class", 
+          "tag": 3468870661
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnUploadProgressResponseParamsForwardToCallback.class", 
+          "tag": 3300776117
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver_Internal.class", 
+          "tag": 3153081715
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSimulateNetworkChangeResponseParamsProxyToResponder.class", 
+          "tag": 3334182633
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder_Internal$Stub.class", 
+          "tag": 4269368292
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient_Internal$SslConfigClientOnSslConfigUpdatedParams.class", 
+          "tag": 217784336
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextSetAcceptLanguageParams.class", 
+          "tag": 893068628
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextGetRestrictedCookieManagerParams.class", 
+          "tag": 757893909
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CtLogInfo.class", 
+          "tag": 3968691472
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient$Proxy.class", 
+          "tag": 3025021567
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheReportsResponseParamsForwardToCallback.class", 
+          "tag": 744441128
+        }, 
+        {
+          "path": "org/chromium/network/mojom/ClearDataFilter.class", 
+          "tag": 218108396
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DownloadedTempFile$Proxy.class", 
+          "tag": 314876743
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerCloneInterfaceParams.class", 
+          "tag": 1427280183
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetCookieListResponseParams.class", 
+          "tag": 1622252460
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerFlushCookieStoreResponseParams.class", 
+          "tag": 629719277
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$1.class", 
+          "tag": 838428867
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket$UpgradeToTlsResponse.class", 
+          "tag": 2883949318
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CorsError.class", 
+          "tag": 2880570494
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceGetTotalNetworkUsagesResponseParams.class", 
+          "tag": 2702610238
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceGetTotalNetworkUsagesParams.class", 
+          "tag": 69437959
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$SslPrivateKeySignResponseParams.class", 
+          "tag": 3671532312
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TlsClientSocket.class", 
+          "tag": 3343940027
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$Stub.class", 
+          "tag": 2873572064
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$1.class", 
+          "tag": 3397828568
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener_Internal$1.class", 
+          "tag": 2048621985
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpCacheResponseParamsProxyToResponder.class", 
+          "tag": 2649097792
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearReportingCacheClientsResponseParamsProxyToResponder.class", 
+          "tag": 1361873816
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$1.class", 
+          "tag": 2203464604
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey_Internal$SslPrivateKeySignResponseParamsForwardToCallback.class", 
+          "tag": 4087072876
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver_Internal$SocketObserverOnReadErrorParams.class", 
+          "tag": 2313569500
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager_Internal$RestrictedCookieManagerGetAllForUrlResponseParamsProxyToResponder.class", 
+          "tag": 2931223727
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SocketObserver_Internal$1.class", 
+          "tag": 2238908299
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient_Internal$NetworkChangeManagerClientOnNetworkChangedParams.class", 
+          "tag": 170458111
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient$OnUploadProgressResponse.class", 
+          "tag": 762912529
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager_Internal$1.class", 
+          "tag": 3942035106
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener.class", 
+          "tag": 3652821391
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieChangeListener$Proxy.class", 
+          "tag": 3117048713
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestMockCertVerifierAddResultForCertAndHostResponseParamsProxyToResponder.class", 
+          "tag": 113826471
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$NetLogExporterStartParams.class", 
+          "tag": 739548254
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$ClearChannelIdsResponse.class", 
+          "tag": 2187915999
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetLogExporter_Internal$1.class", 
+          "tag": 2128878049
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder.class", 
+          "tag": 3127095480
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpAuthCacheResponseParams.class", 
+          "tag": 709798132
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlResponseHead.class", 
+          "tag": 203569473
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearHttpAuthCacheResponseParamsForwardToCallback.class", 
+          "tag": 3242446044
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslConfigClient_Internal.class", 
+          "tag": 851669228
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearChannelIdsResponseParamsProxyToResponder.class", 
+          "tag": 2365740469
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextBlockThirdPartyCookiesParams.class", 
+          "tag": 887701692
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManagerClient$Proxy.class", 
+          "tag": 3642043702
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkService_Internal$NetworkServiceGetTotalNetworkUsagesResponseParamsProxyToResponder.class", 
+          "tag": 763548957
+        }, 
+        {
+          "path": "org/chromium/network/mojom/DownloadedTempFile_Internal$1.class", 
+          "tag": 3018619123
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpConnectedSocket_Internal$TcpConnectedSocketGetLocalAddressResponseParamsProxyToResponder.class", 
+          "tag": 2551877890
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CorsErrorStatus.class", 
+          "tag": 3901742154
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient.class", 
+          "tag": 3874333482
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnReceiveCachedMetadataParams.class", 
+          "tag": 647623152
+        }, 
+        {
+          "path": "org/chromium/network/mojom/SslPrivateKey.class", 
+          "tag": 3896470828
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager_Internal$CookieManagerGetCookieListResponseParamsForwardToCallback.class", 
+          "tag": 1056802270
+        }, 
+        {
+          "path": "org/chromium/network/mojom/RestrictedCookieManager$GetAllForUrlResponse.class", 
+          "tag": 2106259329
+        }, 
+        {
+          "path": "org/chromium/network/mojom/TcpServerSocket_Internal$TcpServerSocketGetLocalAddressParams.class", 
+          "tag": 2238225157
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkChangeManager.class", 
+          "tag": 2899256695
+        }, 
+        {
+          "path": "org/chromium/network/mojom/UrlLoaderClient_Internal$UrlLoaderClientOnCompleteParams.class", 
+          "tag": 3899037017
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSetShouldRequireCtParams.class", 
+          "tag": 3365113391
+        }, 
+        {
+          "path": "org/chromium/network/mojom/AuthChallengeResponder_Internal.class", 
+          "tag": 3508202520
+        }, 
+        {
+          "path": "org/chromium/network/mojom/CookieManager$FlushCookieStoreResponse.class", 
+          "tag": 3978348465
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSimulateCrashParams.class", 
+          "tag": 2994331768
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext_Internal$NetworkContextClearChannelIdsResponseParams.class", 
+          "tag": 4271749294
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSimulateNetworkChangeResponseParams.class", 
+          "tag": 2306755028
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkContext$Proxy.class", 
+          "tag": 369435020
+        }, 
+        {
+          "path": "org/chromium/network/mojom/NetworkServiceTest_Internal$NetworkServiceTestSetShouldRequireCtResponseParamsForwardToCallback.class", 
+          "tag": 4076509871
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "6a259db9fe1bb2430ea5bc7cbf7a7f4e"
+}

@@ -1,0 +1,281 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/services/shape_detection/public/mojom/mojom_java.dex.jar"
+  ], 
+  "files-md5": "50b30e6dc98c99814660c8081bb1de17", 
+  "input-files": [
+    {
+      "path": "lib.java/services/shape_detection/public/mojom/mojom_java.jar", 
+      "tag": "b7fe70fc080cb3cc61440c76c60fdfdf", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection.class", 
+          "tag": 477689307
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$FaceDetectionDetectResponseParamsForwardToCallback.class", 
+          "tag": 1138761815
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$FaceDetectionDetectResponseParamsProxyToResponder.class", 
+          "tag": 2967994198
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectorOptions.class", 
+          "tag": 795391872
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$Proxy.class", 
+          "tag": 1065203628
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$TextDetectionDetectParams.class", 
+          "tag": 1637914590
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection$Proxy.class", 
+          "tag": 435088259
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$Proxy.class", 
+          "tag": 320939746
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$BarcodeDetectionDetectParams.class", 
+          "tag": 309501706
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$TextDetectionDetectResponseParams.class", 
+          "tag": 3964922357
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal.class", 
+          "tag": 2632602189
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$BarcodeDetectionDetectResponseParamsForwardToCallback.class", 
+          "tag": 2803956226
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetectionResult.class", 
+          "tag": 2576024530
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionResult.class", 
+          "tag": 1032738940
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider_Internal$Proxy.class", 
+          "tag": 786495512
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$1.class", 
+          "tag": 3916732408
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$1.class", 
+          "tag": 2374646856
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider.class", 
+          "tag": 4274719701
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$Stub.class", 
+          "tag": 1931621587
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$TextDetectionDetectResponseParamsForwardToCallback.class", 
+          "tag": 2176040729
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection$Proxy.class", 
+          "tag": 1221852975
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetectionResult.class", 
+          "tag": 3014942482
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$FaceDetectionDetectResponseParams.class", 
+          "tag": 2228527987
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/ConstantsConstants.class", 
+          "tag": 3648368758
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$Stub.class", 
+          "tag": 1616797623
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider_Internal$Stub.class", 
+          "tag": 3441666585
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$BarcodeDetectionDetectResponseParamsProxyToResponder.class", 
+          "tag": 1526773666
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider_Internal$1.class", 
+          "tag": 2404938191
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider_Internal.class", 
+          "tag": 663644422
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider$Proxy.class", 
+          "tag": 3270927685
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal.class", 
+          "tag": 2767051282
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection.class", 
+          "tag": 3633916733
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$Stub.class", 
+          "tag": 3839697752
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$TextDetectionDetectResponseParamsProxyToResponder.class", 
+          "tag": 1513261107
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$1.class", 
+          "tag": 3615037024
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection$DetectResponse.class", 
+          "tag": 2871643300
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/LandmarkType.class", 
+          "tag": 3851374580
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection_Internal$BarcodeDetectionDetectResponseParams.class", 
+          "tag": 3121748612
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/Landmark.class", 
+          "tag": 4079565440
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection.class", 
+          "tag": 3736400730
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/TextDetection_Internal$Proxy.class", 
+          "tag": 1836239724
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetectionProvider_Internal$FaceDetectionProviderCreateFaceDetectionParams.class", 
+          "tag": 588021207
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal.class", 
+          "tag": 2652702301
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection$DetectResponse.class", 
+          "tag": 384595519
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/FaceDetection_Internal$FaceDetectionDetectParams.class", 
+          "tag": 4173635048
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection$Proxy.class", 
+          "tag": 2417377544
+        }, 
+        {
+          "path": "org/chromium/shape_detection/mojom/BarcodeDetection$DetectResponse.class", 
+          "tag": 1635759616
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "4a7bae63b88811b3344f120b9bae3c1d"
+}

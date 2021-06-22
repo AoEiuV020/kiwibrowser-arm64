@@ -1,0 +1,283 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/components/sync/android/sync_java__lint/config.xml"
+  ], 
+  "files-md5": "c6734eb1fd618b53e4a592d38d1dd03b", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/components/sync/android/sync_java.javac.jar", 
+      "tag": "38bd2d52c78fd50578c7b01924ac112d", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$1.class", 
+          "tag": 1632094850
+        }, 
+        {
+          "path": "org/chromium/components/sync/UploadState.class", 
+          "tag": 2275478627
+        }, 
+        {
+          "path": "org/chromium/components/sync/SyncConstants.class", 
+          "tag": 2096395790
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$AndroidSyncSettingsObserver.class", 
+          "tag": 3040465902
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType$1.class", 
+          "tag": 3105322668
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$1$1.class", 
+          "tag": 3531283201
+        }, 
+        {
+          "path": "org/chromium/components/sync/StopSource.class", 
+          "tag": 2381647818
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType$2.class", 
+          "tag": 1406102509
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType.class", 
+          "tag": 2480392143
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$AndroidSyncSettingsChangedObserver.class", 
+          "tag": 2944327309
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings.class", 
+          "tag": 655055242
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelTypeHelper.class", 
+          "tag": 1485055970
+        }, 
+        {
+          "path": "org/chromium/components/sync/SyncContentResolverDelegate.class", 
+          "tag": 2560975704
+        }, 
+        {
+          "path": "org/chromium/components/sync/SystemSyncContentResolverDelegate.class", 
+          "tag": 3757165859
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelType.class", 
+          "tag": 1268578293
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelTypeHelper$TestDelegate.class", 
+          "tag": 2545337684
+        }, 
+        {
+          "path": "org/chromium/components/sync/ProtocolErrorClientAction.class", 
+          "tag": 3001587899
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences$EditContext.class", 
+          "tag": 189436807
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationClientNameProvider.class", 
+          "tag": 2105308058
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationIntentProtocol.class", 
+          "tag": 3685925570
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences$PrefKeys.class", 
+          "tag": 4111163396
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences.class", 
+          "tag": 1768179625
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationClientNameGenerator.class", 
+          "tag": 2121652545
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/RandomizedInvalidationClientNameGenerator.class", 
+          "tag": 1505111098
+        }
+      ]
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/AndroidSyncSettings.java", 
+      "tag": "77f83101f40d856232285edbaf3984e2"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/ModelTypeHelper.java", 
+      "tag": "d1904864ddfb08e5b6bfa733db78269b"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/PassphraseType.java", 
+      "tag": "372943fbb6ee3ec1bb0c4c9601e9096a"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/SyncConstants.java", 
+      "tag": "59a01805b93ae78af0bb506cfa51ba95"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/SyncContentResolverDelegate.java", 
+      "tag": "dbab345ea0e5b5d119d064a3d4345b9d"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/SystemSyncContentResolverDelegate.java", 
+      "tag": "a0680b41cf92c470f2854e670c875895"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationClientNameGenerator.java", 
+      "tag": "6867e0d6ea74805a0c6e58b8604e9ab5"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationClientNameProvider.java", 
+      "tag": "d428e7e616a076f78ffc8dfaff42be68"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationIntentProtocol.java", 
+      "tag": "57b493dbb4c43d9bca9b6fd83bf37eca"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationPreferences.java", 
+      "tag": "373a2d46cf543a25991b1bf61d1e1557"
+    }, 
+    {
+      "path": "../../components/sync/android/java/src/org/chromium/components/sync/notifier/RandomizedInvalidationClientNameGenerator.java", 
+      "tag": "67765a6a2ea0fdca52fb76a197b9eab6"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/components/signin/core/browser/android/java.interface.jar", 
+      "tag": "66dc73cbf921f1705fe9621213373a1d"
+    }, 
+    {
+      "path": "lib.java/net/android/net_java.interface.jar", 
+      "tag": "171cef01d268afeea2865310bfbb49cc"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/support/gcm.interface.jar", 
+      "tag": "7286aca1064a608ae1d20fc898ec0932"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_annotations.interface.jar", 
+      "tag": "f831b51b730af50ca145513631459cf4"
+    }, 
+    {
+      "path": "lib.java/third_party/cacheinvalidation/cacheinvalidation_javalib.interface.jar", 
+      "tag": "45bb0d7d51509ec3b4e323e8e91d13fe"
+    }, 
+    {
+      "path": "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.interface.jar", 
+      "tag": "383874cd2f3fe0447bb9c4f59a259df2"
+    }, 
+    {
+      "path": "lib.java/third_party/jsr-305/jsr_305_javalib.interface.jar", 
+      "tag": "be4d2a125b6e0591e951cd00e6d1ad87"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "b776c676fbb1cde7bc953f7b60b25c70"
+}

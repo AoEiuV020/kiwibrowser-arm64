@@ -1,0 +1,169 @@
+{
+  "input-strings": [], 
+  "files-md5": "76473830558a66a4e169f5ddf5425f9e", 
+  "input-files": [
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/third_party/android_protobuf/protobuf_nano_javalib__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "e5e30540b9a285eb6d54aaa525e19e6e", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "com/google/protobuf/nano/MessageNanoPrinter.class", 
+          "tag": 3865292767
+        }, 
+        {
+          "path": "com/google/protobuf/nano/MessageNano.class", 
+          "tag": 375666759
+        }, 
+        {
+          "path": "com/google/protobuf/nano/Extension$PrimitiveExtension.class", 
+          "tag": 1990523716
+        }, 
+        {
+          "path": "com/google/protobuf/nano/CodedInputByteBufferNano.class", 
+          "tag": 607601398
+        }, 
+        {
+          "path": "com/google/protobuf/nano/FieldData.class", 
+          "tag": 276000496
+        }, 
+        {
+          "path": "com/google/protobuf/nano/FieldArray.class", 
+          "tag": 3855009782
+        }, 
+        {
+          "path": "com/google/protobuf/nano/InvalidProtocolBufferNanoException.class", 
+          "tag": 1864736088
+        }, 
+        {
+          "path": "com/google/protobuf/nano/ExtendableMessageNano.class", 
+          "tag": 546986415
+        }, 
+        {
+          "path": "com/google/protobuf/nano/CodedOutputByteBufferNano$OutOfSpaceException.class", 
+          "tag": 1375129184
+        }, 
+        {
+          "path": "com/google/protobuf/nano/Extension$1.class", 
+          "tag": 2114095972
+        }, 
+        {
+          "path": "com/google/protobuf/nano/Extension.class", 
+          "tag": 2791207083
+        }, 
+        {
+          "path": "com/google/protobuf/nano/UnknownFieldData.class", 
+          "tag": 1132359433
+        }, 
+        {
+          "path": "com/google/protobuf/nano/WireFormatNano.class", 
+          "tag": 1014078504
+        }, 
+        {
+          "path": "com/google/protobuf/nano/InternalNano.class", 
+          "tag": 3887492560
+        }, 
+        {
+          "path": "com/google/protobuf/nano/CodedOutputByteBufferNano.class", 
+          "tag": 2427260068
+        }, 
+        {
+          "path": "com/google/protobuf/nano/android/ParcelableMessageNano.class", 
+          "tag": 3386284192
+        }, 
+        {
+          "path": "com/google/protobuf/nano/android/ParcelableMessageNanoCreator.class", 
+          "tag": 823608591
+        }, 
+        {
+          "path": "com/google/protobuf/nano/android/ParcelableExtendableMessageNano.class", 
+          "tag": 2664598805
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

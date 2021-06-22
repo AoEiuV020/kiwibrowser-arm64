@@ -1,0 +1,787 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/third_party/android_media/android_media_java__lint/config.xml"
+  ], 
+  "files-md5": "1480e0ba439bb977d55caf73d8575d9e", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/third_party/android_media/android_media_java.javac.jar", 
+      "tag": "23d42662ee1f30e59db74370f275dbf5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "android/arch/lifecycle/R.class", 
+          "tag": 1264903134
+        }, 
+        {
+          "path": "android/support/v7/palette/R$attr.class", 
+          "tag": 240447271
+        }, 
+        {
+          "path": "android/support/v7/palette/R$dimen.class", 
+          "tag": 2157914209
+        }, 
+        {
+          "path": "android/support/v7/palette/R$id.class", 
+          "tag": 3262960986
+        }, 
+        {
+          "path": "android/support/v7/palette/R$styleable.class", 
+          "tag": 2343223338
+        }, 
+        {
+          "path": "android/support/v7/palette/R$color.class", 
+          "tag": 46078798
+        }, 
+        {
+          "path": "android/support/v7/palette/R$style.class", 
+          "tag": 2973544408
+        }, 
+        {
+          "path": "android/support/v7/palette/R$drawable.class", 
+          "tag": 1557821106
+        }, 
+        {
+          "path": "android/support/v7/palette/R.class", 
+          "tag": 95465996
+        }, 
+        {
+          "path": "android/support/v7/palette/R$string.class", 
+          "tag": 1511678093
+        }, 
+        {
+          "path": "android/support/v7/palette/R$integer.class", 
+          "tag": 508711052
+        }, 
+        {
+          "path": "android/support/v7/palette/R$layout.class", 
+          "tag": 2075005482
+        }, 
+        {
+          "path": "android/support/v7/palette/R$bool.class", 
+          "tag": 3107322462
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$anim.class", 
+          "tag": 3928270798
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$attr.class", 
+          "tag": 2283570994
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$dimen.class", 
+          "tag": 2566284909
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$id.class", 
+          "tag": 1322405958
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$styleable.class", 
+          "tag": 2379088057
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$color.class", 
+          "tag": 161000224
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$style.class", 
+          "tag": 1700500594
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$drawable.class", 
+          "tag": 301997524
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R.class", 
+          "tag": 4247121421
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$string.class", 
+          "tag": 3644018175
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$integer.class", 
+          "tag": 2961623397
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$layout.class", 
+          "tag": 1450268562
+        }, 
+        {
+          "path": "android/support/v7/appcompat/R$bool.class", 
+          "tag": 2654165612
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$anim.class", 
+          "tag": 2325460425
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$attr.class", 
+          "tag": 3202509111
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$dimen.class", 
+          "tag": 2064465825
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$id.class", 
+          "tag": 4145011085
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$styleable.class", 
+          "tag": 2051615786
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$color.class", 
+          "tag": 1757196430
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$style.class", 
+          "tag": 4011766147
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$drawable.class", 
+          "tag": 2519242066
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R.class", 
+          "tag": 4202673539
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$string.class", 
+          "tag": 2915878519
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$integer.class", 
+          "tag": 2058220791
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$layout.class", 
+          "tag": 442918713
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$bool.class", 
+          "tag": 1289775423
+        }, 
+        {
+          "path": "android/support/v7/mediarouter/R$interpolator.class", 
+          "tag": 3085728717
+        }, 
+        {
+          "path": "android/support/coreui/R$attr.class", 
+          "tag": 3927596275
+        }, 
+        {
+          "path": "android/support/coreui/R$dimen.class", 
+          "tag": 248369986
+        }, 
+        {
+          "path": "android/support/coreui/R$id.class", 
+          "tag": 2925112318
+        }, 
+        {
+          "path": "android/support/coreui/R$styleable.class", 
+          "tag": 2455804109
+        }, 
+        {
+          "path": "android/support/coreui/R$color.class", 
+          "tag": 3651234113
+        }, 
+        {
+          "path": "android/support/coreui/R$style.class", 
+          "tag": 171387176
+        }, 
+        {
+          "path": "android/support/coreui/R$drawable.class", 
+          "tag": 303228564
+        }, 
+        {
+          "path": "android/support/coreui/R.class", 
+          "tag": 3103327305
+        }, 
+        {
+          "path": "android/support/coreui/R$string.class", 
+          "tag": 328537494
+        }, 
+        {
+          "path": "android/support/coreui/R$integer.class", 
+          "tag": 1421813602
+        }, 
+        {
+          "path": "android/support/coreui/R$layout.class", 
+          "tag": 1116524207
+        }, 
+        {
+          "path": "android/support/coreui/R$bool.class", 
+          "tag": 324774981
+        }, 
+        {
+          "path": "android/support/fragment/R$attr.class", 
+          "tag": 1662324296
+        }, 
+        {
+          "path": "android/support/fragment/R$dimen.class", 
+          "tag": 1604475404
+        }, 
+        {
+          "path": "android/support/fragment/R$id.class", 
+          "tag": 1503610638
+        }, 
+        {
+          "path": "android/support/fragment/R$styleable.class", 
+          "tag": 2924003060
+        }, 
+        {
+          "path": "android/support/fragment/R$color.class", 
+          "tag": 1766990694
+        }, 
+        {
+          "path": "android/support/fragment/R$style.class", 
+          "tag": 4193703335
+        }, 
+        {
+          "path": "android/support/fragment/R$drawable.class", 
+          "tag": 4005647175
+        }, 
+        {
+          "path": "android/support/fragment/R.class", 
+          "tag": 3591568731
+        }, 
+        {
+          "path": "android/support/fragment/R$string.class", 
+          "tag": 4050610159
+        }, 
+        {
+          "path": "android/support/fragment/R$integer.class", 
+          "tag": 3216531088
+        }, 
+        {
+          "path": "android/support/fragment/R$layout.class", 
+          "tag": 1915813489
+        }, 
+        {
+          "path": "android/support/fragment/R$bool.class", 
+          "tag": 840912193
+        }, 
+        {
+          "path": "android/support/mediacompat/R$attr.class", 
+          "tag": 1994566864
+        }, 
+        {
+          "path": "android/support/mediacompat/R$dimen.class", 
+          "tag": 2462451912
+        }, 
+        {
+          "path": "android/support/mediacompat/R$id.class", 
+          "tag": 1195379384
+        }, 
+        {
+          "path": "android/support/mediacompat/R$styleable.class", 
+          "tag": 3871742179
+        }, 
+        {
+          "path": "android/support/mediacompat/R$color.class", 
+          "tag": 2462292074
+        }, 
+        {
+          "path": "android/support/mediacompat/R$style.class", 
+          "tag": 3488626297
+        }, 
+        {
+          "path": "android/support/mediacompat/R$drawable.class", 
+          "tag": 2159629489
+        }, 
+        {
+          "path": "android/support/mediacompat/R.class", 
+          "tag": 3079512398
+        }, 
+        {
+          "path": "android/support/mediacompat/R$string.class", 
+          "tag": 4034529999
+        }, 
+        {
+          "path": "android/support/mediacompat/R$integer.class", 
+          "tag": 1711713889
+        }, 
+        {
+          "path": "android/support/mediacompat/R$layout.class", 
+          "tag": 627016525
+        }, 
+        {
+          "path": "android/support/mediacompat/R$bool.class", 
+          "tag": 3452473188
+        }, 
+        {
+          "path": "android/support/coreutils/R$attr.class", 
+          "tag": 1064698499
+        }, 
+        {
+          "path": "android/support/coreutils/R$dimen.class", 
+          "tag": 2735439841
+        }, 
+        {
+          "path": "android/support/coreutils/R$id.class", 
+          "tag": 592708683
+        }, 
+        {
+          "path": "android/support/coreutils/R$styleable.class", 
+          "tag": 1338683071
+        }, 
+        {
+          "path": "android/support/coreutils/R$color.class", 
+          "tag": 493372513
+        }, 
+        {
+          "path": "android/support/coreutils/R$style.class", 
+          "tag": 3963542757
+        }, 
+        {
+          "path": "android/support/coreutils/R$drawable.class", 
+          "tag": 2448219280
+        }, 
+        {
+          "path": "android/support/coreutils/R.class", 
+          "tag": 1303735135
+        }, 
+        {
+          "path": "android/support/coreutils/R$string.class", 
+          "tag": 530188496
+        }, 
+        {
+          "path": "android/support/coreutils/R$integer.class", 
+          "tag": 2890452993
+        }, 
+        {
+          "path": "android/support/coreutils/R$layout.class", 
+          "tag": 393061584
+        }, 
+        {
+          "path": "android/support/coreutils/R$bool.class", 
+          "tag": 3368856696
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$attr.class", 
+          "tag": 2737038458
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$dimen.class", 
+          "tag": 124098136
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$id.class", 
+          "tag": 2767066827
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$styleable.class", 
+          "tag": 1351692581
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$color.class", 
+          "tag": 1669258526
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$style.class", 
+          "tag": 2548758210
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$drawable.class", 
+          "tag": 290568138
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R.class", 
+          "tag": 3880805474
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$string.class", 
+          "tag": 3703324984
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$integer.class", 
+          "tag": 3316870136
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$layout.class", 
+          "tag": 127056006
+        }, 
+        {
+          "path": "android/support/graphics/drawable/R$bool.class", 
+          "tag": 3265337756
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$attr.class", 
+          "tag": 3613321887
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$dimen.class", 
+          "tag": 2653984832
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$id.class", 
+          "tag": 2103486682
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$styleable.class", 
+          "tag": 589266135
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$color.class", 
+          "tag": 3676427211
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$style.class", 
+          "tag": 549551814
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$drawable.class", 
+          "tag": 4114280546
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R.class", 
+          "tag": 2334431911
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$string.class", 
+          "tag": 3134471551
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$integer.class", 
+          "tag": 1386573593
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$layout.class", 
+          "tag": 480221312
+        }, 
+        {
+          "path": "android/support/graphics/drawable/animated/R$bool.class", 
+          "tag": 1274550286
+        }, 
+        {
+          "path": "android/support/compat/R$attr.class", 
+          "tag": 3024425827
+        }, 
+        {
+          "path": "android/support/compat/R$dimen.class", 
+          "tag": 1228999324
+        }, 
+        {
+          "path": "android/support/compat/R$id.class", 
+          "tag": 2751941103
+        }, 
+        {
+          "path": "android/support/compat/R$styleable.class", 
+          "tag": 2466501935
+        }, 
+        {
+          "path": "android/support/compat/R$color.class", 
+          "tag": 1674106173
+        }, 
+        {
+          "path": "android/support/compat/R$style.class", 
+          "tag": 1720462760
+        }, 
+        {
+          "path": "android/support/compat/R$drawable.class", 
+          "tag": 3294362192
+        }, 
+        {
+          "path": "android/support/compat/R.class", 
+          "tag": 228826275
+        }, 
+        {
+          "path": "android/support/compat/R$string.class", 
+          "tag": 4293272018
+        }, 
+        {
+          "path": "android/support/compat/R$integer.class", 
+          "tag": 4092578990
+        }, 
+        {
+          "path": "android/support/compat/R$layout.class", 
+          "tag": 1154293240
+        }, 
+        {
+          "path": "android/support/compat/R$bool.class", 
+          "tag": 4095419793
+        }, 
+        {
+          "path": "android/support/v4/R$attr.class", 
+          "tag": 1953866731
+        }, 
+        {
+          "path": "android/support/v4/R$dimen.class", 
+          "tag": 3881918985
+        }, 
+        {
+          "path": "android/support/v4/R$id.class", 
+          "tag": 2438573556
+        }, 
+        {
+          "path": "android/support/v4/R$styleable.class", 
+          "tag": 696806584
+        }, 
+        {
+          "path": "android/support/v4/R$color.class", 
+          "tag": 333015867
+        }, 
+        {
+          "path": "android/support/v4/R$style.class", 
+          "tag": 3951384099
+        }, 
+        {
+          "path": "android/support/v4/R$drawable.class", 
+          "tag": 3863996560
+        }, 
+        {
+          "path": "android/support/v4/R.class", 
+          "tag": 2988935671
+        }, 
+        {
+          "path": "android/support/v4/R$string.class", 
+          "tag": 1286482802
+        }, 
+        {
+          "path": "android/support/v4/R$integer.class", 
+          "tag": 1640372310
+        }, 
+        {
+          "path": "android/support/v4/R$layout.class", 
+          "tag": 1348816235
+        }, 
+        {
+          "path": "android/support/v4/R$bool.class", 
+          "tag": 839063084
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$2.class", 
+          "tag": 1003045597
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$Delegate.class", 
+          "tag": 3069409513
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$1.class", 
+          "tag": 2966168211
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$anim.class", 
+          "tag": 849075941
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$attr.class", 
+          "tag": 274634823
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$dimen.class", 
+          "tag": 254519820
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$3.class", 
+          "tag": 4292801878
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$id.class", 
+          "tag": 3009767951
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$styleable.class", 
+          "tag": 3777092812
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$color.class", 
+          "tag": 1613036342
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$style.class", 
+          "tag": 3405804067
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$drawable.class", 
+          "tag": 690923027
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController.class", 
+          "tag": 84578566
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R.class", 
+          "tag": 3522781298
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/MediaController$4.class", 
+          "tag": 1927112070
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$string.class", 
+          "tag": 1334663278
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$integer.class", 
+          "tag": 1937233396
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$layout.class", 
+          "tag": 4023863429
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$bool.class", 
+          "tag": 1102216297
+        }, 
+        {
+          "path": "org/chromium/third_party/android/media/R$interpolator.class", 
+          "tag": 3654632542
+        }
+      ]
+    }, 
+    {
+      "path": "../../third_party/android_media/java/src/org/chromium/third_party/android/media/MediaController.java", 
+      "tag": "2a186f3873c90c80e0ddd421463855f7"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_compat_java.interface.jar", 
+      "tag": "331055d5c291a6150791102301114079"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_core_ui_java.interface.jar", 
+      "tag": "1a0b4986b5271b8acf6539b452fc487b"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_core_utils_java.interface.jar", 
+      "tag": "94ef98e505c0d72b38188cf62125e08f"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_fragment_java.interface.jar", 
+      "tag": "db13cbfa2073a9d52967c7783ec89381"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_media_compat_java.interface.jar", 
+      "tag": "269d1bf16d3f4d8b04335f05b815e7b7"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_v4_java.interface.jar", 
+      "tag": "3a3a33df76a2fb3c438c9a00dfe63f2d"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_animated_vector_drawable_java.interface.jar", 
+      "tag": "7ef1221fa7180c606c61525f5effa3ce"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_appcompat_v7_java.interface.jar", 
+      "tag": "ce2ac10b9429dbe5c6374c112091312f"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_vector_drawable_java.interface.jar", 
+      "tag": "d95e5fbc1abc2b885e555fe46c788a9c"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_mediarouter_v7_java.interface.jar", 
+      "tag": "ce93d5fda01330037cc9824378cd6b97"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../third_party/android_media/java/res/values/colors.xml", 
+      "tag": "602be8f61ecae51ace58f7779c79d950"
+    }, 
+    {
+      "path": "../../third_party/android_media/java/res/layout/media_controller.xml", 
+      "tag": "7852e81b125e7e5ab7fdc7ad197f1066"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "f2792053a9cf01ddd53dec1ae31268c0"
+}

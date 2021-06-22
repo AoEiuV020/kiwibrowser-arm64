@@ -1,0 +1,217 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/device/bluetooth/java.dex.jar"
+  ], 
+  "files-md5": "faa77790e317f03d6895b274cd27b9bd", 
+  "input-files": [
+    {
+      "path": "lib.java/device/bluetooth/java.jar", 
+      "tag": "6ba021ae9879e7115795ea383ad28845", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$6.class", 
+          "tag": 1854466732
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattServiceWrapper.class", 
+          "tag": 2048654743
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ThreadUtilsWrapper$Factory.class", 
+          "tag": 2597396735
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothDeviceWrapper.class", 
+          "tag": 2272174348
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ForwardScanCallbackToWrapper.class", 
+          "tag": 2915993025
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothAdapter.class", 
+          "tag": 2121999844
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothRemoteGattService.class", 
+          "tag": 2542555090
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$4.class", 
+          "tag": 2876727087
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$7.class", 
+          "tag": 2482361470
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattDescriptorWrapper.class", 
+          "tag": 975797343
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothRemoteGattDescriptor.class", 
+          "tag": 2100620035
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$2.class", 
+          "tag": 775034203
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice.class", 
+          "tag": 2821753888
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothAdapterWrapper.class", 
+          "tag": 1452454412
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl.class", 
+          "tag": 3628519231
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ForwardBluetoothGattCallbackToWrapper.class", 
+          "tag": 2347316576
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattCallbackWrapper.class", 
+          "tag": 3484750819
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ScanCallbackWrapper.class", 
+          "tag": 560292586
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattWrapper.class", 
+          "tag": 1490610213
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ThreadUtilsWrapper.class", 
+          "tag": 910289695
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothAdapter$ScanCallback.class", 
+          "tag": 1493925475
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$1.class", 
+          "tag": 3114595230
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothAdapter$1.class", 
+          "tag": 3915311953
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$ScanResultWrapper.class", 
+          "tag": 2166093810
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothLeScannerWrapper.class", 
+          "tag": 1711784587
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$3.class", 
+          "tag": 1134518708
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$1.class", 
+          "tag": 191481202
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothDevice$BluetoothGattCallbackImpl$5.class", 
+          "tag": 3677253365
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers.class", 
+          "tag": 920166103
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/Wrappers$BluetoothGattCharacteristicWrapper.class", 
+          "tag": 694582301
+        }, 
+        {
+          "path": "org/chromium/device/bluetooth/ChromeBluetoothRemoteGattCharacteristic.class", 
+          "tag": 54598905
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "10488942372d50198dd750987daf3d32"
+}

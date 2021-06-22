@@ -1,0 +1,17 @@
+org.chromium.components.signin.SystemAccountManagerDelegate,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/SystemAccountManagerDelegate.java
+org.chromium.components.signin.AuthException,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AuthException.java
+org.chromium.components.signin.AccountIdProvider,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AccountIdProvider.java
+org.chromium.components.signin.AccountManagerResult,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AccountManagerResult.java
+org.chromium.components.signin.ChromeSigninController,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/ChromeSigninController.java
+org.chromium.components.signin.ChildAccountStatus,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/ChildAccountStatus.java
+org.chromium.components.signin.ChildAccountInfoFetcher,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/ChildAccountInfoFetcher.java
+org.chromium.components.signin.GmsAvailabilityException,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/GmsAvailabilityException.java
+org.chromium.components.signin.AccountsChangeObserver,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AccountsChangeObserver.java
+org.chromium.components.signin.util.PatternMatcher,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/util/PatternMatcher.java
+org.chromium.components.signin.AccountManagerFacade,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AccountManagerFacade.java
+com.google.android.gms.R,gen/third_party/android_tools/google_play_services_basement_java__res.srcjar
+com.google.android.gms.base.R,gen/third_party/android_tools/google_play_services_base_java__res.srcjar
+org.chromium.components.signin.GmsJustUpdatedException,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/GmsJustUpdatedException.java
+org.chromium.components.signin.AccountManagerDelegateException,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AccountManagerDelegateException.java
+org.chromium.components.signin.AccountManagerDelegate,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/AccountManagerDelegate.java
+org.chromium.components.signin.ProfileDataSource,../../components/signin/core/browser/android/java/src/org/chromium/components/signin/ProfileDataSource.java

@@ -1,0 +1,5 @@
+org.chromium.network.mojom.UdpSocketOptions,gen/services/network/public/mojom/udp_socket_interface_java_sources.srcjar
+org.chromium.network.mojom.UdpSocketReceiver,gen/services/network/public/mojom/udp_socket_interface_java_sources.srcjar
+org.chromium.network.mojom.UdpSocket,gen/services/network/public/mojom/udp_socket_interface_java_sources.srcjar
+org.chromium.network.mojom.UdpSocket_Internal,gen/services/network/public/mojom/udp_socket_interface_java_sources.srcjar
+org.chromium.network.mojom.UdpSocketReceiver_Internal,gen/services/network/public/mojom/udp_socket_interface_java_sources.srcjar

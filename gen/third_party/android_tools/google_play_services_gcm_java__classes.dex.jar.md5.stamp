@@ -1,0 +1,193 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_tools/google_play_services_gcm_java__classes.dex.jar"
+  ], 
+  "files-md5": "73cf15d33a3407fd3861584daca59061", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_gcm_java.jar", 
+      "tag": "4157eed430865c5ab1b2ec58b27f129e", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2282617941
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmListenerService.class", 
+          "tag": 813999166
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmNetworkManager.class", 
+          "tag": 1379596138
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zza.class", 
+          "tag": 3097259257
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmPubSub.class", 
+          "tag": 257909115
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmReceiver.class", 
+          "tag": 43671277
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzb.class", 
+          "tag": 4095024325
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmTaskService$zza.class", 
+          "tag": 3939577496
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmTaskService$zzb.class", 
+          "tag": 1762406120
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GcmTaskService.class", 
+          "tag": 1586953326
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzc.class", 
+          "tag": 2777299349
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/GoogleCloudMessaging.class", 
+          "tag": 1979587187
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zze.class", 
+          "tag": 2962832732
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzd.class", 
+          "tag": 349754879
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzf.class", 
+          "tag": 4111924481
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/OneoffTask$Builder.class", 
+          "tag": 2574147394
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/OneoffTask.class", 
+          "tag": 231927618
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzg.class", 
+          "tag": 1225692533
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/PendingCallback.class", 
+          "tag": 1626040632
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzh.class", 
+          "tag": 1909458816
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/PeriodicTask$Builder.class", 
+          "tag": 4041961869
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/PeriodicTask.class", 
+          "tag": 3571408722
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/zzi.class", 
+          "tag": 3302346283
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/Task$Builder.class", 
+          "tag": 1526445840
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/Task.class", 
+          "tag": 1220570190
+        }, 
+        {
+          "path": "com/google/android/gms/gcm/TaskParams.class", 
+          "tag": 1266356119
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "61f459df5d5ff7d4d495831c0df7dca6"
+}

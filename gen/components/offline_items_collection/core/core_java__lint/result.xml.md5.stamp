@@ -1,0 +1,219 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/components/offline_items_collection/core/core_java__lint/config.xml"
+  ], 
+  "files-md5": "49b66c4d1a6e5f415c632489a6e6f509", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/components/offline_items_collection/core/core_java.javac.jar", 
+      "tag": "65be0a5a03e9de30c48b2e9a599f54f5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineItem$Progress.class", 
+          "tag": 3174743764
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/PendingState.class", 
+          "tag": 825092046
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineContentProvider$Observer.class", 
+          "tag": 2557788397
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/LegacyHelpers.class", 
+          "tag": 1482990851
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/VisualsCallback.class", 
+          "tag": 2953602272
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineItemVisuals.class", 
+          "tag": 2276347367
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineItem.class", 
+          "tag": 3821104980
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineItemFilter.class", 
+          "tag": 3028528718
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/FailState.class", 
+          "tag": 3465940695
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineItemState.class", 
+          "tag": 2289371474
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineContentAggregatorBridge.class", 
+          "tag": 552731705
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/ContentId.class", 
+          "tag": 1000716165
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineContentProvider.class", 
+          "tag": 1797321912
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/OfflineItemProgressUnit.class", 
+          "tag": 2032829774
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/bridges/OfflineItemBridge.class", 
+          "tag": 1814968118
+        }, 
+        {
+          "path": "org/chromium/components/offline_items_collection/bridges/OfflineItemVisualsBridge.class", 
+          "tag": 1088491243
+        }
+      ]
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/bridges/OfflineItemBridge.java", 
+      "tag": "6f4b9b00eb032bed2c258839193140f6"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/bridges/OfflineItemVisualsBridge.java", 
+      "tag": "0ecf944d1a1c5d79a43fff4a73b5bfad"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/ContentId.java", 
+      "tag": "64faef39f8d0250f887c310aaa313cfe"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/LegacyHelpers.java", 
+      "tag": "233360a3789e58658b4909b2a3ca2b3f"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/OfflineContentAggregatorBridge.java", 
+      "tag": "52c740415866cd772101fbcbeed02349"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/OfflineContentProvider.java", 
+      "tag": "3b4a9a4bde3999dc3c764ef4f6c31918"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/OfflineItem.java", 
+      "tag": "155fc3eac9ed6e8d41a3a6e4f6cc9b78"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/OfflineItemVisuals.java", 
+      "tag": "31cfcec2e19aaac34f2ed17260443273"
+    }, 
+    {
+      "path": "../../components/offline_items_collection/core/android/java/src/org/chromium/components/offline_items_collection/VisualsCallback.java", 
+      "tag": "bc53d0b2337802dfe58e0c20714055b4"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_annotations.interface.jar", 
+      "tag": "f831b51b730af50ca145513631459cf4"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "eeb624b59961d9e5582f1b2e704aa932"
+}

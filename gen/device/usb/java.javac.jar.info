@@ -1,0 +1,6 @@
+org.chromium.device.usb.ChromeUsbService,../../device/usb/android/java/src/org/chromium/device/usb/ChromeUsbService.java
+org.chromium.device.usb.ChromeUsbInterface,../../device/usb/android/java/src/org/chromium/device/usb/ChromeUsbInterface.java
+org.chromium.device.usb.ChromeUsbEndpoint,../../device/usb/android/java/src/org/chromium/device/usb/ChromeUsbEndpoint.java
+org.chromium.device.usb.ChromeUsbConnection,../../device/usb/android/java/src/org/chromium/device/usb/ChromeUsbConnection.java
+org.chromium.device.usb.ChromeUsbDevice,../../device/usb/android/java/src/org/chromium/device/usb/ChromeUsbDevice.java
+org.chromium.device.usb.ChromeUsbConfiguration,../../device/usb/android/java/src/org/chromium/device/usb/ChromeUsbConfiguration.java

@@ -1,0 +1,6 @@
+org.chromium.components.payments.PaymentManifestDownloader,../../components/payments/content/android/java/src/org/chromium/components/payments/PaymentManifestDownloader.java
+org.chromium.components.payments.CurrencyFormatter,../../components/payments/content/android/java/src/org/chromium/components/payments/CurrencyFormatter.java
+org.chromium.components.payments.WebAppManifestSection,../../components/payments/content/android/java/src/org/chromium/components/payments/WebAppManifestSection.java
+org.chromium.components.payments.PaymentManifestParser,../../components/payments/content/android/java/src/org/chromium/components/payments/PaymentManifestParser.java
+org.chromium.components.payments.OriginSecurityChecker,../../components/payments/content/android/java/src/org/chromium/components/payments/OriginSecurityChecker.java
+org.chromium.components.payments.PaymentValidator,../../components/payments/content/android/java/src/org/chromium/components/payments/PaymentValidator.java

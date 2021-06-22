@@ -1,0 +1,401 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/components/autofill/android/autofill_java__lint/config.xml"
+  ], 
+  "files-md5": "d9dc5417d575151854764fdff076be2b", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/components/autofill/android/autofill_java.javac.jar", 
+      "tag": "fb91c72d53e509242dee4396a0dc167d", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/autofill/AutofillPopup$2.class", 
+          "tag": 317097758
+        }, 
+        {
+          "path": "org/chromium/components/autofill/R$dimen.class", 
+          "tag": 380756866
+        }, 
+        {
+          "path": "org/chromium/components/autofill/R$color.class", 
+          "tag": 116572674
+        }, 
+        {
+          "path": "org/chromium/components/autofill/R.class", 
+          "tag": 341630514
+        }, 
+        {
+          "path": "org/chromium/components/autofill/AutofillSuggestion.class", 
+          "tag": 1615878996
+        }, 
+        {
+          "path": "org/chromium/components/autofill/R$string.class", 
+          "tag": 648594903
+        }, 
+        {
+          "path": "org/chromium/components/autofill/AutofillPopup$1.class", 
+          "tag": 4002457701
+        }, 
+        {
+          "path": "org/chromium/components/autofill/AutofillPopup.class", 
+          "tag": 2980147638
+        }, 
+        {
+          "path": "org/chromium/components/autofill/AutofillDelegate.class", 
+          "tag": 691461205
+        }
+      ]
+    }, 
+    {
+      "path": "../../components/autofill/android/java/src/org/chromium/components/autofill/AutofillDelegate.java", 
+      "tag": "e6d7a10edd85642e7765edc05a2fdb97"
+    }, 
+    {
+      "path": "../../components/autofill/android/java/src/org/chromium/components/autofill/AutofillPopup.java", 
+      "tag": "0f0cdf89af0b28ff96c2dea8b1b85441"
+    }, 
+    {
+      "path": "../../components/autofill/android/java/src/org/chromium/components/autofill/AutofillSuggestion.java", 
+      "tag": "7e9b4fdcfdc6cdde6d42069c4e446289"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/content/public/android/content_java.interface.jar", 
+      "tag": "572c1dc78571f2f1a4a064b21340a926"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_compat_java.interface.jar", 
+      "tag": "331055d5c291a6150791102301114079"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_core_ui_java.interface.jar", 
+      "tag": "1a0b4986b5271b8acf6539b452fc487b"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_core_utils_java.interface.jar", 
+      "tag": "94ef98e505c0d72b38188cf62125e08f"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_fragment_java.interface.jar", 
+      "tag": "db13cbfa2073a9d52967c7783ec89381"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_media_compat_java.interface.jar", 
+      "tag": "269d1bf16d3f4d8b04335f05b815e7b7"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_v4_java.interface.jar", 
+      "tag": "3a3a33df76a2fb3c438c9a00dfe63f2d"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_animated_vector_drawable_java.interface.jar", 
+      "tag": "7ef1221fa7180c606c61525f5effa3ce"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_appcompat_v7_java.interface.jar", 
+      "tag": "ce2ac10b9429dbe5c6374c112091312f"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_vector_drawable_java.interface.jar", 
+      "tag": "d95e5fbc1abc2b885e555fe46c788a9c"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_full_java.interface.jar", 
+      "tag": "813eb7847cac5ce2b6876c88debd02da"
+    }, 
+    {
+      "path": "lib.java/ui/android/ui_utils_java.interface.jar", 
+      "tag": "eb4e5ee13546d5c2ddf82165145e0074"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../components/autofill/android/java/res/values/colors.xml", 
+      "tag": "0996ba54e12eab6182f5c070bde4f4ff"
+    }, 
+    {
+      "path": "../../components/autofill/android/java/res/values/dimens.xml", 
+      "tag": "69054a86763df85ac08c108fb9f54918"
+    }, 
+    {
+      "path": "resource_zips/components/autofill/android/autofill_strings_grd.resources.zip", 
+      "tag": "dae939df5799cd7edd0ccf32c4da0063", 
+      "entries": [
+        {
+          "path": "values-am/autofill_strings.xml", 
+          "tag": 3982861954
+        }, 
+        {
+          "path": "values-ar/autofill_strings.xml", 
+          "tag": 3269756232
+        }, 
+        {
+          "path": "values-bg/autofill_strings.xml", 
+          "tag": 416462393
+        }, 
+        {
+          "path": "values-ca/autofill_strings.xml", 
+          "tag": 1242139858
+        }, 
+        {
+          "path": "values-cs/autofill_strings.xml", 
+          "tag": 2674381514
+        }, 
+        {
+          "path": "values-da/autofill_strings.xml", 
+          "tag": 1102662031
+        }, 
+        {
+          "path": "values-de/autofill_strings.xml", 
+          "tag": 997763418
+        }, 
+        {
+          "path": "values-el/autofill_strings.xml", 
+          "tag": 3967052820
+        }, 
+        {
+          "path": "values-en-rGB/autofill_strings.xml", 
+          "tag": 1255439867
+        }, 
+        {
+          "path": "values-es-rUS/autofill_strings.xml", 
+          "tag": 1536700842
+        }, 
+        {
+          "path": "values-es/autofill_strings.xml", 
+          "tag": 390895416
+        }, 
+        {
+          "path": "values-fa/autofill_strings.xml", 
+          "tag": 3584748421
+        }, 
+        {
+          "path": "values-fi/autofill_strings.xml", 
+          "tag": 723314961
+        }, 
+        {
+          "path": "values-fr/autofill_strings.xml", 
+          "tag": 1289148926
+        }, 
+        {
+          "path": "values-hi/autofill_strings.xml", 
+          "tag": 1330612709
+        }, 
+        {
+          "path": "values-hr/autofill_strings.xml", 
+          "tag": 3589418472
+        }, 
+        {
+          "path": "values-hu/autofill_strings.xml", 
+          "tag": 3071474996
+        }, 
+        {
+          "path": "values-in/autofill_strings.xml", 
+          "tag": 3226820554
+        }, 
+        {
+          "path": "values-it/autofill_strings.xml", 
+          "tag": 3940606514
+        }, 
+        {
+          "path": "values-iw/autofill_strings.xml", 
+          "tag": 3268780529
+        }, 
+        {
+          "path": "values-ja/autofill_strings.xml", 
+          "tag": 2628454454
+        }, 
+        {
+          "path": "values-ko/autofill_strings.xml", 
+          "tag": 2224840243
+        }, 
+        {
+          "path": "values-lt/autofill_strings.xml", 
+          "tag": 4243778321
+        }, 
+        {
+          "path": "values-lv/autofill_strings.xml", 
+          "tag": 4161154029
+        }, 
+        {
+          "path": "values-nb/autofill_strings.xml", 
+          "tag": 1481828419
+        }, 
+        {
+          "path": "values-nl/autofill_strings.xml", 
+          "tag": 108805716
+        }, 
+        {
+          "path": "values-pl/autofill_strings.xml", 
+          "tag": 3430413695
+        }, 
+        {
+          "path": "values-pt-rBR/autofill_strings.xml", 
+          "tag": 3062717659
+        }, 
+        {
+          "path": "values-pt-rPT/autofill_strings.xml", 
+          "tag": 2044420864
+        }, 
+        {
+          "path": "values-ro/autofill_strings.xml", 
+          "tag": 462116803
+        }, 
+        {
+          "path": "values-ru/autofill_strings.xml", 
+          "tag": 388501371
+        }, 
+        {
+          "path": "values-sk/autofill_strings.xml", 
+          "tag": 1302857736
+        }, 
+        {
+          "path": "values-sl/autofill_strings.xml", 
+          "tag": 4237255485
+        }, 
+        {
+          "path": "values-sr/autofill_strings.xml", 
+          "tag": 1851116103
+        }, 
+        {
+          "path": "values-sv/autofill_strings.xml", 
+          "tag": 2159235973
+        }, 
+        {
+          "path": "values-sw/autofill_strings.xml", 
+          "tag": 3610644643
+        }, 
+        {
+          "path": "values-th/autofill_strings.xml", 
+          "tag": 3656219032
+        }, 
+        {
+          "path": "values-tl/autofill_strings.xml", 
+          "tag": 4144553574
+        }, 
+        {
+          "path": "values-tr/autofill_strings.xml", 
+          "tag": 230992518
+        }, 
+        {
+          "path": "values-uk/autofill_strings.xml", 
+          "tag": 1393495162
+        }, 
+        {
+          "path": "values-vi/autofill_strings.xml", 
+          "tag": 457382362
+        }, 
+        {
+          "path": "values-zh-rCN/autofill_strings.xml", 
+          "tag": 2621923170
+        }, 
+        {
+          "path": "values-zh-rTW/autofill_strings.xml", 
+          "tag": 621815111
+        }, 
+        {
+          "path": "values/autofill_strings.xml", 
+          "tag": 3268780529
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "bfffef34ccc68fd9273cdba684850610"
+}

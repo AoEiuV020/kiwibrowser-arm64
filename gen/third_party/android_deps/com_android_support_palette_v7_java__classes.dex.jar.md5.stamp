@@ -1,0 +1,145 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_deps/com_android_support_palette_v7_java__classes.dex.jar"
+  ], 
+  "files-md5": "cc14ee3077385148dc82f8831d309eae", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_palette_v7_java.jar", 
+      "tag": "34b32c39ee0f5287b9852bcaac546446", 
+      "entries": [
+        {
+          "path": "android/support/v7/graphics/ColorCutQuantizer$1.class", 
+          "tag": 2903022115
+        }, 
+        {
+          "path": "android/support/v7/graphics/ColorCutQuantizer$Vbox.class", 
+          "tag": 2337959630
+        }, 
+        {
+          "path": "android/support/v7/graphics/ColorCutQuantizer.class", 
+          "tag": 1056352229
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette$1.class", 
+          "tag": 1563636219
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette$Builder$1.class", 
+          "tag": 2907528411
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette$Builder.class", 
+          "tag": 1436274317
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette$Filter.class", 
+          "tag": 2545095490
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette$PaletteAsyncListener.class", 
+          "tag": 1126405270
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette$Swatch.class", 
+          "tag": 199735648
+        }, 
+        {
+          "path": "android/support/v7/graphics/Palette.class", 
+          "tag": 3053483753
+        }, 
+        {
+          "path": "android/support/v7/graphics/Target$Builder.class", 
+          "tag": 4189082243
+        }, 
+        {
+          "path": "android/support/v7/graphics/Target.class", 
+          "tag": 2184214827
+        }, 
+        {
+          "path": "android/support/v7/palette/BuildConfig.class", 
+          "tag": 4132728664
+        }, 
+        {
+          "path": "META-INF/com.android.support_palette-v7.version", 
+          "tag": 947225043
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "e6ed80768b0d04c4ec7169d99f648891"
+}

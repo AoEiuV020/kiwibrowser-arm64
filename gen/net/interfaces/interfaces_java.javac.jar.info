@@ -1,0 +1,7 @@
+org.chromium.net.interfaces.IpAddress,gen/net/interfaces/interfaces_java_sources.srcjar
+org.chromium.net.interfaces.HostResolverRequestClient,gen/net/interfaces/interfaces_java_sources.srcjar
+org.chromium.net.interfaces.IpEndPoint,gen/net/interfaces/interfaces_java_sources.srcjar
+org.chromium.net.interfaces.AddressList,gen/net/interfaces/interfaces_java_sources.srcjar
+org.chromium.net.interfaces.HostResolverRequestClient_Internal,gen/net/interfaces/interfaces_java_sources.srcjar
+org.chromium.net.interfaces.HostResolverRequestInfo,gen/net/interfaces/interfaces_java_sources.srcjar
+org.chromium.net.interfaces.AddressFamily,gen/net/interfaces/interfaces_java_sources.srcjar

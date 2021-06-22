@@ -1,0 +1,189 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/components/sync/android/sync_java.dex.jar"
+  ], 
+  "files-md5": "91c9b72366b8bb11fb38061578774c89", 
+  "input-files": [
+    {
+      "path": "lib.java/components/sync/android/sync_java.jar", 
+      "tag": "a33836973364e582ab4f5a381c14d6f3", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$1.class", 
+          "tag": 3047198803
+        }, 
+        {
+          "path": "org/chromium/components/sync/UploadState.class", 
+          "tag": 1793132944
+        }, 
+        {
+          "path": "org/chromium/components/sync/SyncConstants.class", 
+          "tag": 1072697733
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$AndroidSyncSettingsObserver.class", 
+          "tag": 287556479
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType$1.class", 
+          "tag": 375916286
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$1$1.class", 
+          "tag": 415949605
+        }, 
+        {
+          "path": "org/chromium/components/sync/StopSource.class", 
+          "tag": 3669422235
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType$2.class", 
+          "tag": 1010213344
+        }, 
+        {
+          "path": "org/chromium/components/sync/PassphraseType.class", 
+          "tag": 3628320240
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings$AndroidSyncSettingsChangedObserver.class", 
+          "tag": 3185047492
+        }, 
+        {
+          "path": "org/chromium/components/sync/AndroidSyncSettings.class", 
+          "tag": 2589130506
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelTypeHelper.class", 
+          "tag": 129661212
+        }, 
+        {
+          "path": "org/chromium/components/sync/SyncContentResolverDelegate.class", 
+          "tag": 3728534907
+        }, 
+        {
+          "path": "org/chromium/components/sync/SystemSyncContentResolverDelegate.class", 
+          "tag": 2989133348
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelType.class", 
+          "tag": 1794252587
+        }, 
+        {
+          "path": "org/chromium/components/sync/ModelTypeHelper$TestDelegate.class", 
+          "tag": 1757366677
+        }, 
+        {
+          "path": "org/chromium/components/sync/ProtocolErrorClientAction.class", 
+          "tag": 292307262
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences$EditContext.class", 
+          "tag": 1595915886
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationClientNameProvider.class", 
+          "tag": 749440112
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationIntentProtocol.class", 
+          "tag": 2954821159
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences$PrefKeys.class", 
+          "tag": 3145935527
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationPreferences.class", 
+          "tag": 3783553712
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/InvalidationClientNameGenerator.class", 
+          "tag": 1683192685
+        }, 
+        {
+          "path": "org/chromium/components/sync/notifier/RandomizedInvalidationClientNameGenerator.class", 
+          "tag": 956922619
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "f1f6b392e67d9bab53293e0865b82807"
+}

@@ -1,0 +1,34 @@
+{
+  "android": {
+    "sdk_interface_jars": [
+      "lib.java/third_party/android_tools/android.interface.jar"
+    ],
+    "sdk_jars": [
+      "lib.java/third_party/android_tools/android.jar"
+    ]
+  },
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_tools/android_sdk_java.build_config"
+    ],
+    "name": "app_restrictions_resources.build_config",
+    "path": "gen/components/policy/app_restrictions_resources.build_config",
+    "resources_dirs": [
+      "gen/chrome/app/policy/android",
+      "gen/chrome/app/policy/android"
+    ],
+    "resources_zip": "resource_zips/components/policy/app_restrictions_resources.resources.zip",
+    "srcjar": "gen/components/policy/app_restrictions_resources.srcjar",
+    "type": "android_resources"
+  },
+  "gradle": {
+    "bootclasspath": [
+      "lib.java/third_party/android_tools/android.jar"
+    ]
+  },
+  "resources": {
+    "dependency_zips": [],
+    "extra_package_names": [],
+    "extra_r_text_files": []
+  }
+}

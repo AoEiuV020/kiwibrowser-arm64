@@ -1,0 +1,229 @@
+{
+  "input-strings": [], 
+  "files-md5": "e413489924df57904aaeaa04148d9eba", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_base_java.interface.jar", 
+      "tag": "512295dd0fcb2c7f3488a20a9fe451df"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_basement_java.interface.jar", 
+      "tag": "03905c2c5094398c2cb1a789e71ee0b3"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/third_party/android_tools/google_play_services_vision_common_java__classes__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "3f66ce2921274b28c5850e2cd26ecf3a", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2282617941
+        }, 
+        {
+          "path": "com/google/android/gms/vision/zza.class", 
+          "tag": 3795015662
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$Builder.class", 
+          "tag": 748838824
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$zza.class", 
+          "tag": 1485408125
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$zzb.class", 
+          "tag": 1724547140
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$PictureCallback.class", 
+          "tag": 20366760
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$zzc.class", 
+          "tag": 2468519850
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$zzd.class", 
+          "tag": 3429071786
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$ShutterCallback.class", 
+          "tag": 2374617920
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource$zze.class", 
+          "tag": 3485146269
+        }, 
+        {
+          "path": "com/google/android/gms/vision/CameraSource.class", 
+          "tag": 2248820858
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Detector$Detections.class", 
+          "tag": 2113078249
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Detector$Processor.class", 
+          "tag": 456557294
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Detector.class", 
+          "tag": 2035970149
+        }, 
+        {
+          "path": "com/google/android/gms/vision/FocusingProcessor.class", 
+          "tag": 1809431587
+        }, 
+        {
+          "path": "com/google/android/gms/vision/zzb.class", 
+          "tag": 2411046084
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Frame$Builder.class", 
+          "tag": 4082924612
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Frame$Metadata.class", 
+          "tag": 24090523
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Frame.class", 
+          "tag": 616647594
+        }, 
+        {
+          "path": "com/google/android/gms/vision/zzc.class", 
+          "tag": 1372819340
+        }, 
+        {
+          "path": "com/google/android/gms/vision/zzd.class", 
+          "tag": 1421361680
+        }, 
+        {
+          "path": "com/google/android/gms/vision/MultiDetector$Builder.class", 
+          "tag": 788592297
+        }, 
+        {
+          "path": "com/google/android/gms/vision/MultiDetector.class", 
+          "tag": 4140010135
+        }, 
+        {
+          "path": "com/google/android/gms/vision/zze.class", 
+          "tag": 1882854214
+        }, 
+        {
+          "path": "com/google/android/gms/vision/MultiProcessor$Builder.class", 
+          "tag": 3670169052
+        }, 
+        {
+          "path": "com/google/android/gms/vision/MultiProcessor$Factory.class", 
+          "tag": 3461566946
+        }, 
+        {
+          "path": "com/google/android/gms/vision/MultiProcessor$zza.class", 
+          "tag": 810839371
+        }, 
+        {
+          "path": "com/google/android/gms/vision/MultiProcessor.class", 
+          "tag": 2992140719
+        }, 
+        {
+          "path": "com/google/android/gms/vision/Tracker.class", 
+          "tag": 3963032564
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdlc.class", 
+          "tag": 1184205552
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdld.class", 
+          "tag": 2471374117
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzdle.class", 
+          "tag": 3007551195
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

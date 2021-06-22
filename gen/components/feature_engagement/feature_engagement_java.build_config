@@ -1,0 +1,12 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/components/feature_engagement/internal/internal_java.build_config",
+      "gen/components/feature_engagement/public/public_java.build_config"
+    ],
+    "name": "feature_engagement_java.build_config",
+    "path": "gen/components/feature_engagement/feature_engagement_java.build_config",
+    "type": "group"
+  },
+  "gradle": {}
+}

@@ -1,0 +1,8 @@
+org.chromium.third_party.android.datausagechart.ChartView,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/ChartView.java
+org.chromium.third_party.android.datausagechart.InvertedChartAxis,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/InvertedChartAxis.java
+org.chromium.third_party.android.datausagechart.ChartDataUsageView,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/ChartDataUsageView.java
+org.chromium.third_party.android.datausagechart.ChartAxis,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/ChartAxis.java
+org.chromium.third_party.android.datausagechart.NetworkStats,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/NetworkStats.java
+org.chromium.third_party.android.datausagechart.ChartNetworkSeriesView,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/ChartNetworkSeriesView.java
+org.chromium.third_party.android.R,gen/third_party/android_data_chart/android_data_chart_java_resources.srcjar
+org.chromium.third_party.android.datausagechart.NetworkStatsHistory,../../third_party/android_data_chart/java/src/org/chromium/third_party/android/datausagechart/NetworkStatsHistory.java

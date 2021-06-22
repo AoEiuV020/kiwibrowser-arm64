@@ -1,0 +1,5 @@
+org.chromium.components.dom_distiller.core.FontFamily,gen/components/dom_distiller/core/android/dom_distiller_core_font_family_javagen.srcjar
+org.chromium.components.dom_distiller.core.DomDistillerUrlUtils,../../components/dom_distiller/core/android/java/src/org/chromium/components/dom_distiller/core/DomDistillerUrlUtils.java
+org.chromium.components.dom_distiller.core.DistilledPagePrefs,../../components/dom_distiller/core/android/java/src/org/chromium/components/dom_distiller/core/DistilledPagePrefs.java
+org.chromium.components.dom_distiller.core.DomDistillerService,../../components/dom_distiller/core/android/java/src/org/chromium/components/dom_distiller/core/DomDistillerService.java
+org.chromium.components.dom_distiller.core.Theme,gen/components/dom_distiller/core/android/dom_distiller_core_theme_javagen.srcjar

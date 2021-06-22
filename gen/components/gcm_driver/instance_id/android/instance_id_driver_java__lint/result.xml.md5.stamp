@@ -1,0 +1,315 @@
+{
+  "input-strings": [
+    "True", 
+    "True", 
+    "False", 
+    "26", 
+    "gen/components/gcm_driver/instance_id/android/instance_id_driver_java__lint/config.xml"
+  ], 
+  "files-md5": "b5597d4aaa87e7658bd4e8528a3ceccf", 
+  "input-files": [
+    {
+      "path": "../../third_party/android_tools/sdk/tools/bin/lint", 
+      "tag": "f8028c5b5957effc1f7d41a76b9312c5"
+    }, 
+    {
+      "path": "../../third_party/android_tools/sdk/platform-tools/api/api-versions.xml", 
+      "tag": "2dd802aa7c698f145d300183e741a0a9"
+    }, 
+    {
+      "path": "../../build/android/lint/suppressions.xml", 
+      "tag": "1b7359141c279212ab01bf4badab865d"
+    }, 
+    {
+      "path": "gen/components/gcm_driver/instance_id/android/instance_id_driver_java.javac.jar", 
+      "tag": "998fa36096e635441a7b9ec375cb36a6", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$5.class", 
+          "tag": 1568186097
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$BridgeAsyncTask$1.class", 
+          "tag": 2866002565
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDWithSubtype.class", 
+          "tag": 4224117501
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$4.class", 
+          "tag": 952231808
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$2.class", 
+          "tag": 1824390068
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge.class", 
+          "tag": 1564147858
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$BridgeAsyncTask.class", 
+          "tag": 2328458900
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDWithSubtype$FakeFactory.class", 
+          "tag": 3549625434
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$1.class", 
+          "tag": 3223462941
+        }, 
+        {
+          "path": "org/chromium/components/gcm_driver/instance_id/InstanceIDBridge$3.class", 
+          "tag": 2965966250
+        }, 
+        {
+          "path": "com/google/android/gms/R$attr.class", 
+          "tag": 4231855456
+        }, 
+        {
+          "path": "com/google/android/gms/R$dimen.class", 
+          "tag": 2125371815
+        }, 
+        {
+          "path": "com/google/android/gms/R$id.class", 
+          "tag": 3732570472
+        }, 
+        {
+          "path": "com/google/android/gms/R$styleable.class", 
+          "tag": 3293869596
+        }, 
+        {
+          "path": "com/google/android/gms/R$color.class", 
+          "tag": 22182431
+        }, 
+        {
+          "path": "com/google/android/gms/R$style.class", 
+          "tag": 2284718709
+        }, 
+        {
+          "path": "com/google/android/gms/R$drawable.class", 
+          "tag": 1177817990
+        }, 
+        {
+          "path": "com/google/android/gms/R.class", 
+          "tag": 1397253610
+        }, 
+        {
+          "path": "com/google/android/gms/R$string.class", 
+          "tag": 278180538
+        }, 
+        {
+          "path": "com/google/android/gms/R$integer.class", 
+          "tag": 2459057647
+        }, 
+        {
+          "path": "com/google/android/gms/R$layout.class", 
+          "tag": 1127986691
+        }, 
+        {
+          "path": "com/google/android/gms/R$raw.class", 
+          "tag": 2291647419
+        }, 
+        {
+          "path": "com/google/android/gms/R$array.class", 
+          "tag": 4115827461
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$attr.class", 
+          "tag": 4289092506
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$dimen.class", 
+          "tag": 1306346844
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$id.class", 
+          "tag": 713389166
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$styleable.class", 
+          "tag": 2377367644
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$color.class", 
+          "tag": 3407465567
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$style.class", 
+          "tag": 626211489
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$drawable.class", 
+          "tag": 1479318025
+        }, 
+        {
+          "path": "com/google/android/gms/base/R.class", 
+          "tag": 2879992084
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$string.class", 
+          "tag": 1399680361
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$integer.class", 
+          "tag": 894274118
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$layout.class", 
+          "tag": 886484369
+        }, 
+        {
+          "path": "com/google/android/gms/base/R$bool.class", 
+          "tag": 880574442
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$attr.class", 
+          "tag": 3524122461
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$dimen.class", 
+          "tag": 205660978
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$id.class", 
+          "tag": 1237880276
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$styleable.class", 
+          "tag": 216070542
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$color.class", 
+          "tag": 280903694
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$style.class", 
+          "tag": 4204592117
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$drawable.class", 
+          "tag": 1834872074
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R.class", 
+          "tag": 1445531594
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$string.class", 
+          "tag": 3771420197
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$integer.class", 
+          "tag": 1542477028
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$layout.class", 
+          "tag": 2091650274
+        }, 
+        {
+          "path": "com/google/android/gms/iid/R$bool.class", 
+          "tag": 2725563113
+        }
+      ]
+    }, 
+    {
+      "path": "../../components/gcm_driver/instance_id/android/java/src/org/chromium/components/gcm_driver/instance_id/InstanceIDBridge.java", 
+      "tag": "e6b0d777de324baecb6c2e4a28630ae8"
+    }, 
+    {
+      "path": "../../components/gcm_driver/instance_id/android/java/src/org/chromium/components/gcm_driver/instance_id/InstanceIDWithSubtype.java", 
+      "tag": "5893633add919a45304bad147899cd25"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_iid_java.interface.jar", 
+      "tag": "8302311ce3e08b8fbe3ba8b70357d5a7"
+    }, 
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "../../build/android/gyp/lint.py", 
+      "tag": "5250034419fed9cb7b335bbe3569ee12"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "c03aa5be34cabcf1c450cc9f32dcde5a"
+}

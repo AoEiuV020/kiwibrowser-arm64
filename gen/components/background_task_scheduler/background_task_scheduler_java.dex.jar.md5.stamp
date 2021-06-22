@@ -1,0 +1,237 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/components/background_task_scheduler/background_task_scheduler_java.dex.jar"
+  ], 
+  "files-md5": "40f90fefc96d372d4189d2cf15812959", 
+  "input-files": [
+    {
+      "path": "lib.java/components/background_task_scheduler/background_task_scheduler_java.jar", 
+      "tag": "0c67f1bebbf7de9758c58e4cb6cbff67", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskGcmTaskService$Waiter.class", 
+          "tag": 712413738
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskJobService$TaskFinishedCallbackJobService.class", 
+          "tag": 363280486
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskJobService.class", 
+          "tag": 920338379
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerPrefs$ScheduledTaskPreferenceEntry.class", 
+          "tag": 2213530819
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskGcmTaskService.class", 
+          "tag": 3230109175
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerImpl.class", 
+          "tag": 3080286410
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskGcmTaskService$1.class", 
+          "tag": 3299583369
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerDelegate.class", 
+          "tag": 1841950252
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskJobService$TaskFinishedCallbackJobService$1.class", 
+          "tag": 2849717819
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerGcmNetworkManager.class", 
+          "tag": 1075995399
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskGcmTaskService$TaskFinishedCallbackGcmTaskService$1.class", 
+          "tag": 2664659647
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BundleToPersistableBundleConverter$1.class", 
+          "tag": 1250608250
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskScheduler.class", 
+          "tag": 2439340458
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskInfo$PeriodicInfo.class", 
+          "tag": 1103920035
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerFactory.class", 
+          "tag": 3048743226
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskInfo$OneOffInfo.class", 
+          "tag": 4078376756
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BundleToPersistableBundleConverter.class", 
+          "tag": 1737477053
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskParameters$Builder.class", 
+          "tag": 798350948
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerJobService.class", 
+          "tag": 3855768983
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskGcmTaskService$TaskFinishedCallbackGcmTaskService.class", 
+          "tag": 1297275697
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskParameters.class", 
+          "tag": 49270491
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTask$TaskFinishedCallback.class", 
+          "tag": 1051676018
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerExternalUma.class", 
+          "tag": 3532959028
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerUma$CachedUmaEntry.class", 
+          "tag": 4118889367
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTask.class", 
+          "tag": 829330379
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskParameters$1.class", 
+          "tag": 868440701
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BundleToPersistableBundleConverter$Result.class", 
+          "tag": 1623982353
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskInfo$1.class", 
+          "tag": 1252068873
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerPrefs.class", 
+          "tag": 13947940
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskSchedulerUma.class", 
+          "tag": 827769652
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskInfo$NetworkType.class", 
+          "tag": 3967717956
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskInfo.class", 
+          "tag": 2611602403
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskIds.class", 
+          "tag": 3633820343
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskReflection.class", 
+          "tag": 2032745344
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/BackgroundTaskGcmTaskService$2.class", 
+          "tag": 1655459727
+        }, 
+        {
+          "path": "org/chromium/components/background_task_scheduler/TaskInfo$Builder.class", 
+          "tag": 2491830120
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "9154689afca3bb65e815c79ef1092e55"
+}

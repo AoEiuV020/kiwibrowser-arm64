@@ -1,0 +1,2 @@
+org.chromium.ui.mojom.WindowOpenDisposition,gen/ui/base/mojo/mojo_bindings_java_sources.srcjar
+org.chromium.ui.mojom.ModalType,gen/ui/base/mojo/mojo_bindings_java_sources.srcjar

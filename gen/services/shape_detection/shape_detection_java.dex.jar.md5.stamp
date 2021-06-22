@@ -1,0 +1,137 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/services/shape_detection/shape_detection_java.dex.jar"
+  ], 
+  "files-md5": "e2439b471f8c142a91c810bb10baa105", 
+  "input-files": [
+    {
+      "path": "lib.java/services/shape_detection/shape_detection_java.jar", 
+      "tag": "1f534906df4a61e01c18e211ac609019", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/shape_detection/FaceDetectionImpl$1.class", 
+          "tag": 323394163
+        }, 
+        {
+          "path": "org/chromium/shape_detection/FaceDetectionProviderImpl$Factory.class", 
+          "tag": 3767923649
+        }, 
+        {
+          "path": "org/chromium/shape_detection/TextDetectionImpl$Factory.class", 
+          "tag": 203375318
+        }, 
+        {
+          "path": "org/chromium/shape_detection/TextDetectionImpl.class", 
+          "tag": 493117322
+        }, 
+        {
+          "path": "org/chromium/shape_detection/BarcodeDetectionImpl$Factory.class", 
+          "tag": 1970344371
+        }, 
+        {
+          "path": "org/chromium/shape_detection/FaceDetectionImplGmsCore.class", 
+          "tag": 1297317524
+        }, 
+        {
+          "path": "org/chromium/shape_detection/BarcodeDetectionImpl.class", 
+          "tag": 311164657
+        }, 
+        {
+          "path": "org/chromium/shape_detection/InterfaceRegistrar.class", 
+          "tag": 2522800132
+        }, 
+        {
+          "path": "org/chromium/shape_detection/BitmapUtils.class", 
+          "tag": 881071120
+        }, 
+        {
+          "path": "org/chromium/shape_detection/FaceDetectionProviderImpl.class", 
+          "tag": 1361866523
+        }, 
+        {
+          "path": "org/chromium/shape_detection/FaceDetectionImpl.class", 
+          "tag": 2376662648
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "09789bc00343e31878effc013ad50518"
+}

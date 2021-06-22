@@ -1,0 +1,15 @@
+org.chromium.components.sync.SyncConstants,../../components/sync/android/java/src/org/chromium/components/sync/SyncConstants.java
+org.chromium.components.sync.notifier.RandomizedInvalidationClientNameGenerator,../../components/sync/android/java/src/org/chromium/components/sync/notifier/RandomizedInvalidationClientNameGenerator.java
+org.chromium.components.sync.StopSource,gen/components/sync/android/java_enums.srcjar
+org.chromium.components.sync.ProtocolErrorClientAction,gen/components/sync/android/java_enums.srcjar
+org.chromium.components.sync.PassphraseType,../../components/sync/android/java/src/org/chromium/components/sync/PassphraseType.java
+org.chromium.components.sync.notifier.InvalidationClientNameGenerator,../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationClientNameGenerator.java
+org.chromium.components.sync.AndroidSyncSettings,../../components/sync/android/java/src/org/chromium/components/sync/AndroidSyncSettings.java
+org.chromium.components.sync.SystemSyncContentResolverDelegate,../../components/sync/android/java/src/org/chromium/components/sync/SystemSyncContentResolverDelegate.java
+org.chromium.components.sync.SyncContentResolverDelegate,../../components/sync/android/java/src/org/chromium/components/sync/SyncContentResolverDelegate.java
+org.chromium.components.sync.notifier.InvalidationPreferences,../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationPreferences.java
+org.chromium.components.sync.notifier.InvalidationIntentProtocol,../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationIntentProtocol.java
+org.chromium.components.sync.ModelType,gen/components/sync/android/java_enums.srcjar
+org.chromium.components.sync.notifier.InvalidationClientNameProvider,../../components/sync/android/java/src/org/chromium/components/sync/notifier/InvalidationClientNameProvider.java
+org.chromium.components.sync.UploadState,gen/components/sync/android/java_enums.srcjar
+org.chromium.components.sync.ModelTypeHelper,../../components/sync/android/java/src/org/chromium/components/sync/ModelTypeHelper.java

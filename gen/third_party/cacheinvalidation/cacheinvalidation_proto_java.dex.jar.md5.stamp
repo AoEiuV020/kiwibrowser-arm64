@@ -1,0 +1,429 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/cacheinvalidation/cacheinvalidation_proto_java.dex.jar"
+  ], 
+  "files-md5": "07c4dca82ebb07234101540844742730", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/cacheinvalidation/cacheinvalidation_proto_java.jar", 
+      "tag": "f2ca18a324c900c6f17564f3a6f082e3", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/Types$Constants.class", 
+          "tag": 2414318031
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol.class", 
+          "tag": 2208887562
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient.class", 
+          "tag": 856316655
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/Types$ObjectSource.class", 
+          "tag": 2588409784
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidChannel.class", 
+          "tag": 2828933825
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient$ProtocolHandlerState.class", 
+          "tag": 3459606580
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$AndroidSchedulerEvent.class", 
+          "tag": 2372967921
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient$RegistrationManagerStateP.class", 
+          "tag": 3862681433
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$AndroidTiclState$Metadata.class", 
+          "tag": 1462657665
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/Types.class", 
+          "tag": 948623858
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidChannel$AddressedAndroidMessageBatch.class", 
+          "tag": 348293783
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$ReissueRegistrationsUpcall.class", 
+          "tag": 856016669
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$RegistrationStatusUpcall.class", 
+          "tag": 434179120
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient$RecurringTaskState.class", 
+          "tag": 1961885397
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient$BatcherState.class", 
+          "tag": 72047284
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$StartDowncall.class", 
+          "tag": 3640552887
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService.class", 
+          "tag": 2014358066
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$AndroidListenerState.class", 
+          "tag": 2105991116
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall$NetworkStatus.class", 
+          "tag": 830620387
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$ReadyUpcall.class", 
+          "tag": 4280843069
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$RegistrationCommand.class", 
+          "tag": 3929854273
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient$StatisticsState.class", 
+          "tag": 2047389525
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall$ServerMessage.class", 
+          "tag": 3870519384
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidChannel$AndroidEndpointId.class", 
+          "tag": 2979884652
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$StartCommand.class", 
+          "tag": 3258650317
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$AckDowncall.class", 
+          "tag": 851988907
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/Types$ClientType.class", 
+          "tag": 928002848
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$AndroidListenerState$ScheduledRegistrationRetry.class", 
+          "tag": 2586784795
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall.class", 
+          "tag": 1565089050
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidListenerProtocol$AndroidListenerState$RetryRegistrationState.class", 
+          "tag": 1247118171
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$AndroidTiclState.class", 
+          "tag": 1832898795
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$ErrorUpcall.class", 
+          "tag": 3100753146
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ScheduledTask.class", 
+          "tag": 2862774405
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoJavaClient$InvalidationClientState.class", 
+          "tag": 4168014673
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$AndroidNetworkSendRequest.class", 
+          "tag": 3601283812
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall.class", 
+          "tag": 3801984685
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$RegistrationFailureUpcall.class", 
+          "tag": 2961648500
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$AndroidTiclStateWithDigest.class", 
+          "tag": 3427764321
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$StopDowncall.class", 
+          "tag": 3761971038
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ClientDowncall$RegistrationDowncall.class", 
+          "tag": 2682739369
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall.class", 
+          "tag": 2992448980
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$InternalDowncall$CreateClient.class", 
+          "tag": 2321470078
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidService$ListenerUpcall$InvalidateUpcall.class", 
+          "tag": 2782983678
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/NanoAndroidChannel$AddressedAndroidMessage.class", 
+          "tag": 2089425332
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoChannelCommon$NetworkEndpointId.class", 
+          "tag": 4018117154
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClient$ExponentialBackoffState.class", 
+          "tag": 2713737511
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$InvalidationP.class", 
+          "tag": 1849095768
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ClientVersion.class", 
+          "tag": 714025898
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$InitializeMessage.class", 
+          "tag": 1449616127
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationSummary.class", 
+          "tag": 3724094055
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClient$AckHandleP.class", 
+          "tag": 3482192449
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ProtocolVersion.class", 
+          "tag": 2074490305
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClient$RunStateP.class", 
+          "tag": 2336399739
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationSyncRequestMessage.class", 
+          "tag": 2791925854
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoChannelCommon$ChannelMessageEncoding.class", 
+          "tag": 1008597650
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationSyncMessage.class", 
+          "tag": 2946039045
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ProtocolHandlerConfigP.class", 
+          "tag": 2105596881
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ErrorMessage.class", 
+          "tag": 543710187
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationMessage.class", 
+          "tag": 2122162596
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClient$PersistentStateBlob.class", 
+          "tag": 3776092251
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$PropertyRecord.class", 
+          "tag": 862575593
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$StatusP.class", 
+          "tag": 675606473
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ClientHeader.class", 
+          "tag": 2041287709
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ObjectIdP.class", 
+          "tag": 5087335
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$InvalidationMessage.class", 
+          "tag": 2561381088
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationSubtree.class", 
+          "tag": 2395578888
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClient.class", 
+          "tag": 1633165631
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol.class", 
+          "tag": 497701848
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$TokenControlMessage.class", 
+          "tag": 1877516561
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationP.class", 
+          "tag": 3139768921
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$InfoMessage.class", 
+          "tag": 1011764292
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ServerHeader.class", 
+          "tag": 1736971649
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RateLimitP.class", 
+          "tag": 2126899487
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ConfigChangeMessage.class", 
+          "tag": 3971615452
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationStatusMessage.class", 
+          "tag": 659509573
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$Version.class", 
+          "tag": 1822853312
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$InfoRequestMessage.class", 
+          "tag": 2347860863
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ServerToClientMessage.class", 
+          "tag": 1290647019
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoChannelCommon.class", 
+          "tag": 171353093
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ApplicationClientIdP.class", 
+          "tag": 2806265429
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ClientToServerMessage.class", 
+          "tag": 3278753225
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClient$PersistentTiclState.class", 
+          "tag": 2528208834
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$ClientConfigP.class", 
+          "tag": 3290341245
+        }, 
+        {
+          "path": "com/google/protos/ipc/invalidation/nano/NanoClientProtocol$RegistrationStatus.class", 
+          "tag": 1791296764
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "cbaa5dac8ba3327701a1b4a598edcc29"
+}

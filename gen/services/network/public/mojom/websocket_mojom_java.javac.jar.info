@@ -1,0 +1,8 @@
+org.chromium.network.mojom.WebSocketHandshakeRequest,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.WebSocketClient,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.WebSocket,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.HttpHeader,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.WebSocketClient_Internal,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.WebSocketHandshakeResponse,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.WebSocketMessageType,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar
+org.chromium.network.mojom.WebSocket_Internal,gen/services/network/public/mojom/websocket_mojom_java_sources.srcjar

@@ -1,0 +1,2 @@
+org.chromium.device.sensors.PlatformSensor,../../services/device/generic_sensor/android/java/src/org/chromium/device/sensors/PlatformSensor.java
+org.chromium.device.sensors.PlatformSensorProvider,../../services/device/generic_sensor/android/java/src/org/chromium/device/sensors/PlatformSensorProvider.java

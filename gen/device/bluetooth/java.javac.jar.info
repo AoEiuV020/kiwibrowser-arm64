@@ -1,0 +1,6 @@
+org.chromium.device.bluetooth.ChromeBluetoothRemoteGattDescriptor,../../device/bluetooth/android/java/src/org/chromium/device/bluetooth/ChromeBluetoothRemoteGattDescriptor.java
+org.chromium.device.bluetooth.ChromeBluetoothAdapter,../../device/bluetooth/android/java/src/org/chromium/device/bluetooth/ChromeBluetoothAdapter.java
+org.chromium.device.bluetooth.ChromeBluetoothDevice,../../device/bluetooth/android/java/src/org/chromium/device/bluetooth/ChromeBluetoothDevice.java
+org.chromium.device.bluetooth.ChromeBluetoothRemoteGattService,../../device/bluetooth/android/java/src/org/chromium/device/bluetooth/ChromeBluetoothRemoteGattService.java
+org.chromium.device.bluetooth.ChromeBluetoothRemoteGattCharacteristic,../../device/bluetooth/android/java/src/org/chromium/device/bluetooth/ChromeBluetoothRemoteGattCharacteristic.java
+org.chromium.device.bluetooth.Wrappers,../../device/bluetooth/android/java/src/org/chromium/device/bluetooth/Wrappers.java

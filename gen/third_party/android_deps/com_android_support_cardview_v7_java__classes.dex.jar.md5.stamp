@@ -1,0 +1,145 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_deps/com_android_support_cardview_v7_java__classes.dex.jar"
+  ], 
+  "files-md5": "ba86fa11642d60ccbb537ccf57ff1f01", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_cardview_v7_java.jar", 
+      "tag": "5b39495fb634d001666f25a4f1f9ed78", 
+      "entries": [
+        {
+          "path": "android/support/v7/cardview/BuildConfig.class", 
+          "tag": 4046726359
+        }, 
+        {
+          "path": "android/support/v7/widget/CardView$1.class", 
+          "tag": 948633703
+        }, 
+        {
+          "path": "android/support/v7/widget/CardView.class", 
+          "tag": 2745608706
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewApi17Impl$1.class", 
+          "tag": 2986351586
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewApi17Impl.class", 
+          "tag": 2216423968
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewApi21Impl.class", 
+          "tag": 2557414008
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewBaseImpl$1.class", 
+          "tag": 2499979599
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewBaseImpl.class", 
+          "tag": 2382619467
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewDelegate.class", 
+          "tag": 3125842837
+        }, 
+        {
+          "path": "android/support/v7/widget/CardViewImpl.class", 
+          "tag": 3737045097
+        }, 
+        {
+          "path": "android/support/v7/widget/RoundRectDrawable.class", 
+          "tag": 845402803
+        }, 
+        {
+          "path": "android/support/v7/widget/RoundRectDrawableWithShadow$RoundRectHelper.class", 
+          "tag": 3924907139
+        }, 
+        {
+          "path": "android/support/v7/widget/RoundRectDrawableWithShadow.class", 
+          "tag": 2062294705
+        }, 
+        {
+          "path": "META-INF/com.android.support_cardview-v7.version", 
+          "tag": 947225043
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "6953a976269286943c04c31ede26df23"
+}

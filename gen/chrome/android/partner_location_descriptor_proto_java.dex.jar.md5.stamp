@@ -1,0 +1,189 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/chrome/android/partner_location_descriptor_proto_java.dex.jar"
+  ], 
+  "files-md5": "363f850fbb81f274cf8fcb29f6c9fc5a", 
+  "input-files": [
+    {
+      "path": "lib.java/chrome/android/partner_location_descriptor_proto_java.jar", 
+      "tag": "e8c683124fb9e9fb4bb0edf5b6c55c93", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LatLngOrBuilder.class", 
+          "tag": 2533316642
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationDescriptorOrBuilder.class", 
+          "tag": 997995172
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationProducer$1.class", 
+          "tag": 2636799646
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetworkOrBuilder.class", 
+          "tag": 1979338160
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LatLng$Builder.class", 
+          "tag": 2291906736
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$WiFi$Builder.class", 
+          "tag": 1175708647
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationRole$1.class", 
+          "tag": 1821125738
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$TypeCase.class", 
+          "tag": 843037818
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork.class", 
+          "tag": 845297487
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$Cell$Builder.class", 
+          "tag": 3056744720
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$WiFiOrBuilder.class", 
+          "tag": 1151975170
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor.class", 
+          "tag": 1243959277
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$Cell$Type.class", 
+          "tag": 3395912594
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$Builder.class", 
+          "tag": 3905132920
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$Cell$Type$1.class", 
+          "tag": 1418780867
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationRole.class", 
+          "tag": 495766307
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationDescriptor$Builder.class", 
+          "tag": 433464153
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationProducer.class", 
+          "tag": 1798821654
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LatLng.class", 
+          "tag": 1170753296
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$LocationDescriptor.class", 
+          "tag": 806736123
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$CellOrBuilder.class", 
+          "tag": 280171676
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$Cell.class", 
+          "tag": 1509802380
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$1.class", 
+          "tag": 1695805354
+        }, 
+        {
+          "path": "org/chromium/chrome/browser/omnibox/geo/PartnerLocationDescriptor$VisibleNetwork$WiFi.class", 
+          "tag": 893982363
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "8d1aa9f309d4fc49c8ead5c59c419788"
+}

@@ -1,0 +1,285 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/components/signin/core/browser/android/java.dex.jar"
+  ], 
+  "files-md5": "f7e16637e220eec57c16b28dc3b1b689", 
+  "input-files": [
+    {
+      "path": "lib.java/components/signin/core/browser/android/java.jar", 
+      "tag": "5d02d23b34bcb6bfb257e41aeac8a748", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerDelegate$$CC.class", 
+          "tag": 2434585382
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$5.class", 
+          "tag": 172088520
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$0.class", 
+          "tag": 4062361601
+        }, 
+        {
+          "path": "org/chromium/components/signin/ProfileDataSource$Observer.class", 
+          "tag": 2792388716
+        }, 
+        {
+          "path": "org/chromium/components/signin/SystemAccountManagerDelegate$$Lambda$0.class", 
+          "tag": 2078612404
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$7.class", 
+          "tag": 209380434
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerResult.class", 
+          "tag": 3171092839
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$4.class", 
+          "tag": 2548606859
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$3.class", 
+          "tag": 529401016
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$1.class", 
+          "tag": 792503246
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerDelegate.class", 
+          "tag": 2963906714
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$ConnectionRetry.class", 
+          "tag": 3454233198
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$2.class", 
+          "tag": 2685102575
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChromeSigninController.class", 
+          "tag": 1409988372
+        }, 
+        {
+          "path": "org/chromium/components/signin/SystemAccountManagerDelegate$$Lambda$2.class", 
+          "tag": 1243428936
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$1.class", 
+          "tag": 4185486673
+        }, 
+        {
+          "path": "org/chromium/components/signin/SystemAccountManagerDelegate$1.class", 
+          "tag": 1616938650
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$6.class", 
+          "tag": 3728398382
+        }, 
+        {
+          "path": "org/chromium/components/signin/AuthException.class", 
+          "tag": 3969813796
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerDelegateException.class", 
+          "tag": 4184886784
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$UpdateAccountRestrictionPatternsTask.class", 
+          "tag": 2926587519
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$GetAuthTokenCallback.class", 
+          "tag": 2974650018
+        }, 
+        {
+          "path": "org/chromium/components/signin/SystemAccountManagerDelegate.class", 
+          "tag": 1215226764
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountInfoFetcher$$Lambda$0.class", 
+          "tag": 1433586817
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountStatus$Status.class", 
+          "tag": 460739430
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountIdProvider.class", 
+          "tag": 2953375976
+        }, 
+        {
+          "path": "org/chromium/components/signin/GmsAvailabilityException.class", 
+          "tag": 14626902
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$5.class", 
+          "tag": 3711559869
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$AuthTask.class", 
+          "tag": 827309602
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$ConnectionRetry$1.class", 
+          "tag": 2538785482
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountInfoFetcher.class", 
+          "tag": 1612399117
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountStatus.class", 
+          "tag": 790453011
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$UpdateAccountsTask.class", 
+          "tag": 2768741181
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade.class", 
+          "tag": 635562425
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$6.class", 
+          "tag": 3070019799
+        }, 
+        {
+          "path": "org/chromium/components/signin/ProfileDataSource$ProfileData.class", 
+          "tag": 4007203519
+        }, 
+        {
+          "path": "org/chromium/components/signin/GmsJustUpdatedException.class", 
+          "tag": 810257740
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$2.class", 
+          "tag": 1604249258
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$InitializeTask.class", 
+          "tag": 2785573198
+        }, 
+        {
+          "path": "org/chromium/components/signin/ProfileDataSource.class", 
+          "tag": 1643068685
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$$Lambda$4.class", 
+          "tag": 2877861130
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountsChangeObserver.class", 
+          "tag": 1920539063
+        }, 
+        {
+          "path": "org/chromium/components/signin/AccountManagerFacade$3.class", 
+          "tag": 3354554471
+        }, 
+        {
+          "path": "org/chromium/components/signin/SystemAccountManagerDelegate$$Lambda$1.class", 
+          "tag": 3359034553
+        }, 
+        {
+          "path": "org/chromium/components/signin/ChildAccountInfoFetcher$1.class", 
+          "tag": 2038301772
+        }, 
+        {
+          "path": "org/chromium/components/signin/util/PatternMatcher$1.class", 
+          "tag": 1258885098
+        }, 
+        {
+          "path": "org/chromium/components/signin/util/PatternMatcher$IllegalPatternException.class", 
+          "tag": 1572843974
+        }, 
+        {
+          "path": "org/chromium/components/signin/util/PatternMatcher.class", 
+          "tag": 4145996545
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "a6e96ab62ccadb41ce56b95976f634ca"
+}

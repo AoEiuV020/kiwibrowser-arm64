@@ -1,0 +1,1213 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/cacheinvalidation/cacheinvalidation_javalib.dex.jar"
+  ], 
+  "files-md5": "2716c1be9ce28ebe8bf849136ed5f695", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/cacheinvalidation/cacheinvalidation_javalib.jar", 
+      "tag": "cf0d6779d0542eb2dce11c226d62a925", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources$NetworkChannel.class", 
+          "tag": 2581465502
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/InvalidationListener$RegistrationState.class", 
+          "tag": 3354993539
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources.class", 
+          "tag": 3009976565
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources$ResourceComponent.class", 
+          "tag": 2704331866
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/InvalidationListener.class", 
+          "tag": 4187260546
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/InvalidationClientFactory.class", 
+          "tag": 1143328705
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources$Logger.class", 
+          "tag": 4265120641
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/InvalidationClient.class", 
+          "tag": 3742135964
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources$Scheduler.class", 
+          "tag": 4094215221
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources$NetworkChannel$NetworkListener.class", 
+          "tag": 1454341551
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/InvalidationClientConfig.class", 
+          "tag": 932894506
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResources$Storage.class", 
+          "tag": 588634935
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/SystemResourcesBuilder.class", 
+          "tag": 3112173701
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/android/service/AndroidLogger.class", 
+          "tag": 2235132927
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/BytesFormatter.class", 
+          "tag": 1719410796
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/ErrorContext.class", 
+          "tag": 3711172152
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/ObjectId.class", 
+          "tag": 3266911566
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/ErrorContext$NumberContext.class", 
+          "tag": 1024779765
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/ApplicationClientId.class", 
+          "tag": 2610437268
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/Callback.class", 
+          "tag": 2508740742
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/ErrorInfo$ErrorReason.class", 
+          "tag": 1830547232
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/Status.class", 
+          "tag": 984488024
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/Invalidation.class", 
+          "tag": 3360776746
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/Status$Code.class", 
+          "tag": 3764605032
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/ErrorInfo.class", 
+          "tag": 2994943837
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/SimplePair.class", 
+          "tag": 540836630
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/types/AckHandle.class", 
+          "tag": 3699030621
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/MultiplexingGcmListener$AbstractListener$Receiver.class", 
+          "tag": 3343981187
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/MultiplexingGcmListener.class", 
+          "tag": 3388958507
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/MultiplexingGcmListener$Intents.class", 
+          "tag": 3868892430
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/MultiplexingGcmListener$AbstractListener.class", 
+          "tag": 2660831943
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/AndroidListenerIntents.class", 
+          "tag": 3155984086
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/AndroidListener.class", 
+          "tag": 1019706261
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/AndroidListenerProtos.class", 
+          "tag": 1624063190
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/MultiplexingGcmListener$GCMReceiver.class", 
+          "tag": 2640824672
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/AndroidListener$1.class", 
+          "tag": 1544490013
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/AndroidListenerState.class", 
+          "tag": 2426191020
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/contrib/AndroidListener$AlarmReceiver.class", 
+          "tag": 1259569939
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/external/client/android2/AndroidClientFactory.class", 
+          "tag": 1986602904
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/LazyString$LazyStringReceiver.class", 
+          "tag": 563163
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Bytes$BytesAccessor.class", 
+          "tag": 4125131212
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/LazyString$2.class", 
+          "tag": 432541839
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/LazyString.class", 
+          "tag": 638586741
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Box.class", 
+          "tag": 4051729480
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Preconditions.class", 
+          "tag": 2315647741
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/LazyString$1.class", 
+          "tag": 2564305738
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/TypedUtil.class", 
+          "tag": 1426049933
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/BaseLogger.class", 
+          "tag": 618561246
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/LazyString$4.class", 
+          "tag": 1412670073
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/ProtoWrapper$ValidationArgumentException.class", 
+          "tag": 746256988
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/ExponentialBackoffDelayGenerator.class", 
+          "tag": 570748129
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/NamedRunnable.class", 
+          "tag": 89548245
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Bytes$1.class", 
+          "tag": 2908838319
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Bytes$2.class", 
+          "tag": 2346609622
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/UtilFormatter.class", 
+          "tag": 2308578184
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/LazyString$3.class", 
+          "tag": 834797707
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/ProtoWrapper.class", 
+          "tag": 1648767622
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Smearer.class", 
+          "tag": 3260483993
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Formatter.class", 
+          "tag": 3611991188
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/InternalBase.class", 
+          "tag": 4052809182
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Bytes.class", 
+          "tag": 1841358301
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/Marshallable.class", 
+          "tag": 1896645534
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/ProtoWrapper$ValidationException.class", 
+          "tag": 3915867624
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/util/TextBuilder.class", 
+          "tag": 4029678944
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/TestableInvalidationClient$RegistrationManagerState.class", 
+          "tag": 2758225210
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/Statistics.class", 
+          "tag": 3185778916
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage.class", 
+          "tag": 2425108527
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl.class", 
+          "tag": 4224116880
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener.class", 
+          "tag": 2878953992
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SimpleRegistrationStore.class", 
+          "tag": 658048365
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$InitialPersistentHeartbeatTask.class", 
+          "tag": 2809175553
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/ProtocolHandler$Batcher.class", 
+          "tag": 3125304225
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$7.class", 
+          "tag": 271252303
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$1.class", 
+          "tag": 406117997
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$7.class", 
+          "tag": 4246011514
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/ProtocolHandler$ProtocolListener.class", 
+          "tag": 3009173886
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$2.class", 
+          "tag": 3349412068
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$1$1.class", 
+          "tag": 3805373038
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/BasicSystemResources.class", 
+          "tag": 3761963074
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$1.class", 
+          "tag": 686678685
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$3.class", 
+          "tag": 602364198
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$RegSyncHeartbeatTask.class", 
+          "tag": 1739424555
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$8.class", 
+          "tag": 1701866346
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/MemoryStorageImpl$2.class", 
+          "tag": 2223254310
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$4.class", 
+          "tag": 3245137600
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/ProtocolHandler$ServerMessageHeader.class", 
+          "tag": 1532161174
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$6.class", 
+          "tag": 113467806
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore.class", 
+          "tag": 1135278066
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$1.class", 
+          "tag": 920377566
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/Statistics$ListenerEventType.class", 
+          "tag": 1433172204
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/MemoryStorageImpl$4.class", 
+          "tag": 406544549
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/AckCache.class", 
+          "tag": 2024111864
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$PersistentWriteTask.class", 
+          "tag": 2393920256
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/ProtocolHandler.class", 
+          "tag": 62554330
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/RegistrationManager.class", 
+          "tag": 3533370128
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$1.class", 
+          "tag": 2958058354
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$HeartbeatTask.class", 
+          "tag": 3935331927
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$2.class", 
+          "tag": 2314867996
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$4$1.class", 
+          "tag": 2725911818
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/ProtoWrapperConverter.class", 
+          "tag": 2413849393
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$3$1.class", 
+          "tag": 1928477945
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$AcquireTokenTask.class", 
+          "tag": 3067333845
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$PersistentWriteTask$1.class", 
+          "tag": 2133405946
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/RecurringTask$1.class", 
+          "tag": 403894806
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/TestableInvalidationClient.class", 
+          "tag": 4052661909
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$2.class", 
+          "tag": 862970864
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/Statistics$ReceivedMessageType.class", 
+          "tag": 789190336
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$5.class", 
+          "tag": 1298647418
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/MemoryStorageImpl.class", 
+          "tag": 2219834337
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/TestableNetworkChannel.class", 
+          "tag": 2180794351
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$6.class", 
+          "tag": 918651139
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/DigestStore.class", 
+          "tag": 2913143055
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/Statistics$SentMessageType.class", 
+          "tag": 1000722661
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$2$1.class", 
+          "tag": 2510491275
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/MemoryStorageImpl$1.class", 
+          "tag": 1236035836
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/MemoryStorageImpl$3.class", 
+          "tag": 117478788
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$TiclRecurringTask.class", 
+          "tag": 169419958
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$3.class", 
+          "tag": 4282138347
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/PersistenceUtils.class", 
+          "tag": 196282662
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$4.class", 
+          "tag": 2656649830
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/ProtocolHandler$ParsedMessage.class", 
+          "tag": 3165205815
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/RunState.class", 
+          "tag": 743356066
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/CheckingInvalidationListener$4.class", 
+          "tag": 3767651776
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/TiclExponentialBackoffDelayGenerator.class", 
+          "tag": 2318898246
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$8.class", 
+          "tag": 2864177243
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$9.class", 
+          "tag": 1455083381
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$3.class", 
+          "tag": 1145557255
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientImpl$5.class", 
+          "tag": 3908441654
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/RecurringTask.class", 
+          "tag": 3869015806
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/InvalidationClientCore$BatchingTask.class", 
+          "tag": 1636630921
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/Statistics$ClientErrorType.class", 
+          "tag": 2487914386
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/Statistics$IncomingOperationType.class", 
+          "tag": 3482455466
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/SafeStorage$2.class", 
+          "tag": 3153035931
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/TiclService.class", 
+          "tag": 3458175845
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInvalidationClientImpl$IntentForwardingListener.class", 
+          "tag": 164827683
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInvalidationListenerIntentMapper.class", 
+          "tag": 1006974536
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidClock$SystemClock.class", 
+          "tag": 1747695896
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/TiclService$1$1.class", 
+          "tag": 116618779
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ProtocolIntents$InternalDowncalls.class", 
+          "tag": 1456495967
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ProtocolIntents$ListenerUpcalls.class", 
+          "tag": 2713195942
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidTiclManifest.class", 
+          "tag": 2576668685
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/TiclService$1.class", 
+          "tag": 4046625623
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInvalidationListenerStub.class", 
+          "tag": 2935761809
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ProtocolIntents.class", 
+          "tag": 3590459927
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInvalidationClientImpl.class", 
+          "tag": 1175673380
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ResourcesFactory$AndroidResources.class", 
+          "tag": 2160326928
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ResourcesFactory$InvalidScheduler.class", 
+          "tag": 736587952
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ResourcesFactory.class", 
+          "tag": 1696596018
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/TiclStateManager.class", 
+          "tag": 1602415890
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidClock.class", 
+          "tag": 66718599
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInternalScheduler.class", 
+          "tag": 832617491
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/WakeLockManager.class", 
+          "tag": 3978282139
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInvalidationClientStub.class", 
+          "tag": 3079568117
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ResourcesFactory$1.class", 
+          "tag": 3049973440
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidTiclManifest$ApplicationMetadata.class", 
+          "tag": 4281590591
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/ProtocolIntents$ClientDowncalls.class", 
+          "tag": 2544357182
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidStorage.class", 
+          "tag": 1139411136
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/AndroidInternalScheduler$AlarmReceiver.class", 
+          "tag": 1200491565
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidMessageReceiverService.class", 
+          "tag": 3545534805
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidInstanceIDListenerService.class", 
+          "tag": 3914652845
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/GcmRegistrationTaskService.class", 
+          "tag": 2708793040
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelPreferences$GcmChannelType.class", 
+          "tag": 3631109705
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/GcmUpstreamSenderService.class", 
+          "tag": 397746621
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelConstants.class", 
+          "tag": 2459337002
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidMessageSenderService.class", 
+          "tag": 3030946168
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelPreferences.class", 
+          "tag": 2676826041
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/CommonUtils.class", 
+          "tag": 3655288627
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelConstants$C2dmConstants.class", 
+          "tag": 2949818409
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelConstants$AuthTokenConstants.class", 
+          "tag": 2554950520
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidChannelConstants$HttpConstants.class", 
+          "tag": 2406951288
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidGcmController.class", 
+          "tag": 3606387512
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidNetworkChannel.class", 
+          "tag": 153802461
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/android2/channel/AndroidMessageReceiverService$Receiver.class", 
+          "tag": 1432185666
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ClientConfigP.class", 
+          "tag": 771973364
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService.class", 
+          "tag": 2407810302
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$PropertyRecord.class", 
+          "tag": 2196921017
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ChannelCommon$NetworkEndpointId$NetworkAddress.class", 
+          "tag": 428312709
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$AndroidTiclState$Metadata.class", 
+          "tag": 2255442272
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ClientDowncall.class", 
+          "tag": 701594662
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientConstants.class", 
+          "tag": 2969808867
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidChannel$AndroidEndpointId.class", 
+          "tag": 2635510753
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ServerToClientMessage.class", 
+          "tag": 3918961194
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationSyncMessage.class", 
+          "tag": 1359494229
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ProtocolHandlerConfigP$Builder.class", 
+          "tag": 153611706
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ClientDowncall$StartDowncall.class", 
+          "tag": 1026856280
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol$AndroidListenerState.class", 
+          "tag": 579321628
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ClientToServerMessage.class", 
+          "tag": 625570157
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol$StartCommand.class", 
+          "tag": 1915015188
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$RunStateP.class", 
+          "tag": 2250068227
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$InvalidationClientState$Builder.class", 
+          "tag": 3385423257
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$AndroidNetworkSendRequest.class", 
+          "tag": 2628914507
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$StatusP.class", 
+          "tag": 1472887416
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InfoMessage.class", 
+          "tag": 423377953
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$InternalDowncall$ServerMessage.class", 
+          "tag": 3166892383
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ProtocolVersion.class", 
+          "tag": 1091126159
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall$ErrorUpcall.class", 
+          "tag": 3990885066
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol$AndroidListenerState$ScheduledRegistrationRetry.class", 
+          "tag": 2896542421
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$RunStateP$State.class", 
+          "tag": 1199068338
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$AndroidTiclStateWithDigest.class", 
+          "tag": 524381948
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationSubtree.class", 
+          "tag": 1439116202
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$1.class", 
+          "tag": 2337615077
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationP$OpType.class", 
+          "tag": 1139439128
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall$RegistrationFailureUpcall.class", 
+          "tag": 871111056
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ClientDowncall$AckDowncall.class", 
+          "tag": 2641065096
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InfoRequestMessage$InfoType.class", 
+          "tag": 3133180240
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidChannel$AddressedAndroidMessageBatch.class", 
+          "tag": 433943816
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$RegistrationManagerStateP.class", 
+          "tag": 2214946118
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationStatusMessage.class", 
+          "tag": 424879492
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$PersistentTiclState.class", 
+          "tag": 1126625304
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ObjectIdP.class", 
+          "tag": 3595341448
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InitializeMessage.class", 
+          "tag": 3754512197
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ChannelCommon$NetworkEndpointId.class", 
+          "tag": 3708472882
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ClientDowncall$RegistrationDowncall.class", 
+          "tag": 3918459711
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$1.class", 
+          "tag": 4033388048
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ProtocolHandlerConfigP.class", 
+          "tag": 3670699430
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$PersistentTiclState$Builder.class", 
+          "tag": 182526969
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidChannel$AddressedAndroidMessage.class", 
+          "tag": 1993651595
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$InternalDowncall$NetworkStatus.class", 
+          "tag": 1728158546
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$AckHandleP.class", 
+          "tag": 1626286085
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$BatcherState.class", 
+          "tag": 1073600875
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationMessage.class", 
+          "tag": 3423393481
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol$AndroidListenerState$RetryRegistrationState.class", 
+          "tag": 1807000929
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$StatusP$Code.class", 
+          "tag": 2960359445
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationSyncRequestMessage.class", 
+          "tag": 1617031796
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client.class", 
+          "tag": 1514508345
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InfoRequestMessage.class", 
+          "tag": 2981716415
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$1.class", 
+          "tag": 3844535298
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol.class", 
+          "tag": 3497984716
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InvalidationP.class", 
+          "tag": 3607992306
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ClientHeader.class", 
+          "tag": 1216082411
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ChannelCommon$ChannelMessageEncoding.class", 
+          "tag": 524246754
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$TokenControlMessage.class", 
+          "tag": 3197065559
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationP.class", 
+          "tag": 3861407580
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$InvalidationClientState.class", 
+          "tag": 1253920490
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ServerHeader.class", 
+          "tag": 4031639294
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InvalidationP$Builder.class", 
+          "tag": 1069766427
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall$RegistrationStatusUpcall.class", 
+          "tag": 1758213593
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidChannel.class", 
+          "tag": 3040792177
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ApplicationClientIdP.class", 
+          "tag": 3341903414
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/CommonProtos.class", 
+          "tag": 1881745864
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall$ReadyUpcall.class", 
+          "tag": 3725713748
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$RecurringTaskState.class", 
+          "tag": 410431273
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall$InvalidateUpcall.class", 
+          "tag": 3330301140
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient.class", 
+          "tag": 4095174871
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol.class", 
+          "tag": 2340044270
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ServerToClientMessage$Builder.class", 
+          "tag": 3143377988
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ChannelCommon$ChannelMessageEncoding$MessageEncoding.class", 
+          "tag": 2174249938
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidListenerProtocol$RegistrationCommand.class", 
+          "tag": 3492486729
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ErrorMessage.class", 
+          "tag": 3123042878
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ChannelCommon.class", 
+          "tag": 2226566257
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InvalidationMessage.class", 
+          "tag": 2038087990
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidChannel$MajorVersion.class", 
+          "tag": 3949645617
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ScheduledTask.class", 
+          "tag": 932732209
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RateLimitP.class", 
+          "tag": 2608195621
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationSummary.class", 
+          "tag": 3981160549
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$AndroidSchedulerEvent.class", 
+          "tag": 4260193565
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$InternalDowncall.class", 
+          "tag": 605300809
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$RegistrationStatus.class", 
+          "tag": 972475423
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$ExponentialBackoffState.class", 
+          "tag": 2360611671
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall$ReissueRegistrationsUpcall.class", 
+          "tag": 947322710
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ListenerUpcall.class", 
+          "tag": 2458881631
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$ClientDowncall$StopDowncall.class", 
+          "tag": 3359849588
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ErrorMessage$Code.class", 
+          "tag": 979114095
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$InternalDowncall$CreateClient.class", 
+          "tag": 3663140822
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ClientConfigP$Builder.class", 
+          "tag": 3986672515
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ConfigChangeMessage.class", 
+          "tag": 3575492200
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ClientVersion.class", 
+          "tag": 611162129
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/Client$PersistentStateBlob.class", 
+          "tag": 3156388242
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$InitializeMessage$DigestSerializationType.class", 
+          "tag": 3496935965
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$ServerHeader$Builder.class", 
+          "tag": 1374295879
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/AndroidService$AndroidTiclState.class", 
+          "tag": 2317329752
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/ClientProtocol$Version.class", 
+          "tag": 4102386411
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$ProtocolHandlerState.class", 
+          "tag": 1697168698
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/ticl/proto/JavaClient$StatisticsState.class", 
+          "tag": 273831942
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/common/ObjectIdDigestUtils$Sha1DigestFunction.class", 
+          "tag": 1314725672
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/common/ObjectIdDigestUtils.class", 
+          "tag": 3310747623
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/common/DigestFunction.class", 
+          "tag": 1349624037
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/common/GcmSharedConstants.class", 
+          "tag": 2766218725
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/common/BuildConstants.class", 
+          "tag": 3842020927
+        }, 
+        {
+          "path": "com/google/ipc/invalidation/common/BaseCommonInvalidationConstants.class", 
+          "tag": 2046686322
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "a302823ae9208278281127ea1be113ff"
+}

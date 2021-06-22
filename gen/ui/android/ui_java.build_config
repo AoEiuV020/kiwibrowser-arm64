@@ -1,0 +1,12 @@
+{
+  "deps_info": {
+    "deps_configs": [
+      "gen/ui/android/ui_full_java.build_config",
+      "gen/ui/android/ui_utils_java.build_config"
+    ],
+    "name": "ui_java.build_config",
+    "path": "gen/ui/android/ui_java.build_config",
+    "type": "group"
+  },
+  "gradle": {}
+}

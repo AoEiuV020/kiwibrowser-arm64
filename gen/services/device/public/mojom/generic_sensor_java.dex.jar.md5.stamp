@@ -1,0 +1,269 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/services/device/public/mojom/generic_sensor_java.dex.jar"
+  ], 
+  "files-md5": "9b9e206852034a027b8287760094ed7d", 
+  "input-files": [
+    {
+      "path": "lib.java/services/device/public/mojom/generic_sensor_java.jar", 
+      "tag": "d6cc89fdca6bfb0197abde1beb48da0c", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorType.class", 
+          "tag": 348157818
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$Stub.class", 
+          "tag": 2783686268
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$Proxy.class", 
+          "tag": 1267216792
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorGetDefaultConfigurationResponseParamsForwardToCallback.class", 
+          "tag": 195781857
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$SensorProviderGetSensorParams.class", 
+          "tag": 4072696704
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorConfiguration.class", 
+          "tag": 373549396
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient.class", 
+          "tag": 3685684005
+        }, 
+        {
+          "path": "org/chromium/device/mojom/ReportingMode.class", 
+          "tag": 2575828284
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorGetDefaultConfigurationResponseParamsProxyToResponder.class", 
+          "tag": 471543604
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor.class", 
+          "tag": 2963401350
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider.class", 
+          "tag": 3613394863
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorAddConfigurationResponseParamsProxyToResponder.class", 
+          "tag": 1707665729
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorGetDefaultConfigurationParams.class", 
+          "tag": 2326983057
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$1.class", 
+          "tag": 2241959425
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient$Proxy.class", 
+          "tag": 935221507
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorAddConfigurationResponseParamsForwardToCallback.class", 
+          "tag": 2162153844
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor$GetDefaultConfigurationResponse.class", 
+          "tag": 4142835028
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor$Proxy.class", 
+          "tag": 2436642091
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorAddConfigurationResponseParams.class", 
+          "tag": 3094389308
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$Stub.class", 
+          "tag": 1311312026
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$1.class", 
+          "tag": 878296788
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$SensorProviderGetSensorResponseParams.class", 
+          "tag": 1886714368
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider$GetSensorResponse.class", 
+          "tag": 485183122
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$SensorProviderGetSensorResponseParamsForwardToCallback.class", 
+          "tag": 786927958
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorSuspendParams.class", 
+          "tag": 3607894119
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$Proxy.class", 
+          "tag": 1099798444
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal$SensorProviderGetSensorResponseParamsProxyToResponder.class", 
+          "tag": 1974465101
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider_Internal.class", 
+          "tag": 798073257
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorCreationResult.class", 
+          "tag": 3079481759
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorConfigureReadingChangeNotificationsParams.class", 
+          "tag": 593645083
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor$AddConfigurationResponse.class", 
+          "tag": 2833787898
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient_Internal.class", 
+          "tag": 2345075572
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorResumeParams.class", 
+          "tag": 2224109459
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient_Internal$SensorClientRaiseErrorParams.class", 
+          "tag": 914117034
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal.class", 
+          "tag": 1307645739
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorAddConfigurationParams.class", 
+          "tag": 3440602044
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient_Internal$Proxy.class", 
+          "tag": 1707843620
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorGetDefaultConfigurationResponseParams.class", 
+          "tag": 4261995557
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorInitParams.class", 
+          "tag": 3871374499
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient_Internal$SensorClientSensorReadingChangedParams.class", 
+          "tag": 3925597911
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient_Internal$Stub.class", 
+          "tag": 93936020
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorClient_Internal$1.class", 
+          "tag": 1067618698
+        }, 
+        {
+          "path": "org/chromium/device/mojom/Sensor_Internal$SensorRemoveConfigurationParams.class", 
+          "tag": 1411132904
+        }, 
+        {
+          "path": "org/chromium/device/mojom/SensorProvider$Proxy.class", 
+          "tag": 3188944218
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "5a5a83395a56877c261e0dfce5a28b1d"
+}

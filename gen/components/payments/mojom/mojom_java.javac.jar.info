@@ -1,0 +1,2 @@
+org.chromium.payments.mojom.PaymentAddress,gen/components/payments/mojom/mojom_java_sources.srcjar
+org.chromium.payments.mojom.PaymentCurrencyAmount,gen/components/payments/mojom/mojom_java_sources.srcjar

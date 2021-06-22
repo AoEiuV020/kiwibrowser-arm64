@@ -1,0 +1,3 @@
+org.chromium.components.version_info.VersionConstantsBridge,../../components/version_info/android/java/src/org/chromium/components/version_info/VersionConstantsBridge.java
+org.chromium.components.version_info.VersionConstants,gen/components/version_info/android/version_constants_srcjar.srcjar
+org.chromium.components.version_info.Channel,gen/components/version_info/android/channel_enum_srcjar.srcjar

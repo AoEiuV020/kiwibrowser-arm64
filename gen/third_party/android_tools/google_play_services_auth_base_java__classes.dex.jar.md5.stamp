@@ -1,0 +1,565 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/android_tools/google_play_services_auth_base_java__classes.dex.jar"
+  ], 
+  "files-md5": "5a24f8dabe807fc91c0bffca78c79a40", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_tools/google_play_services_auth_base_java.jar", 
+      "tag": "0319d49981a2694762bcf99f4ee099ce", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2282617941
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/zze.class", 
+          "tag": 299765847
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/zzd.class", 
+          "tag": 2443401963
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/zzf.class", 
+          "tag": 3550295544
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zza.class", 
+          "tag": 394719315
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransfer.class", 
+          "tag": 1714908428
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzb.class", 
+          "tag": 1475351989
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzc.class", 
+          "tag": 1329671657
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzd.class", 
+          "tag": 258022217
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzf.class", 
+          "tag": 1028774297
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zze.class", 
+          "tag": 2986660154
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzh.class", 
+          "tag": 4138092950
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzg.class", 
+          "tag": 2306951267
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzi.class", 
+          "tag": 3250266795
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzj.class", 
+          "tag": 3843293601
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransferClient$zza.class", 
+          "tag": 1072739083
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransferClient$zzb.class", 
+          "tag": 2984881401
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzk.class", 
+          "tag": 185363272
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransferClient$zzc.class", 
+          "tag": 3919421495
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransferClient.class", 
+          "tag": 940963646
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransferException.class", 
+          "tag": 679271174
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzl.class", 
+          "tag": 1300546574
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzm.class", 
+          "tag": 3951824902
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzn.class", 
+          "tag": 1593318623
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzo.class", 
+          "tag": 911726161
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzp.class", 
+          "tag": 1757679560
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzq.class", 
+          "tag": 806611987
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AccountTransferStatusCodes.class", 
+          "tag": 4212354697
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzr.class", 
+          "tag": 1365118713
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzs.class", 
+          "tag": 1225374473
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/AuthenticatorTransferCompletionStatus.class", 
+          "tag": 2200557128
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzt.class", 
+          "tag": 1217634754
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzu.class", 
+          "tag": 3087537465
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/DeviceMetaData.class", 
+          "tag": 433123607
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/accounttransfer/zzv.class", 
+          "tag": 3182975155
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/AuthApiStatusCodes.class", 
+          "tag": 3019511595
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/ProxyApi$ProxyResult.class", 
+          "tag": 3659488145
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/ProxyApi.class", 
+          "tag": 4274655459
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/ProxyRequest$Builder.class", 
+          "tag": 1808736670
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/ProxyRequest.class", 
+          "tag": 1822525771
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/zza.class", 
+          "tag": 837845072
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/ProxyResponse.class", 
+          "tag": 1290454739
+        }, 
+        {
+          "path": "com/google/android/gms/auth/api/proxy/zzb.class", 
+          "tag": 930424567
+        }, 
+        {
+          "path": "com/google/android/gms/auth/AccountChangeEvent.class", 
+          "tag": 3588953404
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zza.class", 
+          "tag": 4168860368
+        }, 
+        {
+          "path": "com/google/android/gms/auth/AccountChangeEventsRequest.class", 
+          "tag": 2640064313
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzb.class", 
+          "tag": 1749114690
+        }, 
+        {
+          "path": "com/google/android/gms/auth/AccountChangeEventsResponse.class", 
+          "tag": 341909099
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzc.class", 
+          "tag": 297972834
+        }, 
+        {
+          "path": "com/google/android/gms/auth/CookieUtil.class", 
+          "tag": 3602568592
+        }, 
+        {
+          "path": "com/google/android/gms/auth/GoogleAuthException.class", 
+          "tag": 613886125
+        }, 
+        {
+          "path": "com/google/android/gms/auth/GoogleAuthUtil.class", 
+          "tag": 2379066837
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zze.class", 
+          "tag": 2530086963
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzf.class", 
+          "tag": 1791435296
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzg.class", 
+          "tag": 3637639460
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzh.class", 
+          "tag": 2718815887
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzi.class", 
+          "tag": 2195801785
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzj.class", 
+          "tag": 2174702247
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzd.class", 
+          "tag": 2449130287
+        }, 
+        {
+          "path": "com/google/android/gms/auth/GooglePlayServicesAvailabilityException.class", 
+          "tag": 17463499
+        }, 
+        {
+          "path": "com/google/android/gms/auth/TokenData.class", 
+          "tag": 4182097
+        }, 
+        {
+          "path": "com/google/android/gms/auth/zzk.class", 
+          "tag": 2024147898
+        }, 
+        {
+          "path": "com/google/android/gms/auth/UserRecoverableAuthException.class", 
+          "tag": 144393768
+        }, 
+        {
+          "path": "com/google/android/gms/auth/UserRecoverableNotifiedException.class", 
+          "tag": 376264282
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zzb.class", 
+          "tag": 3028847686
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zza.class", 
+          "tag": 1471065637
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zze.class", 
+          "tag": 2575309271
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zzd.class", 
+          "tag": 2121789812
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zzc.class", 
+          "tag": 371698029
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zzf.class", 
+          "tag": 678372977
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/WorkAccount.class", 
+          "tag": 1547068949
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/WorkAccountApi$AddAccountResult.class", 
+          "tag": 3962587369
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/WorkAccountApi.class", 
+          "tag": 372112410
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/zzg.class", 
+          "tag": 2171722145
+        }, 
+        {
+          "path": "com/google/android/gms/auth/account/WorkAccountClient.class", 
+          "tag": 3733726149
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawg.class", 
+          "tag": 2037901230
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawh.class", 
+          "tag": 3364993655
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawi.class", 
+          "tag": 3663197645
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawj.class", 
+          "tag": 2983403107
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawk.class", 
+          "tag": 1390264618
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawm.class", 
+          "tag": 1474999737
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawl.class", 
+          "tag": 512987478
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawo.class", 
+          "tag": 2705872281
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawn.class", 
+          "tag": 3779800309
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawp.class", 
+          "tag": 2569477986
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawq.class", 
+          "tag": 114937576
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawr.class", 
+          "tag": 669942276
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaws.class", 
+          "tag": 3425761235
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawt.class", 
+          "tag": 304193551
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawu.class", 
+          "tag": 19065217
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawv.class", 
+          "tag": 62474657
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaww.class", 
+          "tag": 513040
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaxr.class", 
+          "tag": 3160319582
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaxs.class", 
+          "tag": 312889282
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaxu.class", 
+          "tag": 3094834292
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaxt.class", 
+          "tag": 2453491734
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaxw.class", 
+          "tag": 31491950
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaxv.class", 
+          "tag": 65635991
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzayg.class", 
+          "tag": 251270386
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzayj.class", 
+          "tag": 4114124310
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzayi.class", 
+          "tag": 4161800627
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzayh.class", 
+          "tag": 1753379139
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzayk.class", 
+          "tag": 3821832230
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavr.class", 
+          "tag": 128996394
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavt.class", 
+          "tag": 3987576979
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavs.class", 
+          "tag": 602886245
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavv.class", 
+          "tag": 3176179963
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavu.class", 
+          "tag": 3392829589
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavw.class", 
+          "tag": 2240320661
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavx.class", 
+          "tag": 188020441
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavy.class", 
+          "tag": 3835023830
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavz.class", 
+          "tag": 3294851265
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzavq.class", 
+          "tag": 3887945512
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzawa.class", 
+          "tag": 722992963
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzayl.class", 
+          "tag": 2762727490
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzaym.class", 
+          "tag": 616643027
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzfa.class", 
+          "tag": 258396963
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzez.class", 
+          "tag": 2560866765
+        }, 
+        {
+          "path": "com/google/android/gms/internal/zzey.class", 
+          "tag": 1029311787
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "797cabb1a482d82e31fe28d034facaea"
+}

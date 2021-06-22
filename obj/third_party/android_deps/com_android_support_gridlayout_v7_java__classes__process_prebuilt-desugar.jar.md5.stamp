@@ -1,0 +1,193 @@
+{
+  "input-strings": [], 
+  "files-md5": "cdd89b6a2bc2d4449713f9659a03e582", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_compat_java.interface.jar", 
+      "tag": "331055d5c291a6150791102301114079"
+    }, 
+    {
+      "path": "lib.java/third_party/android_deps/com_android_support_support_core_ui_java.interface.jar", 
+      "tag": "1a0b4986b5271b8acf6539b452fc487b"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/third_party/android_deps/com_android_support_gridlayout_v7_java__classes__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "276c65d465b4334b854ad37286bb3c0b", 
+      "entries": [
+        {
+          "path": "android/support/v7/gridlayout/BuildConfig.class", 
+          "tag": 1240839828
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$1.class", 
+          "tag": 2999185007
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$2.class", 
+          "tag": 4102703719
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$3.class", 
+          "tag": 2522737674
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$4.class", 
+          "tag": 1659522747
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$5.class", 
+          "tag": 1893170857
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$6.class", 
+          "tag": 837211932
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$7$1.class", 
+          "tag": 4245709581
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$7.class", 
+          "tag": 1688567672
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$8.class", 
+          "tag": 167164384
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Alignment.class", 
+          "tag": 477827221
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Arc.class", 
+          "tag": 1807258917
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Assoc.class", 
+          "tag": 4175266136
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Axis$1.class", 
+          "tag": 1369674442
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Axis.class", 
+          "tag": 2985590370
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Bounds.class", 
+          "tag": 3105323030
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Interval.class", 
+          "tag": 1523418259
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$LayoutParams.class", 
+          "tag": 3769948614
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$MutableInt.class", 
+          "tag": 3800044837
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$PackedMap.class", 
+          "tag": 3461776225
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout$Spec.class", 
+          "tag": 109960898
+        }, 
+        {
+          "path": "android/support/v7/widget/GridLayout.class", 
+          "tag": 493675360
+        }, 
+        {
+          "path": "META-INF/com.android.support_gridlayout-v7.version", 
+          "tag": 947225043
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

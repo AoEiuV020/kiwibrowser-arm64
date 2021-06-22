@@ -1,0 +1,9 @@
+org.chromium.mojo.system.impl.HandleBase,../../mojo/android/system/src/org/chromium/mojo/system/impl/HandleBase.java
+org.chromium.mojo.system.impl.CoreImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/CoreImpl.java
+org.chromium.mojo.system.impl.SharedBufferHandleImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/SharedBufferHandleImpl.java
+org.chromium.mojo.system.impl.UntypedHandleImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/UntypedHandleImpl.java
+org.chromium.mojo.system.impl.WatcherImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/WatcherImpl.java
+org.chromium.mojo.system.impl.BaseRunLoop,../../mojo/android/system/src/org/chromium/mojo/system/impl/BaseRunLoop.java
+org.chromium.mojo.system.impl.DataPipeProducerHandleImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/DataPipeProducerHandleImpl.java
+org.chromium.mojo.system.impl.DataPipeConsumerHandleImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/DataPipeConsumerHandleImpl.java
+org.chromium.mojo.system.impl.MessagePipeHandleImpl,../../mojo/android/system/src/org/chromium/mojo/system/impl/MessagePipeHandleImpl.java

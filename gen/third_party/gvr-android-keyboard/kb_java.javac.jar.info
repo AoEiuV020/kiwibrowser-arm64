@@ -1,0 +1,3 @@
+com.google.vr.keyboard.Stub,gen/third_party/gvr-android-keyboard/aidl.srcjar
+com.google.vr.keyboard.IGvrKeyboardLoader,gen/third_party/gvr-android-keyboard/aidl.srcjar
+com.google.vr.keyboard.Proxy,gen/third_party/gvr-android-keyboard/aidl.srcjar

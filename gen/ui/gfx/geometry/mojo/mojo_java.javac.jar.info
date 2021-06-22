@@ -1,0 +1,11 @@
+org.chromium.gfx.mojom.ScrollOffset,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.Point,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.InsetsF,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.PointF,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.RectF,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.SizeF,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.Size,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.Insets,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.Vector2d,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.Vector2dF,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar
+org.chromium.gfx.mojom.Rect,gen/ui/gfx/geometry/mojo/mojo_java_sources.srcjar

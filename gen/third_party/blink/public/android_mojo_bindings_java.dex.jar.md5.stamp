@@ -1,0 +1,917 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/blink/public/android_mojo_bindings_java.dex.jar"
+  ], 
+  "files-md5": "fd4a77cca3e6bb137ddc5f2adc8a017c", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/blink/public/android_mojo_bindings_java.jar", 
+      "tag": "478d5447c270b14c513bef32d7df422c", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$1.class", 
+          "tag": 3026672261
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService_Internal$InstallationServiceOnInstallParams.class", 
+          "tag": 652043426
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectGetMethodsResponseParamsProxyToResponder.class", 
+          "tag": 2122144193
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaImage.class", 
+          "tag": 1299883001
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/SpellCheckSuggestion.class", 
+          "tag": 3102559827
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject$HasMethodResponse.class", 
+          "tag": 812136892
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaMetadata.class", 
+          "tag": 570101160
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService_Internal$Proxy.class", 
+          "tag": 3437818265
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteInvocationResultValue$Tag.class", 
+          "tag": 3149724532
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$TextSuggestionBackendApplySpellCheckSuggestionParams.class", 
+          "tag": 3951277893
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient.class", 
+          "tag": 376467505
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient_Internal$Proxy.class", 
+          "tag": 2227351042
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$Proxy.class", 
+          "tag": 1489127211
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal.class", 
+          "tag": 2100966414
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$Proxy.class", 
+          "tag": 2120464028
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService.class", 
+          "tag": 1280866307
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal$1.class", 
+          "tag": 2724296749
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier_Internal$UnhandledTapNotifierShowUnhandledTapUiIfNeededParams.class", 
+          "tag": 3545484626
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService_Internal.class", 
+          "tag": 4192213962
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal.class", 
+          "tag": 1409124853
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend.class", 
+          "tag": 3824338208
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$TextSuggestionBackendOnNewWordAddedToDictionaryParams.class", 
+          "tag": 2950803648
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteInvocationArgument$Tag.class", 
+          "tag": 4056383727
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal$TextSuggestionHostStartSuggestionMenuTimerParams.class", 
+          "tag": 3455172720
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService_Internal$1.class", 
+          "tag": 1167275912
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal$Proxy.class", 
+          "tag": 1713048183
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier_Internal$Proxy.class", 
+          "tag": 2570835999
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient$Proxy.class", 
+          "tag": 973429430
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier_Internal$1.class", 
+          "tag": 4212269291
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$MediaSessionServiceEnableActionParams.class", 
+          "tag": 4238455170
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteInvocationError.class", 
+          "tag": 3756806967
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$Stub.class", 
+          "tag": 1330036549
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapInfo.class", 
+          "tag": 2523343755
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$MediaSessionServiceSetClientParams.class", 
+          "tag": 3491552949
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient_Internal$Stub.class", 
+          "tag": 3700120871
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService$Proxy.class", 
+          "tag": 1699250051
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService_Internal$Stub.class", 
+          "tag": 546395914
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestion.class", 
+          "tag": 2416715475
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$1.class", 
+          "tag": 3476467308
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$Proxy.class", 
+          "tag": 906382589
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectInvokeMethodResponseParamsProxyToResponder.class", 
+          "tag": 24167742
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier_Internal.class", 
+          "tag": 2695921145
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$MediaSessionServiceSetMetadataParams.class", 
+          "tag": 559476517
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject.class", 
+          "tag": 1880930873
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient_Internal.class", 
+          "tag": 3087985229
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal$TextSuggestionHostShowTextSuggestionMenuParams.class", 
+          "tag": 3871882013
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteInvocationArgument.class", 
+          "tag": 3867486908
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$TextSuggestionBackendDeleteActiveSuggestionRangeParams.class", 
+          "tag": 1906135252
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteInvocationResult.class", 
+          "tag": 872246006
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectHasMethodResponseParamsProxyToResponder.class", 
+          "tag": 4256136975
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject$InvokeMethodResponse.class", 
+          "tag": 1958239472
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient_Internal$1.class", 
+          "tag": 2231120277
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost.class", 
+          "tag": 648619056
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectGetMethodsResponseParamsForwardToCallback.class", 
+          "tag": 489056414
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionPlaybackState.class", 
+          "tag": 3291229686
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject$GetMethodsResponse.class", 
+          "tag": 681159760
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService$Proxy.class", 
+          "tag": 1545658303
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend$Proxy.class", 
+          "tag": 1756779665
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/InstallationService.class", 
+          "tag": 741595491
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier$Proxy.class", 
+          "tag": 2389353806
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectInvokeMethodResponseParamsForwardToCallback.class", 
+          "tag": 113174202
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal.class", 
+          "tag": 2072915744
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectGetMethodsParams.class", 
+          "tag": 1227351904
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectHasMethodResponseParamsForwardToCallback.class", 
+          "tag": 504194325
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject$Proxy.class", 
+          "tag": 2363983991
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$TextSuggestionBackendApplyTextSuggestionParams.class", 
+          "tag": 1094457235
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectInvokeMethodResponseParams.class", 
+          "tag": 4241640400
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal$TextSuggestionHostShowSpellCheckSuggestionMenuParams.class", 
+          "tag": 2516201973
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$MediaSessionServiceSetPlaybackStateParams.class", 
+          "tag": 583689795
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$Stub.class", 
+          "tag": 2773890335
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectHasMethodParams.class", 
+          "tag": 2995300183
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$TextSuggestionBackendOnSuggestionMenuClosedParams.class", 
+          "tag": 2865474287
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionService_Internal$MediaSessionServiceDisableActionParams.class", 
+          "tag": 854146783
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectInvokeMethodParams.class", 
+          "tag": 3698177816
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionClient_Internal$MediaSessionClientDidReceiveActionParams.class", 
+          "tag": 1139929162
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$Stub.class", 
+          "tag": 362417567
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectHasMethodResponseParams.class", 
+          "tag": 3663269067
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/MediaSessionAction.class", 
+          "tag": 1548343373
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost$Proxy.class", 
+          "tag": 1576353152
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteInvocationResultValue.class", 
+          "tag": 2129797038
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/RemoteObject_Internal$RemoteObjectGetMethodsResponseParams.class", 
+          "tag": 3156892867
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier.class", 
+          "tag": 2970010291
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$1.class", 
+          "tag": 24437336
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/UnhandledTapNotifier_Internal$Stub.class", 
+          "tag": 14481541
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/SingletonJavaScriptValue.class", 
+          "tag": 1249314773
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal.class", 
+          "tag": 2051538049
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionHost_Internal$Stub.class", 
+          "tag": 1528153731
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/TextSuggestionBackend_Internal$TextSuggestionBackendSuggestionMenuTimeoutCallbackParams.class", 
+          "tag": 3457368211
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$CopylessPasteGetEntitiesResponseParamsForwardToCallback.class", 
+          "tag": 3358382
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$1.class", 
+          "tag": 1750164180
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal.class", 
+          "tag": 1769808327
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste$GetEntitiesResponse.class", 
+          "tag": 3595710009
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste$Proxy.class", 
+          "tag": 724103439
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/Values.class", 
+          "tag": 2910127557
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste.class", 
+          "tag": 3889422719
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/Entity.class", 
+          "tag": 1830781193
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$CopylessPasteGetEntitiesResponseParams.class", 
+          "tag": 3849151829
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$Stub.class", 
+          "tag": 3301773521
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/WebPage.class", 
+          "tag": 2195399568
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/Values$Tag.class", 
+          "tag": 422688723
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$Proxy.class", 
+          "tag": 2793271034
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$CopylessPasteGetEntitiesParams.class", 
+          "tag": 982066815
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/CopylessPaste_Internal$CopylessPasteGetEntitiesResponseParamsProxyToResponder.class", 
+          "tag": 916325339
+        }, 
+        {
+          "path": "org/chromium/blink/mojom/document_metadata/Property.class", 
+          "tag": 955104357
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider$Proxy.class", 
+          "tag": 1124285451
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$InstalledAppProviderFilterInstalledAppsParams.class", 
+          "tag": 2182680176
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$InstalledAppProviderFilterInstalledAppsResponseParamsProxyToResponder.class", 
+          "tag": 2808697137
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider$FilterInstalledAppsResponse.class", 
+          "tag": 3295313540
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$Proxy.class", 
+          "tag": 1626014608
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/RelatedApplication.class", 
+          "tag": 3230579644
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$InstalledAppProviderFilterInstalledAppsResponseParams.class", 
+          "tag": 3509963953
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$1.class", 
+          "tag": 121246850
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider.class", 
+          "tag": 602301231
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$Stub.class", 
+          "tag": 3677635121
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal.class", 
+          "tag": 655239013
+        }, 
+        {
+          "path": "org/chromium/installedapp/mojom/InstalledAppProvider_Internal$InstalledAppProviderFilterInstalledAppsResponseParamsForwardToCallback.class", 
+          "tag": 2372289829
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorMakeCredentialResponseParams.class", 
+          "tag": 3189472354
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialType.class", 
+          "tag": 3309386589
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialParameters.class", 
+          "tag": 3418637335
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$Proxy.class", 
+          "tag": 2873426842
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialCreationOptions.class", 
+          "tag": 2778628599
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/AuthenticatorStatus.class", 
+          "tag": 3322859572
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorGetAssertionResponseParams.class", 
+          "tag": 3692664943
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorGetAssertionParams.class", 
+          "tag": 1238296537
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/AuthenticatorTransport.class", 
+          "tag": 59105181
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator$MakeCredentialResponse.class", 
+          "tag": 2268259531
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal.class", 
+          "tag": 2742280736
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/CableRegistration.class", 
+          "tag": 3697437249
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorMakeCredentialParams.class", 
+          "tag": 2599178291
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator.class", 
+          "tag": 3216510569
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialRpEntity.class", 
+          "tag": 1098665952
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/AuthenticatorSelectionCriteria.class", 
+          "tag": 2069901443
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/AuthenticatorAttachment.class", 
+          "tag": 3282614169
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/AttestationConveyancePreference.class", 
+          "tag": 1966622591
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialDescriptor.class", 
+          "tag": 1235351958
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialRequestOptions.class", 
+          "tag": 946935610
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$Stub.class", 
+          "tag": 776453714
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator$Proxy.class", 
+          "tag": 3041692425
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/GetAssertionAuthenticatorResponse.class", 
+          "tag": 1397238263
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/PublicKeyCredentialUserEntity.class", 
+          "tag": 3323522600
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorMakeCredentialResponseParamsProxyToResponder.class", 
+          "tag": 2010999061
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorGetAssertionResponseParamsProxyToResponder.class", 
+          "tag": 1032902865
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/CommonCredentialInfo.class", 
+          "tag": 1164410260
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorGetAssertionResponseParamsForwardToCallback.class", 
+          "tag": 3740430198
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/MakeCredentialAuthenticatorResponse.class", 
+          "tag": 2034083192
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$AuthenticatorMakeCredentialResponseParamsForwardToCallback.class", 
+          "tag": 1936806887
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator$GetAssertionResponse.class", 
+          "tag": 3121774098
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/UserVerificationRequirement.class", 
+          "tag": 4259035364
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/Authenticator_Internal$1.class", 
+          "tag": 1641103278
+        }, 
+        {
+          "path": "org/chromium/webauth/mojom/CableAuthentication.class", 
+          "tag": 1132156157
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestCanMakePaymentParams.class", 
+          "tag": 3672949798
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/BasicCardType.class", 
+          "tag": 3147371968
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/CanMakePaymentQueryResult.class", 
+          "tag": 1549494783
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/BasicCardNetwork.class", 
+          "tag": 2540634722
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnPaymentResponseParams.class", 
+          "tag": 3422812650
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/AndroidPayEnvironment.class", 
+          "tag": 3228126578
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$Stub.class", 
+          "tag": 3859916394
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnCompleteParams.class", 
+          "tag": 3620565140
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest.class", 
+          "tag": 1468021455
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnShippingAddressChangeParams.class", 
+          "tag": 3319561074
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentShippingOption.class", 
+          "tag": 2831081667
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest$Proxy.class", 
+          "tag": 4054529651
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestCompleteParams.class", 
+          "tag": 2880073103
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/AndroidPayTokenization.class", 
+          "tag": 1248121133
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/AndroidPayCardNetwork.class", 
+          "tag": 1376110021
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestShowParams.class", 
+          "tag": 3391019054
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnShippingOptionChangeParams.class", 
+          "tag": 1973628260
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestNoUpdatedPaymentDetailsParams.class", 
+          "tag": 195991043
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientWarnNoFaviconParams.class", 
+          "tag": 526969641
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnCanMakePaymentParams.class", 
+          "tag": 3217592263
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestUpdateWithParams.class", 
+          "tag": 3077258064
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$1.class", 
+          "tag": 1306038210
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$1.class", 
+          "tag": 3683997436
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentItem.class", 
+          "tag": 2633896079
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestAbortParams.class", 
+          "tag": 3664912334
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentDetails.class", 
+          "tag": 1358836037
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnAbortParams.class", 
+          "tag": 3699317422
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/AndroidPayTokenizationParameter.class", 
+          "tag": 3174965159
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$Stub.class", 
+          "tag": 1806215702
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentDetailsModifier.class", 
+          "tag": 3478071738
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$Proxy.class", 
+          "tag": 979211061
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal.class", 
+          "tag": 2548739745
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient$Proxy.class", 
+          "tag": 2068294615
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentErrorReason.class", 
+          "tag": 4182139106
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$Proxy.class", 
+          "tag": 3995470303
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentMethodData.class", 
+          "tag": 542598476
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequest_Internal$PaymentRequestInitParams.class", 
+          "tag": 688598633
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentComplete.class", 
+          "tag": 2642487542
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient.class", 
+          "tag": 4143720294
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentResponse.class", 
+          "tag": 812646971
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal$PaymentRequestClientOnErrorParams.class", 
+          "tag": 3660837694
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentOptions.class", 
+          "tag": 193093935
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentRequestClient_Internal.class", 
+          "tag": 3695597057
+        }, 
+        {
+          "path": "org/chromium/payments/mojom/PaymentShippingType.class", 
+          "tag": 4178521684
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$ShareServiceShareResponseParamsProxyToResponder.class", 
+          "tag": 940585097
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$ShareServiceShareResponseParams.class", 
+          "tag": 2535044534
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$1.class", 
+          "tag": 843747326
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService$ShareResponse.class", 
+          "tag": 1367124638
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$ShareServiceShareResponseParamsForwardToCallback.class", 
+          "tag": 175475355
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareError.class", 
+          "tag": 2279958303
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$ShareServiceShareParams.class", 
+          "tag": 261627825
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$Proxy.class", 
+          "tag": 3142196558
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal$Stub.class", 
+          "tag": 3073275821
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService_Internal.class", 
+          "tag": 2942421768
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService$Proxy.class", 
+          "tag": 3221165242
+        }, 
+        {
+          "path": "org/chromium/webshare/mojom/ShareService.class", 
+          "tag": 3908558217
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "e0a9012b965caba2c653f37f3a443db7"
+}

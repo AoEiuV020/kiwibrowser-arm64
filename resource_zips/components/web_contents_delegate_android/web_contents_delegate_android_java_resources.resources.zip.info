@@ -1,0 +1,10 @@
+drawable/color_button_background.xml,../../components/web_contents_delegate_android/java/res/drawable/color_button_background.xml
+drawable/color_picker_border.xml,../../components/web_contents_delegate_android/java/res/drawable/color_picker_border.xml
+drawable-mdpi/color_picker_advanced_select_handle.png,../../components/web_contents_delegate_android/java/res/drawable-mdpi/color_picker_advanced_select_handle.png
+layout/color_picker_advanced_component.xml,../../components/web_contents_delegate_android/java/res/layout/color_picker_advanced_component.xml
+drawable-xhdpi/color_picker_advanced_select_handle.png,../../components/web_contents_delegate_android/java/res/drawable-xhdpi/color_picker_advanced_select_handle.png
+layout/color_picker_dialog_content.xml,../../components/web_contents_delegate_android/java/res/layout/color_picker_dialog_content.xml
+layout/color_picker_dialog_title.xml,../../components/web_contents_delegate_android/java/res/layout/color_picker_dialog_title.xml
+values/colors.xml,../../components/web_contents_delegate_android/java/res/values/colors.xml
+drawable-hdpi/color_picker_advanced_select_handle.png,../../components/web_contents_delegate_android/java/res/drawable-hdpi/color_picker_advanced_select_handle.png
+values/dimens.xml,../../components/web_contents_delegate_android/java/res/values/dimens.xml

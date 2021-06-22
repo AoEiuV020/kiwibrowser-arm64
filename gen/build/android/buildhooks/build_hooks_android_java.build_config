@@ -1,0 +1,51 @@
+{
+  "android": {
+    "sdk_interface_jars": [
+      "lib.java/third_party/android_tools/android.interface.jar"
+    ],
+    "sdk_jars": [
+      "lib.java/third_party/android_tools/android.jar"
+    ]
+  },
+  "deps_info": {
+    "deps_configs": [
+      "gen/third_party/android_tools/android_sdk_java.build_config"
+    ],
+    "dex_path": "gen/build/android/buildhooks/build_hooks_android_java.dex.jar",
+    "gradle_treat_as_prebuilt": null,
+    "interface_jar_path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar",
+    "is_prebuilt": false,
+    "jar_path": "lib.java/build/android/buildhooks/build_hooks_android_java.jar",
+    "java_sources_file": "gen/build/android/buildhooks/build_hooks_android_java.sources",
+    "javac_full_classpath": [],
+    "javac_full_interface_classpath": [],
+    "name": "build_hooks_android_java.build_config",
+    "owned_resource_srcjars": [],
+    "owned_resources_dirs": [],
+    "owned_resources_zips": [],
+    "path": "gen/build/android/buildhooks/build_hooks_android_java.build_config",
+    "requires_android": true,
+    "supports_android": true,
+    "type": "java_library",
+    "unprocessed_jar_path": "gen/build/android/buildhooks/build_hooks_android_java.javac.jar"
+  },
+  "gradle": {
+    "bootclasspath": [
+      "lib.java/third_party/android_tools/android.jar"
+    ],
+    "bundled_srcjars": [],
+    "dependent_android_projects": [],
+    "dependent_java_projects": [],
+    "dependent_prebuilt_jars": []
+  },
+  "javac": {
+    "bootclasspath": [
+      "lib.java/third_party/android_tools/android.jar"
+    ],
+    "classpath": [],
+    "interface_classpath": [],
+    "processor_classes": [],
+    "processor_classpath": [],
+    "resource_packages": []
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/third_party/custom_tabs_client/custom_tabs_support_java.dex.jar"
+  ], 
+  "files-md5": "c459596dd8ffc51b742c796383c32007", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/custom_tabs_client/custom_tabs_support_java.jar", 
+      "tag": "dca8d411e3acfe272908f297276504c5", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsCallback$Stub$Proxy.class", 
+          "tag": 2015992460
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsService$Result.class", 
+          "tag": 3691518383
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsIntent.class", 
+          "tag": 564367936
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsCallback.class", 
+          "tag": 2048651103
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsService$Stub$Proxy.class", 
+          "tag": 1550948882
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsService$1$1.class", 
+          "tag": 2403494481
+        }, 
+        {
+          "path": "android/support/customtabs/PostMessageService$1.class", 
+          "tag": 1477497716
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsSessionToken$1.class", 
+          "tag": 3834620006
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsCallback$Stub.class", 
+          "tag": 3546189191
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$2$5.class", 
+          "tag": 1175302899
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsSession.class", 
+          "tag": 574425407
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsService$1.class", 
+          "tag": 1053124020
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsServiceConnection.class", 
+          "tag": 1557575255
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsService.class", 
+          "tag": 3791418239
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsService.class", 
+          "tag": 233146565
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsService$Stub.class", 
+          "tag": 2769412123
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$2.class", 
+          "tag": 1330144879
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$2$4.class", 
+          "tag": 3831237759
+        }, 
+        {
+          "path": "android/support/customtabs/IPostMessageService$Stub$Proxy.class", 
+          "tag": 3732125046
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$1.class", 
+          "tag": 2509393464
+        }, 
+        {
+          "path": "android/support/customtabs/IPostMessageService.class", 
+          "tag": 4223272381
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsSessionToken$MockCallback.class", 
+          "tag": 418574911
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$2$2.class", 
+          "tag": 2836651230
+        }, 
+        {
+          "path": "android/support/customtabs/PostMessageService.class", 
+          "tag": 2078087187
+        }, 
+        {
+          "path": "android/support/customtabs/ICustomTabsCallback.class", 
+          "tag": 2685111203
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsIntent$Builder.class", 
+          "tag": 516809004
+        }, 
+        {
+          "path": "android/support/customtabs/PostMessageServiceConnection.class", 
+          "tag": 3464557105
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsServiceConnection$1.class", 
+          "tag": 249439127
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient.class", 
+          "tag": 1724651593
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsService$Relation.class", 
+          "tag": 4149363987
+        }, 
+        {
+          "path": "android/support/customtabs/IPostMessageService$Stub.class", 
+          "tag": 3933832061
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$2$1.class", 
+          "tag": 3947177817
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsIntent$1.class", 
+          "tag": 3317269887
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsSessionToken.class", 
+          "tag": 989795786
+        }, 
+        {
+          "path": "android/support/customtabs/TrustedWebUtils.class", 
+          "tag": 532615620
+        }, 
+        {
+          "path": "android/support/customtabs/CustomTabsClient$2$3.class", 
+          "tag": 478844441
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsIntent.class", 
+          "tag": 3579984875
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsIntent$BrowserActionsItemId.class", 
+          "tag": 2813183179
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuUi$1.class", 
+          "tag": 825886674
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsIntent$1.class", 
+          "tag": 2975291199
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuUi$3.class", 
+          "tag": 1922010332
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuAdapter$ViewHolderItem.class", 
+          "tag": 2692883375
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionItem.class", 
+          "tag": 1911086785
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuUi$BrowserActionsFallMenuUiListener.class", 
+          "tag": 2606535615
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuUi.class", 
+          "tag": 868014218
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserServiceFileProvider$FileCleanupTask.class", 
+          "tag": 3624010204
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuDialog$1.class", 
+          "tag": 2687872398
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsIntent$Builder.class", 
+          "tag": 3089007826
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuView.class", 
+          "tag": 2616608957
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuDialog.class", 
+          "tag": 3040459495
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuAdapter$1.class", 
+          "tag": 2620836362
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserServiceImageReadTask.class", 
+          "tag": 1434166399
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuAdapter.class", 
+          "tag": 110112558
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsIntent$BrowserActionsFallDialogListener.class", 
+          "tag": 3325613997
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsIntent$BrowserActionsUrlType.class", 
+          "tag": 4231285307
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserServiceFileProvider.class", 
+          "tag": 4014302765
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserServiceFileProvider$FileSaveTask.class", 
+          "tag": 332781258
+        }, 
+        {
+          "path": "android/support/customtabs/browseractions/BrowserActionsFallbackMenuUi$2.class", 
+          "tag": 564909506
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager.class", 
+          "tag": 269116735
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$WrappedCallback.class", 
+          "tag": 3341733708
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceWrapper$CancelNotificationArgs.class", 
+          "tag": 1654373081
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceWrapper.class", 
+          "tag": 4115878315
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceWrapper$ActiveNotificationsArgs.class", 
+          "tag": 2552414028
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityService.class", 
+          "tag": 1037444052
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/ITrustedWebActivityService$Stub.class", 
+          "tag": 1311876422
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$1.class", 
+          "tag": 2508423510
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/ITrustedWebActivityService$Stub$Proxy.class", 
+          "tag": 2962836965
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$3.class", 
+          "tag": 1003190838
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/ITrustedWebActivityService.class", 
+          "tag": 1228519012
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceWrapper$NotifyNotificationArgs.class", 
+          "tag": 3793861362
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityService$1.class", 
+          "tag": 3856854624
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$2$1.class", 
+          "tag": 2143479154
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceWrapper$ResultArgs.class", 
+          "tag": 3665758375
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$Connection.class", 
+          "tag": 3132646548
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityService$2.class", 
+          "tag": 1639972673
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$ExecutionCallback.class", 
+          "tag": 1165272532
+        }, 
+        {
+          "path": "android/support/customtabs/trusted/TrustedWebActivityServiceConnectionManager$2.class", 
+          "tag": 739740520
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "7d53db39a7e2f4aa14ccd7b23004b01d"
+}

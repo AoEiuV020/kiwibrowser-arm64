@@ -1,0 +1,6 @@
+int color http_bad_warning_message_text 0x7f020000
+int color insecure_context_payment_disabled_message_text 0x7f020001
+int dimen dropdown_item_larger_sublabel_font_size 0x7f030000
+int dimen dropdown_large_icon_margin 0x7f030002
+int dimen dropdown_large_icon_size 0x7f030001
+int string autofill_popup_content_description 0x7f040000

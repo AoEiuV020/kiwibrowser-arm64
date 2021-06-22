@@ -1,0 +1,2229 @@
+{
+  "input-strings": [], 
+  "files-md5": "5230c21b81c077e7f6fa19748922b668", 
+  "input-files": [
+    {
+      "path": "lib.java/third_party/android_protobuf/protobuf_nano_javalib.interface.jar", 
+      "tag": "28b683706c7ac7c2431da71ef00146d1"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/third_party/gvr-android-sdk/gvr_common_java__classes__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "d58f33fa55f089fac883df752fd24a20", 
+      "entries": [
+        {
+          "path": "com/google/vr/cardboard/AndroidNCompat$1.class", 
+          "tag": 3190057569
+        }, 
+        {
+          "path": "com/google/vr/cardboard/AndroidNCompat$2.class", 
+          "tag": 736792286
+        }, 
+        {
+          "path": "com/google/vr/cardboard/AndroidNCompat$3.class", 
+          "tag": 1254015820
+        }, 
+        {
+          "path": "com/google/vr/cardboard/AndroidNCompat.class", 
+          "tag": 1972912370
+        }, 
+        {
+          "path": "com/google/vr/cardboard/CardboardGLSurfaceView$DetachListener.class", 
+          "tag": 4077378388
+        }, 
+        {
+          "path": "com/google/vr/cardboard/CardboardGLSurfaceView.class", 
+          "tag": 4193934934
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ConfigUtils.class", 
+          "tag": 112415047
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ContentProviderVrParamsProvider.class", 
+          "tag": 3102160894
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ContextUtils.class", 
+          "tag": 2018643273
+        }, 
+        {
+          "path": "com/google/vr/cardboard/DisplaySynchronizer.class", 
+          "tag": 206587158
+        }, 
+        {
+          "path": "com/google/vr/cardboard/DisplayUtils.class", 
+          "tag": 1672127651
+        }, 
+        {
+          "path": "com/google/vr/cardboard/EglFactory.class", 
+          "tag": 1279385534
+        }, 
+        {
+          "path": "com/google/vr/cardboard/EglReadyListener$EventListener.class", 
+          "tag": 2889656756
+        }, 
+        {
+          "path": "com/google/vr/cardboard/EglReadyListener.class", 
+          "tag": 3039214550
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$1.class", 
+          "tag": 791862792
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$AndroidHandlerCallback.class", 
+          "tag": 1501310666
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$ExternalSurface$1.class", 
+          "tag": 4224792155
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$ExternalSurface.class", 
+          "tag": 4159199466
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$ExternalSurfaceCallback.class", 
+          "tag": 318152338
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$ExternalSurfaceData.class", 
+          "tag": 1679444150
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$NativeCallback.class", 
+          "tag": 996278085
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$UpdateSurfaceCallback.class", 
+          "tag": 2758720710
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager.class", 
+          "tag": 866882911
+        }, 
+        {
+          "path": "com/google/vr/cardboard/FrameMonitor.class", 
+          "tag": 2171112912
+        }, 
+        {
+          "path": "com/google/vr/cardboard/FullscreenMode$1$1.class", 
+          "tag": 3283912959
+        }, 
+        {
+          "path": "com/google/vr/cardboard/FullscreenMode$1.class", 
+          "tag": 798401064
+        }, 
+        {
+          "path": "com/google/vr/cardboard/FullscreenMode.class", 
+          "tag": 3019494300
+        }, 
+        {
+          "path": "com/google/vr/cardboard/IsEmulator.class", 
+          "tag": 2472776712
+        }, 
+        {
+          "path": "com/google/vr/cardboard/LegacyVrParamsProvider.class", 
+          "tag": 3133733806
+        }, 
+        {
+          "path": "com/google/vr/cardboard/MutableEglConfigChooser.class", 
+          "tag": 3559522967
+        }, 
+        {
+          "path": "com/google/vr/cardboard/NFCUtils$1.class", 
+          "tag": 137132336
+        }, 
+        {
+          "path": "com/google/vr/cardboard/NFCUtils.class", 
+          "tag": 353526975
+        }, 
+        {
+          "path": "com/google/vr/cardboard/PackageUtils.class", 
+          "tag": 242105000
+        }, 
+        {
+          "path": "com/google/vr/cardboard/PpiOverrides$PpiOverride.class", 
+          "tag": 3773881702
+        }, 
+        {
+          "path": "com/google/vr/cardboard/PpiOverrides.class", 
+          "tag": 2177122561
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ScanlineRacingRenderer$1.class", 
+          "tag": 3294033297
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ScanlineRacingRenderer.class", 
+          "tag": 2785098537
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ScreenOrientationDetector$Listener.class", 
+          "tag": 3869557442
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ScreenOrientationDetector$Orientation.class", 
+          "tag": 3233156990
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ScreenOrientationDetector.class", 
+          "tag": 2733779809
+        }, 
+        {
+          "path": "com/google/vr/cardboard/StoragePermissionUtils.class", 
+          "tag": 1855804225
+        }, 
+        {
+          "path": "com/google/vr/cardboard/SurfaceCreateRecord.class", 
+          "tag": 263042526
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ThreadUtils.class", 
+          "tag": 1759395214
+        }, 
+        {
+          "path": "com/google/vr/cardboard/TransitionView$1.class", 
+          "tag": 2132581552
+        }, 
+        {
+          "path": "com/google/vr/cardboard/TransitionView$2.class", 
+          "tag": 2842502518
+        }, 
+        {
+          "path": "com/google/vr/cardboard/TransitionView$3.class", 
+          "tag": 3340349577
+        }, 
+        {
+          "path": "com/google/vr/cardboard/TransitionView$4.class", 
+          "tag": 3312644907
+        }, 
+        {
+          "path": "com/google/vr/cardboard/TransitionView$5.class", 
+          "tag": 3303424294
+        }, 
+        {
+          "path": "com/google/vr/cardboard/TransitionView.class", 
+          "tag": 3412967523
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$1.class", 
+          "tag": 769374793
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$10.class", 
+          "tag": 4119866095
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$11.class", 
+          "tag": 1002006322
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$12.class", 
+          "tag": 1921449620
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$13.class", 
+          "tag": 3145340618
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$2.class", 
+          "tag": 1640458735
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$3.class", 
+          "tag": 2488840613
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$4.class", 
+          "tag": 1543928311
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$5.class", 
+          "tag": 2928681740
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$6.class", 
+          "tag": 3356171273
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$7.class", 
+          "tag": 2271356633
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$8.class", 
+          "tag": 155158754
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$9.class", 
+          "tag": 3095442315
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer$RootOuterLayout.class", 
+          "tag": 1826580135
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiLayer.class", 
+          "tag": 3992632294
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$1.class", 
+          "tag": 4022561753
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$2.class", 
+          "tag": 3686386681
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$3.class", 
+          "tag": 3751292663
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils$4.class", 
+          "tag": 2582218141
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UiUtils.class", 
+          "tag": 2545828487
+        }, 
+        {
+          "path": "com/google/vr/cardboard/UsedByNative.class", 
+          "tag": 1803044087
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrContextWrapper.class", 
+          "tag": 2890633535
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrCoreLibraryLoader.class", 
+          "tag": 2684328892
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrParamsProvider.class", 
+          "tag": 3249954594
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrParamsProviderFactory$ContentProviderClientHandle.class", 
+          "tag": 1205921922
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrParamsProviderFactory.class", 
+          "tag": 1051012881
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrParamsProviderJni.class", 
+          "tag": 2601010533
+        }, 
+        {
+          "path": "com/google/vr/cardboard/VrSettingsProviderContract.class", 
+          "tag": 178687115
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/AbstractDaydreamTouchListener.class", 
+          "tag": 416817357
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/AndroidCompat.class", 
+          "tag": 243054009
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferSpec$ColorFormat.class", 
+          "tag": 677027859
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferSpec$DepthStencilFormat.class", 
+          "tag": 2371904086
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferSpec.class", 
+          "tag": 2226142230
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferViewport$EyeType.class", 
+          "tag": 3685771666
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferViewport$Reprojection.class", 
+          "tag": 2193756100
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferViewport.class", 
+          "tag": 1560833314
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BufferViewportList.class", 
+          "tag": 263647366
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BuildConstants.class", 
+          "tag": 3938330822
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/BuildFlags.class", 
+          "tag": 1669358085
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/CardboardEmulator$ControllerCallbacks.class", 
+          "tag": 4251897526
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/CardboardEmulator.class", 
+          "tag": 3290154121
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Constants.class", 
+          "tag": 1841831577
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$1.class", 
+          "tag": 1506131500
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$10.class", 
+          "tag": 2723321005
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$11.class", 
+          "tag": 1229700744
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$12.class", 
+          "tag": 3835130405
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$2.class", 
+          "tag": 1254890945
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$3.class", 
+          "tag": 1427620408
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$4.class", 
+          "tag": 2138601723
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$5.class", 
+          "tag": 1844504250
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$6$1.class", 
+          "tag": 1538020823
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$6.class", 
+          "tag": 3696476858
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$7.class", 
+          "tag": 2144891879
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$8.class", 
+          "tag": 2666466124
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi$9.class", 
+          "tag": 3070790603
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamApi.class", 
+          "tag": 1766816359
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamCompatibility.class", 
+          "tag": 1741405484
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamUtils.class", 
+          "tag": 4058492799
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DaydreamUtilsWrapper.class", 
+          "tag": 2995875407
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/DefaultNativeLibraryLoader.class", 
+          "tag": 1210591465
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Event$EventType.class", 
+          "tag": 379648623
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Event$RecenterType.class", 
+          "tag": 3770778255
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Event.class", 
+          "tag": 3668809426
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ExtensionManager.class", 
+          "tag": 2066796668
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ExternalSurface$1.class", 
+          "tag": 67860470
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ExternalSurface$2.class", 
+          "tag": 931883577
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ExternalSurface.class", 
+          "tag": 2178566917
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/FadeOverlayView$1.class", 
+          "tag": 716479118
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/FadeOverlayView$2.class", 
+          "tag": 2918182674
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/FadeOverlayView.class", 
+          "tag": 2184397800
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Frame.class", 
+          "tag": 1284702921
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrApi$Error.class", 
+          "tag": 2830890149
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrApi$Feature.class", 
+          "tag": 4072838522
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrApi$IdleListener.class", 
+          "tag": 1269066497
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrApi$PoseTracker.class", 
+          "tag": 3825657506
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrApi$ViewerType.class", 
+          "tag": 1071596199
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrApi.class", 
+          "tag": 1370903244
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayout$ExternalSurfaceListener.class", 
+          "tag": 2531158114
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayout$SetOnDonNotNeededListenerResult.class", 
+          "tag": 894202812
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayout.class", 
+          "tag": 2982177661
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutFactory.class", 
+          "tag": 1016036101
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$1.class", 
+          "tag": 2373830252
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$2.class", 
+          "tag": 3591307002
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$3.class", 
+          "tag": 3207675720
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$4.class", 
+          "tag": 1606267188
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$AsyncReprojectionSurfaceView$1.class", 
+          "tag": 3587364965
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$AsyncReprojectionSurfaceView.class", 
+          "tag": 2107612935
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$FrameFlushWorkaround.class", 
+          "tag": 2538914456
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$PresentationFactory.class", 
+          "tag": 2872233927
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$PresentationHelper.class", 
+          "tag": 458083366
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$PresentationListener.class", 
+          "tag": 759524644
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$ScreenOnManager$1.class", 
+          "tag": 314985828
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$ScreenOnManager$2.class", 
+          "tag": 1299079787
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$ScreenOnManager.class", 
+          "tag": 53584465
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl.class", 
+          "tag": 2585613699
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImplWrapper.class", 
+          "tag": 1920671760
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$1.class", 
+          "tag": 4019812896
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$BaseConfigChooser.class", 
+          "tag": 1261756838
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$ComponentSizeChooser.class", 
+          "tag": 3776777721
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$DefaultContextFactory.class", 
+          "tag": 3523854241
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$DefaultWindowSurfaceFactory.class", 
+          "tag": 674462879
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$EglHelper.class", 
+          "tag": 619613621
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$GLThread$GLThreadManager.class", 
+          "tag": 603408837
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$GLThread.class", 
+          "tag": 694336933
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$GLWrapper.class", 
+          "tag": 4247797270
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$LogWriter.class", 
+          "tag": 1298873844
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView$SimpleEGLConfigChooser.class", 
+          "tag": 1903431258
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrSurfaceView.class", 
+          "tag": 143246736
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayout.class", 
+          "tag": 2938768253
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$1.class", 
+          "tag": 3259188344
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$2.class", 
+          "tag": 1468885564
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$3.class", 
+          "tag": 2191095945
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$CloseButtonListenerWrapper.class", 
+          "tag": 3783719736
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl.class", 
+          "tag": 1921937403
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Properties$PropertyType.class", 
+          "tag": 725573357
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Properties$SafetyRegionType.class", 
+          "tag": 349373286
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Properties$TrackingStatusFlag.class", 
+          "tag": 2900533482
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Properties.class", 
+          "tag": 1163097874
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SdkConfigurationReader.class", 
+          "tag": 1757638779
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SdkDaydreamTouchListener$1.class", 
+          "tag": 538849041
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SdkDaydreamTouchListener$FinishInitilizationTask.class", 
+          "tag": 2694157301
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SdkDaydreamTouchListener$RefreshViewerProfileTask.class", 
+          "tag": 3035129976
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SdkDaydreamTouchListener.class", 
+          "tag": 2523004556
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SerializationConstants.class", 
+          "tag": 76602303
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/SwapChain.class", 
+          "tag": 3164970724
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor$1.class", 
+          "tag": 3623156958
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor$2.class", 
+          "tag": 3244930717
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor$SetupCallback.class", 
+          "tag": 3073372324
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor$TemperatureTrigger.class", 
+          "tag": 2676407471
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor$ThrottlingTriggerCallback$1.class", 
+          "tag": 513211542
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor$ThrottlingTriggerCallback.class", 
+          "tag": 568261625
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/ThrottlingMonitor.class", 
+          "tag": 2533062685
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/TraceCompat.class", 
+          "tag": 3754989789
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/UserPrefs$ControllerHandedness.class", 
+          "tag": 3214683346
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/UserPrefs.class", 
+          "tag": 2464672870
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Value.class", 
+          "tag": 4109501992
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/Version.class", 
+          "tag": 2723082809
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/VrCoreSdkClient$1.class", 
+          "tag": 1545955032
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/VrCoreSdkClient$DaydreamListenerImpl$1.class", 
+          "tag": 2121005838
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/VrCoreSdkClient$DaydreamListenerImpl$2.class", 
+          "tag": 3396482828
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/VrCoreSdkClient$DaydreamListenerImpl.class", 
+          "tag": 359025746
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/VrCoreSdkClient.class", 
+          "tag": 2574664476
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/ScreenOnFlagHelper.class", 
+          "tag": 1621975990
+        }, 
+        {
+          "path": "com/google/vrtoolkit/cardboard/SensorReadingStats.class", 
+          "tag": 805096511
+        }, 
+        {
+          "path": "com/google/vr/cardboard/ExternalSurfaceManager$NativeCallback$$Lambda$0.class", 
+          "tag": 1986824451
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrLayoutImpl$$Lambda$0.class", 
+          "tag": 2027491650
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$$Lambda$0.class", 
+          "tag": 623948089
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$$Lambda$1.class", 
+          "tag": 504910749
+        }, 
+        {
+          "path": "com/google/vr/ndk/base/GvrUiLayoutImpl$$Lambda$2.class", 
+          "tag": 2038140918
+        }, 
+        {
+          "path": "com/google/vr/cardboard/annotations/UsedByNative.class", 
+          "tag": 1271924192
+        }, 
+        {
+          "path": "com/google/vr/cardboard/annotations/UsedByReflection.class", 
+          "tag": 1488528514
+        }, 
+        {
+          "path": "com/google/vr/audio/DeviceInfo$1.class", 
+          "tag": 3718407812
+        }, 
+        {
+          "path": "com/google/vr/audio/DeviceInfo$HeadphoneState.class", 
+          "tag": 2687406026
+        }, 
+        {
+          "path": "com/google/vr/audio/DeviceInfo.class", 
+          "tag": 981479991
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AnalyticsRequest.class", 
+          "tag": 1617279666
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AnalyticsSample.class", 
+          "tag": 1701761295
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AppAnalytics$SubmitStatus.class", 
+          "tag": 3377283093
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AppAnalytics.class", 
+          "tag": 179663170
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AsyncReprojectionAnalytics$VsyncStatus$MissedVsync.class", 
+          "tag": 3753203557
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AsyncReprojectionAnalytics$VsyncStatus$NewAppFrame.class", 
+          "tag": 1320765925
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AsyncReprojectionAnalytics$VsyncStatus$ReusedAppFrame.class", 
+          "tag": 3799061018
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AsyncReprojectionAnalytics$VsyncStatus.class", 
+          "tag": 2316550571
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics$AsyncReprojectionAnalytics.class", 
+          "tag": 164119847
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Analytics.class", 
+          "tag": 2393057872
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$CardboardInternalParams$OrientationType.class", 
+          "tag": 382221732
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$CardboardInternalParams.class", 
+          "tag": 2136536653
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$DaydreamInternalParams.class", 
+          "tag": 2288207431
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$DeviceParams$ButtonType.class", 
+          "tag": 1202611854
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$DeviceParams$VerticalAlignmentType.class", 
+          "tag": 3941465124
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$DeviceParams.class", 
+          "tag": 68439930
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$ScreenAlignmentMarker.class", 
+          "tag": 3459087628
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$VignetteParams$VignetteParamsCondition.class", 
+          "tag": 1934446018
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice$VignetteParams.class", 
+          "tag": 465121414
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/CardboardDevice.class", 
+          "tag": 1253349834
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Display$DisplayParams.class", 
+          "tag": 2073702836
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Display.class", 
+          "tag": 3478928326
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences$DeveloperPrefs$MotophoPatchMode.class", 
+          "tag": 318768192
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences$DeveloperPrefs.class", 
+          "tag": 2383798338
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences$FrameReuseMonitoringParams.class", 
+          "tag": 2820641436
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences$SafetyCylinderParams.class", 
+          "tag": 1624810882
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences$UserPrefs$Handedness.class", 
+          "tag": 4096442729
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences$UserPrefs.class", 
+          "tag": 2901458711
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Preferences.class", 
+          "tag": 3530860796
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session$HeadTrackingServiceState.class", 
+          "tag": 985916230
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session$Pose.class", 
+          "tag": 123487524
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session$RecenteredState$Type.class", 
+          "tag": 1957009314
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session$RecenteredState.class", 
+          "tag": 1582629281
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session$SafeRegionState.class", 
+          "tag": 2181958637
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session$TrackerState.class", 
+          "tag": 1186889375
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/Session.class", 
+          "tag": 3551846179
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/BuildUtils.class", 
+          "tag": 422022604
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/ParcelableProto.class", 
+          "tag": 3995948102
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/SignatureUtils.class", 
+          "tag": 3377466127
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/VrCoreConstants.class", 
+          "tag": 308746852
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/VrCoreNotAvailableException.class", 
+          "tag": 1522301148
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/VrCoreUtils$ConnectionResult.class", 
+          "tag": 981829315
+        }, 
+        {
+          "path": "com/google/vr/vrcore/base/api/VrCoreUtils.class", 
+          "tag": 2762862737
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/DaydreamPrepareVrResults.class", 
+          "tag": 2912352898
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/HeadTrackingServiceState$1.class", 
+          "tag": 1383864193
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/HeadTrackingServiceState.class", 
+          "tag": 265393353
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/HeadTrackingState$1.class", 
+          "tag": 3148165040
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/HeadTrackingState.class", 
+          "tag": 1890578341
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IDaydreamListener$Stub$Proxy.class", 
+          "tag": 2497350008
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IDaydreamListener$Stub.class", 
+          "tag": 3738670645
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IDaydreamListener.class", 
+          "tag": 120721799
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IDaydreamManager$Stub$Proxy.class", 
+          "tag": 4208475274
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IDaydreamManager$Stub.class", 
+          "tag": 2530999519
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IDaydreamManager.class", 
+          "tag": 959445286
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/ITransitionCallbacks$Stub$Proxy.class", 
+          "tag": 4103327815
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/ITransitionCallbacks$Stub.class", 
+          "tag": 2321020290
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/ITransitionCallbacks.class", 
+          "tag": 3112970191
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IVrCoreSdkService$Stub$Proxy.class", 
+          "tag": 3608501802
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IVrCoreSdkService$Stub.class", 
+          "tag": 723608500
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/IVrCoreSdkService.class", 
+          "tag": 2362513727
+        }, 
+        {
+          "path": "com/google/vr/vrcore/common/api/SdkServiceConsts.class", 
+          "tag": 539214222
+        }, 
+        {
+          "path": "com/google/vr/vrcore/logging/api/IVrCoreLoggingService$Stub$Proxy.class", 
+          "tag": 1909137099
+        }, 
+        {
+          "path": "com/google/vr/vrcore/logging/api/IVrCoreLoggingService$Stub.class", 
+          "tag": 3761786565
+        }, 
+        {
+          "path": "com/google/vr/vrcore/logging/api/IVrCoreLoggingService.class", 
+          "tag": 2683867603
+        }, 
+        {
+          "path": "com/google/vr/vrcore/logging/api/VREventParcelable$1.class", 
+          "tag": 3664039238
+        }, 
+        {
+          "path": "com/google/vr/vrcore/logging/api/VREventParcelable.class", 
+          "tag": 1292086663
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Application.class", 
+          "tag": 3902341772
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$AudioStats$RenderingMode.class", 
+          "tag": 742580320
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$AudioStats.class", 
+          "tag": 206867742
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Bucket.class", 
+          "tag": 2140723023
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$Capture$Outcome.class", 
+          "tag": 2603391509
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$Capture.class", 
+          "tag": 3880761218
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$Share$Type.class", 
+          "tag": 181238280
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$Share.class", 
+          "tag": 1368825936
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$ShareStart$OriginScreen.class", 
+          "tag": 807198144
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$ShareStart.class", 
+          "tag": 1917588008
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$View$Orientation.class", 
+          "tag": 1563838613
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops$View.class", 
+          "tag": 2491988426
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Cyclops.class", 
+          "tag": 3394794695
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$DoublePrecisionTransform.class", 
+          "tag": 1763203005
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$ActionOrb$DisplayMode.class", 
+          "tag": 1800294200
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$ActionOrb$ExpansionState.class", 
+          "tag": 1426677432
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$ActionOrb.class", 
+          "tag": 2081787227
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Actor$ControllerState$Role.class", 
+          "tag": 599513238
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Actor$ControllerState$Type.class", 
+          "tag": 2789721934
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Actor$ControllerState.class", 
+          "tag": 635317514
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Actor$VrSdk.class", 
+          "tag": 3780757102
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Actor$VrSystemType.class", 
+          "tag": 436134506
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Actor.class", 
+          "tag": 2062191192
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$AppState.class", 
+          "tag": 2290165536
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$ControllerState$Role.class", 
+          "tag": 3958341065
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$ControllerState.class", 
+          "tag": 2364435734
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Environment.class", 
+          "tag": 515371346
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$GeoLocation.class", 
+          "tag": 639501774
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Menu.class", 
+          "tag": 220514398
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Preferences$ComfortModeState.class", 
+          "tag": 2622528182
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Preferences$GuestMode.class", 
+          "tag": 75180730
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Preferences$HumanScaleMode.class", 
+          "tag": 597983565
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Preferences$LabelsState.class", 
+          "tag": 514843896
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Preferences$StartConfiguration.class", 
+          "tag": 2327607906
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Preferences.class", 
+          "tag": 3213544835
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Search.class", 
+          "tag": 1429645145
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$SplashScreen$ExitType.class", 
+          "tag": 1300370811
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$SplashScreen.class", 
+          "tag": 2118939645
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$StreetView$PanoFrontend.class", 
+          "tag": 3258098892
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$StreetView$PanoType.class", 
+          "tag": 908083105
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$StreetView$State.class", 
+          "tag": 2519705171
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$StreetView.class", 
+          "tag": 1391802680
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Tour.class", 
+          "tag": 4048353825
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$Tutorial.class", 
+          "tag": 3836619160
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$View$ForceHumanScale.class", 
+          "tag": 2594822580
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$View$Mode.class", 
+          "tag": 4788265
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$View.class", 
+          "tag": 3620271514
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$VrSdkError$ShutdownReason.class", 
+          "tag": 3314856886
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr$VrSdkError.class", 
+          "tag": 1983751355
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EarthVr.class", 
+          "tag": 1802854127
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EmbedVrWidget$Pano.class", 
+          "tag": 1344045047
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EmbedVrWidget$StereoFormat.class", 
+          "tag": 1036873174
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EmbedVrWidget$Video.class", 
+          "tag": 3535497014
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EmbedVrWidget$ViewMode.class", 
+          "tag": 209291998
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EmbedVrWidget.class", 
+          "tag": 2487388975
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$BluetoothSession.class", 
+          "tag": 496464477
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$CameraInfo$CameraType.class", 
+          "tag": 2633890499
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$CameraInfo.class", 
+          "tag": 722996681
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$CameraStatus.class", 
+          "tag": 2000888234
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$Capture$CaptureType.class", 
+          "tag": 3835861788
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$Capture.class", 
+          "tag": 3064168651
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$FileTransfer$FileType.class", 
+          "tag": 3223766491
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$FileTransfer$Outcome.class", 
+          "tag": 3175983395
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$FileTransfer$TransferInterface.class", 
+          "tag": 2493198387
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$FileTransfer.class", 
+          "tag": 1770405577
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$Pairing$Outcome.class", 
+          "tag": 2595292198
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$Pairing.class", 
+          "tag": 436290726
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$Resolution.class", 
+          "tag": 686844748
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$VideoInfo$Codec.class", 
+          "tag": 329731301
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$VideoInfo.class", 
+          "tag": 4174164610
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$View$MediaType.class", 
+          "tag": 995253509
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$View$ViewSource.class", 
+          "tag": 2735560377
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$View$ViewType.class", 
+          "tag": 53726547
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva$View.class", 
+          "tag": 4023774734
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Eva.class", 
+          "tag": 486311968
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$EventSource.class", 
+          "tag": 16538207
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Expeditions.class", 
+          "tag": 313006790
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$GConfigUpdate$GConfigValue.class", 
+          "tag": 1783673334
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$GConfigUpdate.class", 
+          "tag": 284093659
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HeadTracking$FallBackReason.class", 
+          "tag": 575787542
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HeadTracking$PeriodicReport$RecenterEvent.class", 
+          "tag": 699871888
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HeadTracking$PeriodicReport$SafeRegionEvent.class", 
+          "tag": 392577812
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HeadTracking$PeriodicReport.class", 
+          "tag": 679837298
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HeadTracking$SafetyCylinderConfig.class", 
+          "tag": 2751312526
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HeadTracking.class", 
+          "tag": 4222723552
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$HistogramBucket.class", 
+          "tag": 2935351318
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$AudioDetails.class", 
+          "tag": 4087890599
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$ImageDetails.class", 
+          "tag": 2533814726
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$ImagePlaybackDetails.class", 
+          "tag": 2706108950
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$MediaDetails$AudioCodec.class", 
+          "tag": 1120793548
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$MediaDetails$VideoCodec.class", 
+          "tag": 48957234
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$MediaDetails.class", 
+          "tag": 1741657879
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$PickerDetails.class", 
+          "tag": 4280899819
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$PlaybackDetails$PlaybackEngine.class", 
+          "tag": 2056301408
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$PlaybackDetails$PlaybackMode.class", 
+          "tag": 1011356295
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$PlaybackDetails$PlaybackState.class", 
+          "tag": 4041998605
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$PlaybackDetails.class", 
+          "tag": 2053271700
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$Resolution.class", 
+          "tag": 3406074234
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$SphericalMetadata$ProjectionType.class", 
+          "tag": 1734084369
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$SphericalMetadata.class", 
+          "tag": 364318788
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$VideoDetails.class", 
+          "tag": 4075658678
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector$VideoPlaybackDetails.class", 
+          "tag": 2158548052
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$JumpInspector.class", 
+          "tag": 2130654903
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Keyboard$KeyboardEvent.class", 
+          "tag": 858380176
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Keyboard$KeyboardEventType.class", 
+          "tag": 1087200147
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Keyboard$KeyboardInputType.class", 
+          "tag": 2464993758
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Keyboard$KeyboardTextEntry.class", 
+          "tag": 1392477214
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Keyboard$KeyboardTextType.class", 
+          "tag": 3620003920
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Keyboard.class", 
+          "tag": 481559455
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Launcher$NavItem.class", 
+          "tag": 4035766652
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Launcher.class", 
+          "tag": 1306466466
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Lullaby$LoadTime$AssetType.class", 
+          "tag": 1063354735
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Lullaby$LoadTime.class", 
+          "tag": 2213054478
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Lullaby$UiElement.class", 
+          "tag": 2110798659
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Lullaby.class", 
+          "tag": 291879296
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$PerformanceStats.class", 
+          "tag": 3716183796
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$PhoneAlignment.class", 
+          "tag": 1618864982
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Photos$OpenMedia$MediaSource.class", 
+          "tag": 2906256631
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Photos$OpenMedia$MediaType.class", 
+          "tag": 4044909848
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Photos$OpenMedia.class", 
+          "tag": 697748571
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Photos$WarmWelcome.class", 
+          "tag": 62873142
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Photos.class", 
+          "tag": 960559454
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$QrCodeScan$Status.class", 
+          "tag": 1891569947
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$QrCodeScan.class", 
+          "tag": 1940300779
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Renderer.class", 
+          "tag": 3622070549
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SdkConfigurationParams$AsyncReprojectionConfig.class", 
+          "tag": 869630359
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SdkConfigurationParams$DaydreamImageAlignment.class", 
+          "tag": 453917288
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SdkConfigurationParams$PerformanceOverlayInfo.class", 
+          "tag": 1474856009
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SdkConfigurationParams$ScreenCaptureConfig.class", 
+          "tag": 3664287830
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SdkConfigurationParams.class", 
+          "tag": 2453715805
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SensorStats$GyroscopeStats.class", 
+          "tag": 3751858927
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SensorStats$Vector3.class", 
+          "tag": 773840324
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$SensorStats.class", 
+          "tag": 2929551412
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StandaloneHeadset$HeadSetOnOffStats.class", 
+          "tag": 3494909061
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StandaloneHeadset$MemoryStats.class", 
+          "tag": 2644327813
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StandaloneHeadset$PowerState$PowerStates.class", 
+          "tag": 2988517610
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StandaloneHeadset$PowerState.class", 
+          "tag": 852290988
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StandaloneHeadset.class", 
+          "tag": 3836006010
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StreetView$PanoSession$Source.class", 
+          "tag": 696564451
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StreetView$PanoSession.class", 
+          "tag": 4230802696
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StreetView$TutorialSession$Tutorial.class", 
+          "tag": 3817081757
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StreetView$TutorialSession.class", 
+          "tag": 1359422800
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$StreetView.class", 
+          "tag": 3975834664
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$TimeSeriesData$TimeIntervalData.class", 
+          "tag": 1891322939
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$TimeSeriesData.class", 
+          "tag": 2227681908
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Transform.class", 
+          "tag": 448822854
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$Vector2.class", 
+          "tag": 2161255557
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$CaptureEvent.class", 
+          "tag": 2241537475
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$Controller$ControllerAxis.class", 
+          "tag": 3967336484
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$Controller$SensorType.class", 
+          "tag": 3888750836
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$Controller.class", 
+          "tag": 3232143863
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$DashboardEvent$DashboardDismissDetails$DashboardDismissReason.class", 
+          "tag": 563630076
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$DashboardEvent$DashboardDismissDetails.class", 
+          "tag": 2335248863
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$DashboardEvent$DashboardEventType.class", 
+          "tag": 3773328186
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$DashboardEvent.class", 
+          "tag": 1587330622
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$ErrorCode.class", 
+          "tag": 4174598063
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$LockScreenEvent$LockScreenEventType.class", 
+          "tag": 2454471715
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$LockScreenEvent.class", 
+          "tag": 2422966777
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore$Permission.class", 
+          "tag": 3880771394
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrCore.class", 
+          "tag": 2325485192
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$DialogAction$DialogActionType.class", 
+          "tag": 3333877623
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$DialogAction$DialogType.class", 
+          "tag": 870522080
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$DialogAction.class", 
+          "tag": 2570048289
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$GetViewerClick.class", 
+          "tag": 3071850696
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$Setup$Step.class", 
+          "tag": 1624125735
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$Setup$StepStateChange$StepState.class", 
+          "tag": 373888138
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$Setup$StepStateChange.class", 
+          "tag": 2816420709
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$Setup$View.class", 
+          "tag": 3091219194
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome$Setup.class", 
+          "tag": 3411679521
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrHome.class", 
+          "tag": 3159938304
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrStreaming$Frame.class", 
+          "tag": 3113152619
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrStreaming$SessionInfo.class", 
+          "tag": 3910582630
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent$VrStreaming.class", 
+          "tag": 895597105
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr$VREvent.class", 
+          "tag": 3194853560
+        }, 
+        {
+          "path": "com/google/common/logging/nano/Vr.class", 
+          "tag": 3299068723
+        }, 
+        {
+          "path": "logs/proto/wireless/performance/mobile/nano/MemoryMetric$AndroidMemoryStats.class", 
+          "tag": 1151776159
+        }, 
+        {
+          "path": "logs/proto/wireless/performance/mobile/nano/MemoryMetric.class", 
+          "tag": 2350853987
+        }, 
+        {
+          "path": "com/google/common/logging/nano/VrBaseOuterClass$VrBase$HeadMount.class", 
+          "tag": 3106354159
+        }, 
+        {
+          "path": "com/google/common/logging/nano/VrBaseOuterClass$VrBase.class", 
+          "tag": 3004776388
+        }, 
+        {
+          "path": "com/google/common/logging/nano/VrBaseOuterClass.class", 
+          "tag": 3066438814
+        }, 
+        {
+          "path": "com/google/vr/sdk/common/deps/a.class", 
+          "tag": 2220112769
+        }, 
+        {
+          "path": "com/google/vr/sdk/common/deps/b.class", 
+          "tag": 746073890
+        }, 
+        {
+          "path": "com/google/vr/sdk/common/deps/c.class", 
+          "tag": 415805338
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/AutomatedControllerConstants$ButtonEvent.class", 
+          "tag": 2714042717
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/AutomatedControllerConstants$OrientationEvent.class", 
+          "tag": 3889798427
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/AutomatedControllerConstants$TouchEvent.class", 
+          "tag": 3409576519
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/AutomatedControllerConstants.class", 
+          "tag": 1962236822
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerAccelEvent$1.class", 
+          "tag": 1224407764
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerAccelEvent.class", 
+          "tag": 45974619
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerBatteryEvent$1.class", 
+          "tag": 1150617544
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerBatteryEvent.class", 
+          "tag": 1483155800
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerButtonEvent$1.class", 
+          "tag": 1663107167
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerButtonEvent.class", 
+          "tag": 2966151143
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerEvent.class", 
+          "tag": 245297075
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerEventPacket$1.class", 
+          "tag": 1447372807
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerEventPacket.class", 
+          "tag": 4254580984
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerEventPacket2$1.class", 
+          "tag": 2325087244
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerEventPacket2.class", 
+          "tag": 2471035234
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerGyroEvent$1.class", 
+          "tag": 252519304
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerGyroEvent.class", 
+          "tag": 2451848645
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerInitResults.class", 
+          "tag": 3314596948
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerListenerOptions$1.class", 
+          "tag": 1621942162
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerListenerOptions.class", 
+          "tag": 1560326281
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerOrientationEvent$1.class", 
+          "tag": 1671220347
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerOrientationEvent.class", 
+          "tag": 2895672137
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerPositionEvent$1.class", 
+          "tag": 1344633142
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerPositionEvent.class", 
+          "tag": 3961515583
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerRequest$1.class", 
+          "tag": 1400224125
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerRequest.class", 
+          "tag": 3555649588
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerServiceConsts.class", 
+          "tag": 59340088
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerStates.class", 
+          "tag": 1342804897
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerTouchEvent$1.class", 
+          "tag": 2402153287
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/ControllerTouchEvent.class", 
+          "tag": 2207275605
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerListener$Stub$Proxy.class", 
+          "tag": 2140613019
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerListener$Stub.class", 
+          "tag": 485192076
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerListener.class", 
+          "tag": 834087731
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerService$Stub$Proxy.class", 
+          "tag": 1906459637
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerService$Stub.class", 
+          "tag": 211951129
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerService.class", 
+          "tag": 2746458824
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerServiceListener$Stub$Proxy.class", 
+          "tag": 3310353053
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerServiceListener$Stub.class", 
+          "tag": 3368028506
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/IControllerServiceListener.class", 
+          "tag": 2539197680
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/nano/Proto$Request$Vibration.class", 
+          "tag": 3357822104
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/nano/Proto$Request.class", 
+          "tag": 2337796390
+        }, 
+        {
+          "path": "com/google/vr/vrcore/controller/api/nano/Proto.class", 
+          "tag": 2607803568
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IGvrLayout$Stub$Proxy.class", 
+          "tag": 4186291943
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IGvrLayout$Stub.class", 
+          "tag": 3897702373
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IGvrLayout.class", 
+          "tag": 1603443947
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IGvrUiLayout$Stub$Proxy.class", 
+          "tag": 1885604481
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IGvrUiLayout$Stub.class", 
+          "tag": 3437902883
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IGvrUiLayout.class", 
+          "tag": 898225114
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IObjectWrapper$Stub$Proxy.class", 
+          "tag": 2243672450
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IObjectWrapper$Stub.class", 
+          "tag": 1272875945
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IObjectWrapper.class", 
+          "tag": 2308528859
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IVrCreator$Stub$Proxy.class", 
+          "tag": 4239208938
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IVrCreator$Stub.class", 
+          "tag": 316976404
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IVrCreator.class", 
+          "tag": 2057118000
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IVrNativeLibraryLoader$Stub$Proxy.class", 
+          "tag": 2759591685
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IVrNativeLibraryLoader$Stub.class", 
+          "tag": 3618311762
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/IVrNativeLibraryLoader.class", 
+          "tag": 4168454991
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/ObjectWrapper.class", 
+          "tag": 256179333
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/SdkLibraryConsts.class", 
+          "tag": 3914673609
+        }, 
+        {
+          "path": "com/google/vr/vrcore/library/api/VrCoreLoader.class", 
+          "tag": 3473277185
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/IPerformanceService$Stub$Proxy.class", 
+          "tag": 1047729213
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/IPerformanceService$Stub.class", 
+          "tag": 215664428
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/IPerformanceService.class", 
+          "tag": 2003840244
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/IThrottlingTriggerCallback$Stub$Proxy.class", 
+          "tag": 704124559
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/IThrottlingTriggerCallback$Stub.class", 
+          "tag": 3159477322
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/IThrottlingTriggerCallback.class", 
+          "tag": 520154418
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/PerformanceServiceConsts.class", 
+          "tag": 3567394366
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/TimestampedTemperature$1.class", 
+          "tag": 2507811988
+        }, 
+        {
+          "path": "com/google/vr/vrcore/performance/api/TimestampedTemperature.class", 
+          "tag": 1865782176
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/SdkConfiguration$SdkConfigurationRequest.class", 
+          "tag": 3159365439
+        }, 
+        {
+          "path": "com/google/vr/sdk/proto/nano/SdkConfiguration.class", 
+          "tag": 1356459435
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$Callbacks.class", 
+          "tag": 1308088628
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$ControllerListener.class", 
+          "tag": 436962894
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$ControllerServiceListener.class", 
+          "tag": 3754997801
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$LocalControllerListener.class", 
+          "tag": 1543331303
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge.class", 
+          "tag": 3645409048
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/NativeCallbacks.class", 
+          "tag": 3395615589
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$$Lambda$0.class", 
+          "tag": 383830477
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$$Lambda$1.class", 
+          "tag": 823336212
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$$Lambda$2.class", 
+          "tag": 61282130
+        }, 
+        {
+          "path": "com/google/vr/internal/controller/ControllerServiceBridge$$Lambda$3.class", 
+          "tag": 4143265345
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

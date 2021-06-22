@@ -1,0 +1,6 @@
+layout/browser_actions_context_menu_row.xml,../../third_party/custom_tabs_client/src/customtabs/res/layout/browser_actions_context_menu_row.xml
+values/strings.xml,../../third_party/custom_tabs_client/src/customtabs/res/values/strings.xml
+values/colors.xml,../../third_party/custom_tabs_client/src/customtabs/res/values/colors.xml
+layout/browser_actions_context_menu_page.xml,../../third_party/custom_tabs_client/src/customtabs/res/layout/browser_actions_context_menu_page.xml
+xml/image_share_filepaths.xml,../../third_party/custom_tabs_client/src/customtabs/res/xml/image_share_filepaths.xml
+values/dimens.xml,../../third_party/custom_tabs_client/src/customtabs/res/values/dimens.xml

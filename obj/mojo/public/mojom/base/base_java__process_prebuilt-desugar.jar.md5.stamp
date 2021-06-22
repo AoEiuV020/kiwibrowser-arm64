@@ -1,0 +1,213 @@
+{
+  "input-strings": [], 
+  "files-md5": "b8cf9abaa70be60987a479809e916682", 
+  "input-files": [
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/bindings_java.interface.jar", 
+      "tag": "0ffcb9623a4334fe858331af34a93783"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/system_java.interface.jar", 
+      "tag": "3c5878f028ccfef88e66d66ebd150540"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/mojo/public/mojom/base/base_java__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "af5dbf8161d9f7f4f805ca03d0ed03f0", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/FileInfo.class", 
+          "tag": 3170758150
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/Value$Tag.class", 
+          "tag": 4011470275
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigString16.class", 
+          "tag": 2196451888
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ThreadPriority.class", 
+          "tag": 59590560
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/String16.class", 
+          "tag": 3779373399
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ListValue.class", 
+          "tag": 1436250315
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/RefCountedMemory.class", 
+          "tag": 2347086641
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/FileError.class", 
+          "tag": 2843880713
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/DictionaryValue.class", 
+          "tag": 314732222
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigBuffer.class", 
+          "tag": 2730381838
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ReadOnlySharedMemoryRegion.class", 
+          "tag": 2311512363
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/TimeTicks.class", 
+          "tag": 3433826238
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigBuffer$Tag.class", 
+          "tag": 2514211965
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/WritableSharedMemoryRegion.class", 
+          "tag": 2962252804
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/UnguessableToken.class", 
+          "tag": 1040810713
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/MemoryAllocatorDumpCrossProcessUid.class", 
+          "tag": 881264902
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/TimeDelta.class", 
+          "tag": 3155464080
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/Value.class", 
+          "tag": 1355698035
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/TextDirection.class", 
+          "tag": 4132949392
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/FilePath.class", 
+          "tag": 2375041972
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/File.class", 
+          "tag": 3134964127
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/UnsafeSharedMemoryRegion.class", 
+          "tag": 821489535
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/ProcessId.class", 
+          "tag": 634429208
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigBufferSharedMemoryRegion.class", 
+          "tag": 1687702217
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/BigString.class", 
+          "tag": 2957688507
+        }, 
+        {
+          "path": "org/chromium/mojo_base/mojom/Time.class", 
+          "tag": 1230758442
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

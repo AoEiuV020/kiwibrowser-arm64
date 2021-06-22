@@ -1,0 +1,509 @@
+{
+  "input-strings": [], 
+  "files-md5": "c288596fa1b8ebac2615910d258049ea", 
+  "input-files": [
+    {
+      "path": "lib.java/base/base_java.interface.jar", 
+      "tag": "dd1a6bcdcfca0defeb56986e47037de5"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/bindings_java.interface.jar", 
+      "tag": "0ffcb9623a4334fe858331af34a93783"
+    }, 
+    {
+      "path": "lib.java/mojo/public/java/system_java.interface.jar", 
+      "tag": "3c5878f028ccfef88e66d66ebd150540"
+    }, 
+    {
+      "path": "lib.java/services/service_manager/public/mojom/constants_java.interface.jar", 
+      "tag": "45c4d6e6d2b1a64faa1d339f65cf62ca"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_java.interface.jar", 
+      "tag": "d946f37a624769b4957e60782f6fca06"
+    }, 
+    {
+      "path": "lib.java/build/android/buildhooks/build_hooks_android_java.interface.jar", 
+      "tag": "d3c4784b6cc62e78239b50be6f588dec"
+    }, 
+    {
+      "path": "lib.java/third_party/android_tools/android.interface.jar", 
+      "tag": "1913e3739ca176a74057b3f272d3e030"
+    }, 
+    {
+      "path": "obj/services/service_manager/public/mojom/mojom_java__process_prebuilt-bytecode-rewritten.jar", 
+      "tag": "8721ce314c8dfafe65605856c20feabe", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener.class", 
+          "tag": 749138164
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider_Internal$1.class", 
+          "tag": 55633857
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver_Internal$1.class", 
+          "tag": 3901018264
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl.class", 
+          "tag": 89366234
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver_Internal$Stub.class", 
+          "tag": 4266505721
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector$Proxy.class", 
+          "tag": 2744909001
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceResponseParamsProxyToResponder.class", 
+          "tag": 1897045749
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnStartResponseParamsForwardToCallback.class", 
+          "tag": 3290125148
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnBindInterfaceParams.class", 
+          "tag": 727680719
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/BindSourceInfo.class", 
+          "tag": 1101736427
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceResponseParams.class", 
+          "tag": 3630556794
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorFilterInterfacesParams.class", 
+          "tag": 3972704742
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory_Internal$Stub.class", 
+          "tag": 1670245911
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager_Internal$ServiceManagerAddListenerParams.class", 
+          "tag": 1070587703
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnBindInterfaceResponseParamsProxyToResponder.class", 
+          "tag": 2687248038
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager$Proxy.class", 
+          "tag": 4240143005
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager_Internal$Proxy.class", 
+          "tag": 3060456760
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/CapabilitySet.class", 
+          "tag": 552091496
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceWithProcessResponseParamsProxyToResponder.class", 
+          "tag": 3846320932
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory$Proxy.class", 
+          "tag": 2778907854
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider$Proxy.class", 
+          "tag": 2013990580
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service$OnBindInterfaceResponse.class", 
+          "tag": 227259176
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorBindInterfaceResponseParamsProxyToResponder.class", 
+          "tag": 2517693536
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver.class", 
+          "tag": 288220393
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service.class", 
+          "tag": 1082803751
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceSet.class", 
+          "tag": 3145780641
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector$StartServiceWithProcessResponse.class", 
+          "tag": 1178655661
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory_Internal$ServiceFactoryCreateServiceParams.class", 
+          "tag": 3656092534
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorBindInterfaceParams.class", 
+          "tag": 1434259306
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector$QueryServiceResponse.class", 
+          "tag": 850443687
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl_Internal$ServiceControlRequestQuitParams.class", 
+          "tag": 870450925
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager_Internal$1.class", 
+          "tag": 3035451814
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$Stub.class", 
+          "tag": 1373603200
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$1.class", 
+          "tag": 3228588074
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceWithProcessResponseParams.class", 
+          "tag": 2565564
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceParams.class", 
+          "tag": 1192372190
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$Stub.class", 
+          "tag": 2967182071
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider_Internal$InterfaceProviderGetInterfaceParams.class", 
+          "tag": 3422574030
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener$Proxy.class", 
+          "tag": 2820928571
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory_Internal$Proxy.class", 
+          "tag": 1771602092
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Identity.class", 
+          "tag": 3979408418
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$ServiceManagerListenerOnInitParams.class", 
+          "tag": 1599151245
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager_Internal.class", 
+          "tag": 451957212
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider_Internal$Stub.class", 
+          "tag": 635316152
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorQueryServiceParams.class", 
+          "tag": 3381015306
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector$StartServiceResponse.class", 
+          "tag": 479663160
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorBindInterfaceResponseParams.class", 
+          "tag": 1197636161
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$ServiceManagerListenerOnServiceStartedParams.class", 
+          "tag": 945938653
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceResponseParamsForwardToCallback.class", 
+          "tag": 29560778
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$Proxy.class", 
+          "tag": 3567654684
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl_Internal.class", 
+          "tag": 2651868524
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnStartResponseParams.class", 
+          "tag": 35234964
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProviderSpec.class", 
+          "tag": 4195538379
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceWithProcessResponseParamsForwardToCallback.class", 
+          "tag": 2263897062
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory_Internal$1.class", 
+          "tag": 3095187226
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorQueryServiceResponseParams.class", 
+          "tag": 3316498435
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$Proxy.class", 
+          "tag": 4874556
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service$OnStartResponse.class", 
+          "tag": 3005128873
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver$Proxy.class", 
+          "tag": 2949989427
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProviderSpecConstants.class", 
+          "tag": 2949003948
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorQueryServiceResponseParamsForwardToCallback.class", 
+          "tag": 1860544870
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory_Internal.class", 
+          "tag": 1194046084
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal.class", 
+          "tag": 296139939
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver_Internal.class", 
+          "tag": 3780661282
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$1.class", 
+          "tag": 966492347
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl$Proxy.class", 
+          "tag": 293955923
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl_Internal$Proxy.class", 
+          "tag": 3956197449
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider_Internal$Proxy.class", 
+          "tag": 1854432180
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$ServiceManagerListenerOnServicePidReceivedParams.class", 
+          "tag": 3353463265
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$ServiceManagerListenerOnServiceStoppedParams.class", 
+          "tag": 2948721245
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider.class", 
+          "tag": 2645399259
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal.class", 
+          "tag": 559617288
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnStartParams.class", 
+          "tag": 1350661489
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnBindInterfaceResponseParams.class", 
+          "tag": 3211938210
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$ServiceManagerListenerOnServiceFailedToStartParams.class", 
+          "tag": 3276944318
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorQueryServiceResponseParamsProxyToResponder.class", 
+          "tag": 2848663089
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl_Internal$Stub.class", 
+          "tag": 2213801819
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceControl_Internal$1.class", 
+          "tag": 4010865767
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager.class", 
+          "tag": 3480202719
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManager_Internal$Stub.class", 
+          "tag": 1754626012
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector$BindInterfaceResponse.class", 
+          "tag": 1893595306
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$ServiceManagerListenerOnServiceCreatedParams.class", 
+          "tag": 3601389252
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnStartResponseParamsProxyToResponder.class", 
+          "tag": 1182515519
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver_Internal$Proxy.class", 
+          "tag": 2195490023
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service$Proxy.class", 
+          "tag": 1847522845
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/RunningServiceInfo.class", 
+          "tag": 362968055
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorBindInterfaceResponseParamsForwardToCallback.class", 
+          "tag": 2443338545
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$ServiceOnBindInterfaceResponseParamsForwardToCallback.class", 
+          "tag": 1074771831
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Service_Internal$Stub.class", 
+          "tag": 3918376682
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$Proxy.class", 
+          "tag": 556363518
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector.class", 
+          "tag": 849149161
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceFactory.class", 
+          "tag": 2870856675
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorStartServiceWithProcessParams.class", 
+          "tag": 3145057804
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ConnectResult.class", 
+          "tag": 4184317956
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/PidReceiver_Internal$PidReceiverSetPidParams.class", 
+          "tag": 3169180035
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/InterfaceProvider_Internal.class", 
+          "tag": 1304594371
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal.class", 
+          "tag": 3191067483
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/Connector_Internal$ConnectorCloneParams.class", 
+          "tag": 1351839284
+        }, 
+        {
+          "path": "org/chromium/service_manager/mojom/ServiceManagerListener_Internal$1.class", 
+          "tag": 2671903135
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/desugar.py", 
+      "tag": "6452ba0ae99ef30e24fe6a7dc92f50e7"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "d41d8cd98f00b204e9800998ecf8427e"
+}

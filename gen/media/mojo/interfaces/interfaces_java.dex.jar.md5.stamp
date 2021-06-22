@@ -1,0 +1,2869 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/media/mojo/interfaces/interfaces_java.dex.jar"
+  ], 
+  "files-md5": "b7d731627f332cbf7663b88cb0bd715c", 
+  "input-files": [
+    {
+      "path": "lib.java/media/mojo/interfaces/interfaces_java.jar", 
+      "tag": "0920c81412baa137f05dea34f9797e98", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderSetDataSourceParams.class", 
+          "tag": 2843350056
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser$Proxy.class", 
+          "tag": 1534588207
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputDeviceStatus.class", 
+          "tag": 2442386096
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmKeyInformation.class", 
+          "tag": 2991844594
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$KeySystemSupportIsKeySystemSupportedResponseParams.class", 
+          "tag": 342578178
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderOnErrorParams.class", 
+          "tag": 1578372847
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal.class", 
+          "tag": 1546951276
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage.class", 
+          "tag": 2386653192
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeVideoResponseParamsProxyToResponder.class", 
+          "tag": 4109613863
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameData.class", 
+          "tag": 4290990874
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioParameters.class", 
+          "tag": 950332928
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDeinitializeDecoderParams.class", 
+          "tag": 3172175364
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$Stub.class", 
+          "tag": 2956207661
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$Proxy.class", 
+          "tag": 2331926127
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderSetAudioDecoderNameParams.class", 
+          "tag": 1929242714
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$Stub.class", 
+          "tag": 443360456
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal$AndroidOverlayClientOnSurfaceReadyParams.class", 
+          "tag": 188591254
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCreateSessionAndGenerateRequestResponseParams.class", 
+          "tag": 1060538547
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationChallengePlatformResponseParamsProxyToResponder.class", 
+          "tag": 3225139639
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$CdmStorageOpenResponseParams.class", 
+          "tag": 1777113466
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EmeInitDataType.class", 
+          "tag": 318552539
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder$ResetResponse.class", 
+          "tag": 2994924958
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport$Proxy.class", 
+          "tag": 4112066462
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleRemoveSessionResponseParamsProxyToResponder.class", 
+          "tag": 1372205143
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder_Internal.class", 
+          "tag": 642484493
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleSetClientParams.class", 
+          "tag": 1642950840
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient.class", 
+          "tag": 384241581
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoColorSpace$PrimaryId.class", 
+          "tag": 616104590
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService$Proxy.class", 
+          "tag": 336996962
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider_Internal$1.class", 
+          "tag": 2848511033
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient_Internal$CdmProxyClientNotifyHardwareResetParams.class", 
+          "tag": 2361433236
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$Stub.class", 
+          "tag": 1664040107
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyInitializeResponseParamsProxyToResponder.class", 
+          "tag": 1192460692
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$Proxy.class", 
+          "tag": 3926248604
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnVideoNaturalSizeChangeParams.class", 
+          "tag": 2976792939
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream$Status.class", 
+          "tag": 144166380
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorUseOutputBitstreamBufferParams.class", 
+          "tag": 3766940318
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService_Internal$Proxy.class", 
+          "tag": 2176985597
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleLoadSessionResponseParams.class", 
+          "tag": 3196472272
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$Proxy.class", 
+          "tag": 976057170
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileCommitWriteResponseParamsForwardToCallback.class", 
+          "tag": 2856428023
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$1.class", 
+          "tag": 570121326
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleInitializeParams.class", 
+          "tag": 333157702
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream_Internal$AudioInputStreamRecordParams.class", 
+          "tag": 762816955
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderOnOverlayInfoChangedParams.class", 
+          "tag": 2874234480
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererFlushParams.class", 
+          "tag": 4221875305
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PredictionTargets.class", 
+          "tag": 2400271346
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptParams.class", 
+          "tag": 2891891514
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal.class", 
+          "tag": 2448922457
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$1.class", 
+          "tag": 1198455514
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderInitializeResponseParamsForwardToCallback.class", 
+          "tag": 662154404
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$Stub.class", 
+          "tag": 3577488622
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnLogMessageParams.class", 
+          "tag": 1239447989
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleRemoveSessionResponseParams.class", 
+          "tag": 1909465987
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient_Internal$Stub.class", 
+          "tag": 1088183562
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher.class", 
+          "tag": 3604114835
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$Stub.class", 
+          "tag": 3145727924
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal.class", 
+          "tag": 1944236969
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderAcquireVideoDecodeStatsRecorderParams.class", 
+          "tag": 347244105
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver.class", 
+          "tag": 2251219493
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal.class", 
+          "tag": 2262410662
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeAudioDecoderParams.class", 
+          "tag": 678789244
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderSetTimeToFirstFrameParams.class", 
+          "tag": 3588998437
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageRemovePersistentSessionParams.class", 
+          "tag": 2135181007
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererFlushResponseParamsProxyToResponder.class", 
+          "tag": 2292998885
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorEncodeWithFdParams.class", 
+          "tag": 1772271715
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$Proxy.class", 
+          "tag": 4004773682
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$Proxy.class", 
+          "tag": 3588975587
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient$Proxy.class", 
+          "tag": 714789149
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyCreateMediaCryptoSessionParams.class", 
+          "tag": 2535577778
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$Proxy.class", 
+          "tag": 4176075007
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PipelineStatus.class", 
+          "tag": 444775931
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderDecodeParams.class", 
+          "tag": 4268322023
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer.class", 
+          "tag": 1560935930
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$Stub.class", 
+          "tag": 593496393
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream$Proxy.class", 
+          "tag": 2283657424
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderConfig.class", 
+          "tag": 1494612663
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient_Internal$Proxy.class", 
+          "tag": 3452448930
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileOpenFileForWritingResponseParamsProxyToResponder.class", 
+          "tag": 2273661555
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationGetStorageIdParams.class", 
+          "tag": 1442415465
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream_Internal$Proxy.class", 
+          "tag": 904918433
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeWithFdParams.class", 
+          "tag": 3567565091
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal$AudioOutputStreamObserverDidChangeAudibleStateParams.class", 
+          "tag": 3355154768
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderDecodeResponseParams.class", 
+          "tag": 3689685182
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal$AudioOutputStreamObserverDidStartPlayingParams.class", 
+          "tag": 3210012481
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver.class", 
+          "tag": 1723906708
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider_Internal$Stub.class", 
+          "tag": 3130097905
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$ProcessResponse.class", 
+          "tag": 4072784529
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$Proxy.class", 
+          "tag": 2808791767
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification$Proxy.class", 
+          "tag": 514605424
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder_Internal$1.class", 
+          "tag": 2785531087
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererSetCdmResponseParamsProxyToResponder.class", 
+          "tag": 1745176634
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayConfig.class", 
+          "tag": 4022221373
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnStoppedParams.class", 
+          "tag": 2411844326
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder.class", 
+          "tag": 804013363
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmSessionType.class", 
+          "tag": 362248344
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$ContentDecryptionModuleClientOnSessionMessageParams.class", 
+          "tag": 2268916607
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal.class", 
+          "tag": 2421272135
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator$Proxy.class", 
+          "tag": 4273048867
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient_Internal$VideoDecoderClientRequestOverlayInfoParams.class", 
+          "tag": 1716361020
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder$ResetResponse.class", 
+          "tag": 1218797588
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeVideoResponseParams.class", 
+          "tag": 1300926469
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamReadParams.class", 
+          "tag": 1591679004
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleGetStatusForPolicyResponseParamsProxyToResponder.class", 
+          "tag": 1002085339
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$InterfaceFactoryCreateDecryptorParams.class", 
+          "tag": 988876278
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageInitializeResponseParams.class", 
+          "tag": 268508643
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeVideoDecoderParams.class", 
+          "tag": 3223898035
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageSavePersistentSessionResponseParams.class", 
+          "tag": 167069961
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnSetVolumeParams.class", 
+          "tag": 3254514467
+        }, 
+        {
+          "path": "org/chromium/media/mojom/FrameResourceReleaser.class", 
+          "tag": 2583530527
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCreateSessionAndGenerateRequestParams.class", 
+          "tag": 3705279257
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDataPipe.class", 
+          "tag": 1149825460
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification.class", 
+          "tag": 2525436321
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal$Stub.class", 
+          "tag": 249412831
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver_Internal$1.class", 
+          "tag": 3808606108
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal.class", 
+          "tag": 2835033147
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$UpdateSessionResponse.class", 
+          "tag": 784733474
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider_Internal$Proxy.class", 
+          "tag": 2884166393
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient.class", 
+          "tag": 1184382581
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog_Internal$MediaLogAddEventParams.class", 
+          "tag": 1858782212
+        }, 
+        {
+          "path": "org/chromium/media/mojom/SampleFormat.class", 
+          "tag": 1370689864
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal.class", 
+          "tag": 3357127935
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage$Proxy.class", 
+          "tag": 619473838
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay$Proxy.class", 
+          "tag": 20772716
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient$Proxy.class", 
+          "tag": 3505726540
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorInitializeResponseParamsProxyToResponder.class", 
+          "tag": 2350691670
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal.class", 
+          "tag": 2235877660
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog.class", 
+          "tag": 1407033203
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$Proxy.class", 
+          "tag": 2626289205
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$Stub.class", 
+          "tag": 1765235582
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$InitializeAudioDecoderResponse.class", 
+          "tag": 1494964450
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitiateScopedSurfaceRequestResponseParamsProxyToResponder.class", 
+          "tag": 4083909632
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxySetKeyParams.class", 
+          "tag": 4216120864
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$GetStatusForPolicyResponse.class", 
+          "tag": 3205620995
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator$DecodeWithFdResponse.class", 
+          "tag": 1364326701
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService_Internal$1.class", 
+          "tag": 3966849828
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageLoadPersistentSessionResponseParams.class", 
+          "tag": 3648147603
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCreateSessionAndGenerateRequestResponseParamsProxyToResponder.class", 
+          "tag": 2872982715
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnDurationChangeParams.class", 
+          "tag": 1560694715
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeResponseParams.class", 
+          "tag": 2451047400
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$Stub.class", 
+          "tag": 83467706
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$InitializeVideoDecoderResponse.class", 
+          "tag": 2939156775
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderDecodeResponseParams.class", 
+          "tag": 3531443418
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient.class", 
+          "tag": 414165828
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator$InitializeResponse.class", 
+          "tag": 325920756
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream_Internal$Stub.class", 
+          "tag": 2076269624
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererFlushResponseParams.class", 
+          "tag": 3004826445
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PipelineStatistics.class", 
+          "tag": 3390368985
+        }, 
+        {
+          "path": "org/chromium/media/mojom/SubsampleEntry.class", 
+          "tag": 3424535803
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderResetResponseParamsProxyToResponder.class", 
+          "tag": 838381909
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptResponseParamsProxyToResponder.class", 
+          "tag": 845153988
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$VideoDecodePerfHistoryGetPerfInfoParams.class", 
+          "tag": 200436321
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderInitializeResponseParamsProxyToResponder.class", 
+          "tag": 4215281561
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$StreamType.class", 
+          "tag": 1532405331
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$CreateMediaCryptoSessionResponse.class", 
+          "tag": 726404037
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderUpdateUnderflowCountParams.class", 
+          "tag": 3557559874
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$Stub.class", 
+          "tag": 2327693765
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionEnableProtectionResponseParams.class", 
+          "tag": 709657795
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitiateScopedSurfaceRequestResponseParams.class", 
+          "tag": 2176220474
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioBuffer.class", 
+          "tag": 2525444502
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderConstructParams.class", 
+          "tag": 3897481221
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal.class", 
+          "tag": 1313397264
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal$AudioOutputStreamSetVolumeParams.class", 
+          "tag": 3102112379
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient_Internal.class", 
+          "tag": 370706582
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderInitializeResponseParams.class", 
+          "tag": 3125874070
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream$Proxy.class", 
+          "tag": 1374276444
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ColorSpace.class", 
+          "tag": 692247453
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$1.class", 
+          "tag": 2437264643
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeKey.class", 
+          "tag": 3515513686
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream.class", 
+          "tag": 2685730795
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$Proxy.class", 
+          "tag": 1149714913
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient.class", 
+          "tag": 2342329176
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage$SavePersistentSessionResponse.class", 
+          "tag": 1219369567
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageRemovePersistentSessionResponseParams.class", 
+          "tag": 2889119464
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleInitializeResponseParams.class", 
+          "tag": 673663552
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationGetStorageIdResponseParams.class", 
+          "tag": 727013576
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal$Proxy.class", 
+          "tag": 92362713
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$DecryptAndDecodeVideoResponse.class", 
+          "tag": 1865519260
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$1.class", 
+          "tag": 3417309846
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$1.class", 
+          "tag": 3569419419
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$KeySystemSupportIsKeySystemSupportedResponseParamsProxyToResponder.class", 
+          "tag": 3000299717
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderSetIsEmeParams.class", 
+          "tag": 3531441632
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderSetTimeToMetadataParams.class", 
+          "tag": 1419306516
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer$SetCdmResponse.class", 
+          "tag": 2262968490
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient.class", 
+          "tag": 1340867836
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererSetCdmParams.class", 
+          "tag": 1640730690
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleLoadSessionResponseParamsProxyToResponder.class", 
+          "tag": 1035948220
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService.class", 
+          "tag": 3465850001
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderDecodeParams.class", 
+          "tag": 518755670
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleSetServerCertificateResponseParams.class", 
+          "tag": 2077563895
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder$DecodeResponse.class", 
+          "tag": 178786367
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal$1.class", 
+          "tag": 2122994816
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal.class", 
+          "tag": 2376594923
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder$Proxy.class", 
+          "tag": 3511447246
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderFinalizeWatchTimeParams.class", 
+          "tag": 1052051578
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$1.class", 
+          "tag": 2571545499
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorInitializeResponseParamsForwardToCallback.class", 
+          "tag": 2682686016
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$ContentDecryptionModuleClientOnSessionExpirationUpdateParams.class", 
+          "tag": 3261793474
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamReadResponseParamsProxyToResponder.class", 
+          "tag": 3119311494
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorEncodeResponseParams.class", 
+          "tag": 1931759364
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderResetResponseParamsForwardToCallback.class", 
+          "tag": 3819672756
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory.class", 
+          "tag": 2227730238
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal.class", 
+          "tag": 2000224641
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnEndedParams.class", 
+          "tag": 3247184663
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay.class", 
+          "tag": 3372985733
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamEnableBitstreamConverterParams.class", 
+          "tag": 2690898732
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$KeySystemSupportIsKeySystemSupportedParams.class", 
+          "tag": 953416956
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream.class", 
+          "tag": 174742261
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$ProvisionFetcherRetrieveParams.class", 
+          "tag": 2883317128
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$VideoDecodePerfHistoryGetPerfInfoResponseParamsForwardToCallback.class", 
+          "tag": 731798692
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder.class", 
+          "tag": 664864039
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderAcquireWatchTimeRecorderParams.class", 
+          "tag": 1705416946
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory_Internal$Proxy.class", 
+          "tag": 2023447894
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeAudioResponseParamsProxyToResponder.class", 
+          "tag": 4279971564
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream.class", 
+          "tag": 2495363765
+        }, 
+        {
+          "path": "org/chromium/media/mojom/BitstreamBuffer.class", 
+          "tag": 3345832137
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal.class", 
+          "tag": 2124812326
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorCancelDecryptParams.class", 
+          "tag": 1772200401
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyRemoveKeyParams.class", 
+          "tag": 2987565025
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator.class", 
+          "tag": 3889991170
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal$Stub.class", 
+          "tag": 4128438301
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitializeResponseParams.class", 
+          "tag": 3230306296
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$Proxy.class", 
+          "tag": 56485884
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient_Internal$Proxy.class", 
+          "tag": 284093259
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererSetVolumeParams.class", 
+          "tag": 3898380422
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal$Proxy.class", 
+          "tag": 1378838495
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator$Error.class", 
+          "tag": 790855851
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$1.class", 
+          "tag": 1388460333
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder_Internal$VideoDecodeStatsRecorderStartNewRecordParams.class", 
+          "tag": 3223596314
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser.class", 
+          "tag": 3370222545
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream_Internal.class", 
+          "tag": 4279455125
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider.class", 
+          "tag": 4087183435
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorInitializeResponseParamsProxyToResponder.class", 
+          "tag": 1177736093
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeWithFdResponseParamsProxyToResponder.class", 
+          "tag": 3718404788
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamReadResponseParamsForwardToCallback.class", 
+          "tag": 2910218994
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamInitializeResponseParamsProxyToResponder.class", 
+          "tag": 1039445039
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog$Proxy.class", 
+          "tag": 2855075708
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient_Internal$Proxy.class", 
+          "tag": 1828541564
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$InitializeResponse.class", 
+          "tag": 1420992537
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider.class", 
+          "tag": 4194323564
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$Proxy.class", 
+          "tag": 112129653
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator$EncodeWithFdResponse.class", 
+          "tag": 388922460
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport$IsKeySystemSupportedResponse.class", 
+          "tag": 1715104713
+        }, 
+        {
+          "path": "org/chromium/media/mojom/HdcpVersion.class", 
+          "tag": 3119641923
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$Stub.class", 
+          "tag": 3832998122
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory$GetPerfInfoResponse.class", 
+          "tag": 1813711092
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$1.class", 
+          "tag": 939075083
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal$Stub.class", 
+          "tag": 3517496229
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal.class", 
+          "tag": 2586353708
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator$DecodeResponse.class", 
+          "tag": 2154088742
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider$Proxy.class", 
+          "tag": 1354627548
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderDecodeResponseParamsProxyToResponder.class", 
+          "tag": 3204895213
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileCommitWriteParams.class", 
+          "tag": 452152829
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoRotation.class", 
+          "tag": 3209451106
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient_Internal.class", 
+          "tag": 3527337472
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$Proxy.class", 
+          "tag": 3031687607
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog.class", 
+          "tag": 3651069523
+        }, 
+        {
+          "path": "org/chromium/media/mojom/SessionData.class", 
+          "tag": 2279621291
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$Proxy.class", 
+          "tag": 1353168239
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog_Internal$Proxy.class", 
+          "tag": 3333954954
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmMessageType.class", 
+          "tag": 2244929544
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$VideoDecodePerfHistoryGetPerfInfoResponseParamsProxyToResponder.class", 
+          "tag": 48134316
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$Proxy.class", 
+          "tag": 3930988789
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DecryptConfig.class", 
+          "tag": 3538098413
+        }, 
+        {
+          "path": "org/chromium/media/mojom/FrameResourceReleaser_Internal$Proxy.class", 
+          "tag": 1000015121
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile$Proxy.class", 
+          "tag": 859756489
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageLoadPersistentSessionResponseParamsProxyToResponder.class", 
+          "tag": 2110336772
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$InterfaceFactoryCreateRendererParams.class", 
+          "tag": 587784177
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal$AndroidOverlayClientOnPowerEfficientStateParams.class", 
+          "tag": 1760494606
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal.class", 
+          "tag": 2003800952
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient_Internal.class", 
+          "tag": 3563839690
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection$Proxy.class", 
+          "tag": 1707135039
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$InterfaceFactoryCreateVideoDecoderParams.class", 
+          "tag": 2404602601
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal$Proxy.class", 
+          "tag": 1349595151
+        }, 
+        {
+          "path": "org/chromium/media/mojom/FrameResourceReleaser$Proxy.class", 
+          "tag": 49721012
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorEncodeWithFdResponseParamsForwardToCallback.class", 
+          "tag": 2253019109
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameData$Tag.class", 
+          "tag": 1681788086
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$DecryptResponse.class", 
+          "tag": 2880576430
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderSetVideoDecoderNameParams.class", 
+          "tag": 2698498791
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$Stub.class", 
+          "tag": 4283714805
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderInitializeResponseParamsForwardToCallback.class", 
+          "tag": 3234332827
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorEncodeResponseParamsForwardToCallback.class", 
+          "tag": 968947858
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioCodec.class", 
+          "tag": 430091760
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$Proxy.class", 
+          "tag": 3843998981
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage.class", 
+          "tag": 2277456193
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator.class", 
+          "tag": 519268775
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$CreateSessionAndGenerateRequestResponse.class", 
+          "tag": 2904070864
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage$Status.class", 
+          "tag": 2037656027
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal.class", 
+          "tag": 2475503917
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageOnProvisionedResponseParamsForwardToCallback.class", 
+          "tag": 506650711
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptResponseParamsForwardToCallback.class", 
+          "tag": 3763536334
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog_Internal.class", 
+          "tag": 2774059908
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay_Internal.class", 
+          "tag": 2448003816
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal.class", 
+          "tag": 2137986775
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient$Proxy.class", 
+          "tag": 2861023457
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeVideoResponseParamsForwardToCallback.class", 
+          "tag": 701951030
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$1.class", 
+          "tag": 132582121
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorInitializeResponseParamsForwardToCallback.class", 
+          "tag": 2106116315
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$CdmStorageOpenResponseParamsForwardToCallback.class", 
+          "tag": 4119751631
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeAudioResponseParamsForwardToCallback.class", 
+          "tag": 1653403822
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeVideoDecoderResponseParamsForwardToCallback.class", 
+          "tag": 3010464337
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder$Proxy.class", 
+          "tag": 2133704822
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmPromiseResult.class", 
+          "tag": 2489323248
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamInitializeResponseParams.class", 
+          "tag": 2866511683
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EncryptionMode.class", 
+          "tag": 145424280
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleInitializeResponseParamsForwardToCallback.class", 
+          "tag": 3779803324
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$RemoveSessionResponse.class", 
+          "tag": 4268619074
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCloseSessionResponseParamsForwardToCallback.class", 
+          "tag": 3894441590
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EosVideoFrameData.class", 
+          "tag": 1579541336
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$Proxy.class", 
+          "tag": 4158457532
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderResetResponseParamsForwardToCallback.class", 
+          "tag": 144833010
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnErrorParams.class", 
+          "tag": 2483224848
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderResetResponseParams.class", 
+          "tag": 3984775549
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder_Internal$VideoDecodeStatsRecorderUpdateRecordParams.class", 
+          "tag": 1574844761
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$1.class", 
+          "tag": 3921407105
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoColorSpace.class", 
+          "tag": 3594455878
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$1.class", 
+          "tag": 372592672
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeAudioDecoderResponseParams.class", 
+          "tag": 501460488
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder.class", 
+          "tag": 4215143198
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$ProvisionFetcherRetrieveResponseParamsProxyToResponder.class", 
+          "tag": 4162391444
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionEnableProtectionResponseParamsForwardToCallback.class", 
+          "tag": 116680145
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$Stub.class", 
+          "tag": 1150436082
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream_Internal$1.class", 
+          "tag": 1299942111
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyInitializeResponseParams.class", 
+          "tag": 2718313072
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService_Internal$1.class", 
+          "tag": 685822053
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyProcessResponseParams.class", 
+          "tag": 929079189
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$Proxy.class", 
+          "tag": 1588420403
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage$Proxy.class", 
+          "tag": 398751689
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$CloseSessionResponse.class", 
+          "tag": 2237571120
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoPixelFormat.class", 
+          "tag": 4267540647
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService$Proxy.class", 
+          "tag": 2779847728
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageInitializeResponseParamsForwardToCallback.class", 
+          "tag": 716413533
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory_Internal.class", 
+          "tag": 4263249709
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererSetCdmResponseParamsForwardToCallback.class", 
+          "tag": 3615557496
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory$Proxy.class", 
+          "tag": 3959350063
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal.class", 
+          "tag": 1480962389
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver_Internal.class", 
+          "tag": 3400271676
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService_Internal$Proxy.class", 
+          "tag": 82686493
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient.class", 
+          "tag": 2962740110
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$Stub.class", 
+          "tag": 116507618
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$1.class", 
+          "tag": 333505841
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService_Internal$CdmServiceCreateCdmFactoryParams.class", 
+          "tag": 3030036830
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptResponseParams.class", 
+          "tag": 3052779713
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderDecodeResponseParamsForwardToCallback.class", 
+          "tag": 208146639
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser_Internal$1.class", 
+          "tag": 741882980
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver_Internal$Proxy.class", 
+          "tag": 2646134294
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal.class", 
+          "tag": 2963452304
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal.class", 
+          "tag": 1315279437
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnVideoOpacityChangeParams.class", 
+          "tag": 836608557
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderConfig.class", 
+          "tag": 3932548293
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererStartPlayingFromParams.class", 
+          "tag": 4205711100
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageRemovePersistentSessionResponseParamsProxyToResponder.class", 
+          "tag": 302358323
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage$RemovePersistentSessionResponse.class", 
+          "tag": 2255820531
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService_Internal$Stub.class", 
+          "tag": 3230956555
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileOpenFileForWritingResponseParams.class", 
+          "tag": 2272042436
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleLoadSessionResponseParamsForwardToCallback.class", 
+          "tag": 2534172173
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal.class", 
+          "tag": 628271701
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider.class", 
+          "tag": 1724346352
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleInitializeResponseParamsProxyToResponder.class", 
+          "tag": 801746286
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$Protocol.class", 
+          "tag": 1115197139
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$1.class", 
+          "tag": 2404169641
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationChallengePlatformResponseParamsForwardToCallback.class", 
+          "tag": 2721787826
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal$AudioOutputStreamPlayParams.class", 
+          "tag": 3002950525
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage$OpenResponse.class", 
+          "tag": 4162625251
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyCreateMediaCryptoSessionResponseParamsProxyToResponder.class", 
+          "tag": 872290566
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$InitializeResponse.class", 
+          "tag": 3479215424
+        }, 
+        {
+          "path": "org/chromium/media/mojom/BufferingState.class", 
+          "tag": 2136829192
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererFlushResponseParamsForwardToCallback.class", 
+          "tag": 3289897149
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmKeyStatus.class", 
+          "tag": 4001810835
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeResponseParamsForwardToCallback.class", 
+          "tag": 3144496518
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay_Internal$1.class", 
+          "tag": 466571854
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport.class", 
+          "tag": 3748906534
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder_Internal$Stub.class", 
+          "tag": 3272241463
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$Stub.class", 
+          "tag": 2026641630
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal.class", 
+          "tag": 3989093660
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog$Proxy.class", 
+          "tag": 1344934065
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleSetServerCertificateResponseParamsForwardToCallback.class", 
+          "tag": 4082303338
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection$QueryStatusResponse.class", 
+          "tag": 1540225062
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorInitializeResponseParams.class", 
+          "tag": 692952855
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider_Internal$Stub.class", 
+          "tag": 1286604739
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient_Internal.class", 
+          "tag": 540320177
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser_Internal$Proxy.class", 
+          "tag": 623400423
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderInitializeParams.class", 
+          "tag": 1535165666
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder.class", 
+          "tag": 2990813142
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService_Internal.class", 
+          "tag": 2929120912
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal.class", 
+          "tag": 1678798496
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient_Internal$Proxy.class", 
+          "tag": 1694988329
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider$Proxy.class", 
+          "tag": 372128857
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$1.class", 
+          "tag": 3166215772
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser_Internal.class", 
+          "tag": 3630465710
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorResetDecoderParams.class", 
+          "tag": 4214411283
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileCommitWriteResponseParams.class", 
+          "tag": 3886219944
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient_Internal$Stub.class", 
+          "tag": 1663731416
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal$1.class", 
+          "tag": 1977663579
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$CdmStorageOpenParams.class", 
+          "tag": 2391362313
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleGetStatusForPolicyResponseParams.class", 
+          "tag": 1016389286
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderResetParams.class", 
+          "tag": 1029331351
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorInitializeResponseParamsProxyToResponder.class", 
+          "tag": 680263533
+        }, 
+        {
+          "path": "org/chromium/media/mojom/FrameResourceReleaser_Internal$1.class", 
+          "tag": 425215850
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrame.class", 
+          "tag": 280855513
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage$LoadPersistentSessionResponse.class", 
+          "tag": 3734182266
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageOnProvisionedResponseParams.class", 
+          "tag": 1146890060
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator$Proxy.class", 
+          "tag": 2090935559
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorEncodeResponseParamsProxyToResponder.class", 
+          "tag": 1885585102
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleSetServerCertificateParams.class", 
+          "tag": 2956525194
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$Proxy.class", 
+          "tag": 2728163139
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitiateScopedSurfaceRequestParams.class", 
+          "tag": 2208040731
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog_Internal$1.class", 
+          "tag": 3129721514
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnBufferingStateChangeParams.class", 
+          "tag": 874289572
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnStatisticsUpdateParams.class", 
+          "tag": 1976796130
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider_Internal.class", 
+          "tag": 3861034327
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeVideoDecoderResponseParams.class", 
+          "tag": 86601438
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider$Proxy.class", 
+          "tag": 1920775692
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$Stub.class", 
+          "tag": 978611724
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$InterfaceFactoryCreateAudioDecoderParams.class", 
+          "tag": 4083760826
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleUpdateSessionResponseParams.class", 
+          "tag": 801945695
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeAudioDecoderResponseParamsForwardToCallback.class", 
+          "tag": 2187585259
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnStartedParams.class", 
+          "tag": 3547707638
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleGetStatusForPolicyParams.class", 
+          "tag": 178340081
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeParams.class", 
+          "tag": 754934971
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitializeResponseParamsForwardToCallback.class", 
+          "tag": 4268300105
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleUpdateSessionResponseParamsForwardToCallback.class", 
+          "tag": 1695144600
+        }, 
+        {
+          "path": "org/chromium/media/mojom/HdrMetadata.class", 
+          "tag": 3133074179
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider_Internal$1.class", 
+          "tag": 1468888517
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorInitializeParams.class", 
+          "tag": 3911756995
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification$ChallengePlatformResponse.class", 
+          "tag": 240516618
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal.class", 
+          "tag": 1349367410
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererSetPlaybackRateParams.class", 
+          "tag": 1198667940
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$1.class", 
+          "tag": 3993336579
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator$InitializeResponse.class", 
+          "tag": 3661960409
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient_Internal$AudioDecoderClientOnBufferDecodedParams.class", 
+          "tag": 3460401913
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageSavePersistentSessionResponseParamsForwardToCallback.class", 
+          "tag": 1473245732
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal$1.class", 
+          "tag": 1427558889
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCloseSessionParams.class", 
+          "tag": 3243475261
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor.class", 
+          "tag": 1211111327
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$Proxy.class", 
+          "tag": 996667314
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService_Internal$Stub.class", 
+          "tag": 504382343
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient$Proxy.class", 
+          "tag": 651092744
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStream_Internal$AudioInputStreamSetVolumeParams.class", 
+          "tag": 3558017405
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver_Internal$Stub.class", 
+          "tag": 2117340795
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$SetServerCertificateResponse.class", 
+          "tag": 2937003230
+        }, 
+        {
+          "path": "org/chromium/media/mojom/SharedBufferVideoFrameData.class", 
+          "tag": 2453917187
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoCodecProfile.class", 
+          "tag": 154115106
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCreateSessionAndGenerateRequestResponseParamsForwardToCallback.class", 
+          "tag": 1948307487
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorInitializeResponseParams.class", 
+          "tag": 78394165
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay_Internal$Stub.class", 
+          "tag": 3792131212
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoColorSpace$RangeId.class", 
+          "tag": 3745406032
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCloseSessionResponseParams.class", 
+          "tag": 3913224102
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileOpenFileForWritingParams.class", 
+          "tag": 2722639579
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider_Internal$VideoEncodeAcceleratorProviderCreateVideoEncodeAcceleratorParams.class", 
+          "tag": 1577658333
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient_Internal$Stub.class", 
+          "tag": 386898545
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$DecryptAndDecodeAudioResponse.class", 
+          "tag": 3232795663
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorEncodeWithFdResponseParamsProxyToResponder.class", 
+          "tag": 1142403012
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ChannelLayout.class", 
+          "tag": 181310950
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeWithFdResponseParamsForwardToCallback.class", 
+          "tag": 4158779109
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider_Internal$AndroidOverlayProviderCreateOverlayParams.class", 
+          "tag": 253608486
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage$OnProvisionedResponse.class", 
+          "tag": 1961881285
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$Stub.class", 
+          "tag": 2237407489
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderDecodeResponseParamsProxyToResponder.class", 
+          "tag": 2941404337
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream$Proxy.class", 
+          "tag": 2192748104
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$ProvisionFetcherRetrieveResponseParamsForwardToCallback.class", 
+          "tag": 681968078
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderInitializeResponseParamsProxyToResponder.class", 
+          "tag": 3643719082
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$1.class", 
+          "tag": 368024113
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient_Internal$VideoDecoderClientOnVideoFrameDecodedParams.class", 
+          "tag": 522001117
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder$DecodeResponse.class", 
+          "tag": 2282595590
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitializeParams.class", 
+          "tag": 460359415
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderRecordWatchTimeParams.class", 
+          "tag": 3593044446
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitiateScopedSurfaceRequestResponseParamsForwardToCallback.class", 
+          "tag": 634628988
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleUpdateSessionParams.class", 
+          "tag": 3822156160
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionQueryStatusResponseParamsForwardToCallback.class", 
+          "tag": 1500839822
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient_Internal$1.class", 
+          "tag": 2957840084
+        }, 
+        {
+          "path": "org/chromium/media/mojom/FrameResourceReleaser_Internal$Stub.class", 
+          "tag": 926855193
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal$Proxy.class", 
+          "tag": 1509658270
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator$Proxy.class", 
+          "tag": 841216046
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderInitializeParams.class", 
+          "tag": 1299225683
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$Function.class", 
+          "tag": 767551101
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OverlayInfo.class", 
+          "tag": 1802567571
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider_Internal$1.class", 
+          "tag": 3288659817
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection.class", 
+          "tag": 1163649856
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder$Proxy.class", 
+          "tag": 1440562480
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderInitializeResponseParams.class", 
+          "tag": 2598587269
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal.class", 
+          "tag": 1637331356
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal.class", 
+          "tag": 2292256139
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$Stub.class", 
+          "tag": 2829968693
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionQueryStatusParams.class", 
+          "tag": 3609268734
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService_Internal.class", 
+          "tag": 1835270525
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorInitializeResponseParamsForwardToCallback.class", 
+          "tag": 2560054899
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmConfig.class", 
+          "tag": 2500240659
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyProcessParams.class", 
+          "tag": 1712256155
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$VideoDecodePerfHistoryGetPerfInfoResponseParams.class", 
+          "tag": 240796623
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile.class", 
+          "tag": 2795813721
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay_Internal$Proxy.class", 
+          "tag": 3632746990
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererSetCdmResponseParams.class", 
+          "tag": 2785613816
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule$LoadSessionResponse.class", 
+          "tag": 3413277426
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$1.class", 
+          "tag": 4073853628
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule.class", 
+          "tag": 1492339981
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyInitializeParams.class", 
+          "tag": 396547973
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal$AudioOutputStreamObserverDidStopPlayingParams.class", 
+          "tag": 2880259245
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient.class", 
+          "tag": 929860009
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream$ReadResponse.class", 
+          "tag": 188230143
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver_Internal$AudioInputStreamObserverDidStartRecordingParams.class", 
+          "tag": 3488320348
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$ContentDecryptionModuleClientOnSessionKeysChangeParams.class", 
+          "tag": 538793653
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification$GetStorageIdResponse.class", 
+          "tag": 4053118464
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeAudioParams.class", 
+          "tag": 320872551
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorEncodeParams.class", 
+          "tag": 3937009323
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoCodec.class", 
+          "tag": 3754728691
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder$InitializeResponse.class", 
+          "tag": 3270495479
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionEnableProtectionParams.class", 
+          "tag": 1981441427
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorInitializeParams.class", 
+          "tag": 1990030204
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderDecodeResponseParamsForwardToCallback.class", 
+          "tag": 3193643349
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$Proxy.class", 
+          "tag": 2942319873
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EncryptionPattern.class", 
+          "tag": 2429176961
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream$Type.class", 
+          "tag": 3443534533
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection$ProtectionType.class", 
+          "tag": 1664178424
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageSavePersistentSessionResponseParamsProxyToResponder.class", 
+          "tag": 3154176518
+        }, 
+        {
+          "path": "org/chromium/media/mojom/FrameResourceReleaser_Internal.class", 
+          "tag": 862855062
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$1.class", 
+          "tag": 2554399060
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient$Proxy.class", 
+          "tag": 2675544387
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver$Proxy.class", 
+          "tag": 1987306954
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$1.class", 
+          "tag": 1656039627
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer$InitiateScopedSurfaceRequestResponse.class", 
+          "tag": 2977919537
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer$Proxy.class", 
+          "tag": 3725459167
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageRemovePersistentSessionResponseParamsForwardToCallback.class", 
+          "tag": 321844362
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService_Internal$CdmServiceLoadCdmParams.class", 
+          "tag": 1311640228
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageInitializeParams.class", 
+          "tag": 749779194
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient_Internal$Stub.class", 
+          "tag": 3921729100
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider.class", 
+          "tag": 3977817567
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal.class", 
+          "tag": 1021215228
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeVideoDecoderResponseParamsProxyToResponder.class", 
+          "tag": 1243701311
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$Proxy.class", 
+          "tag": 1682563137
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$VideoEncodeAcceleratorRequestEncodingParametersChangeParams.class", 
+          "tag": 4223900801
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamReadResponseParams.class", 
+          "tag": 3053656431
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory_Internal$Stub.class", 
+          "tag": 1484617894
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$Stub.class", 
+          "tag": 2013848462
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$1.class", 
+          "tag": 2630684095
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer$FlushResponse.class", 
+          "tag": 1255329437
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$KeySystemSupportIsKeySystemSupportedResponseParamsForwardToCallback.class", 
+          "tag": 2497480344
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageLoadPersistentSessionResponseParamsForwardToCallback.class", 
+          "tag": 2445968218
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStream_Internal$AudioOutputStreamPauseParams.class", 
+          "tag": 905221553
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient_Internal.class", 
+          "tag": 4124454784
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnTimeUpdateParams.class", 
+          "tag": 3608486186
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder_Internal$Proxy.class", 
+          "tag": 442938458
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal$VideoEncodeAcceleratorClientRequireBitstreamBuffersParams.class", 
+          "tag": 582679989
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayClient_Internal$AndroidOverlayClientOnDestroyedParams.class", 
+          "tag": 1850579273
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorInitializeParams.class", 
+          "tag": 3978879293
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeAudioResponseParams.class", 
+          "tag": 2928576848
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory_Internal$Proxy.class", 
+          "tag": 1316678862
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationGetStorageIdResponseParamsForwardToCallback.class", 
+          "tag": 196920286
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$Stub.class", 
+          "tag": 3308174829
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationChallengePlatformResponseParams.class", 
+          "tag": 4107456924
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient.class", 
+          "tag": 574489476
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory_Internal$1.class", 
+          "tag": 2147152084
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser_Internal$VideoFrameHandleReleaserReleaseVideoFrameParams.class", 
+          "tag": 1129572906
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient$Proxy.class", 
+          "tag": 2330633652
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient$Proxy.class", 
+          "tag": 1063482337
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeResponseParamsProxyToResponder.class", 
+          "tag": 481839616
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$ProvisionFetcherRetrieveResponseParams.class", 
+          "tag": 4197580698
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleGetStatusForPolicyResponseParamsForwardToCallback.class", 
+          "tag": 3968991195
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider_Internal.class", 
+          "tag": 3621581961
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider_Internal.class", 
+          "tag": 3883080003
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EncryptionScheme$CipherMode.class", 
+          "tag": 1473482038
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy.class", 
+          "tag": 632669568
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnErrorParams.class", 
+          "tag": 2422510242
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy$Status.class", 
+          "tag": 3038555432
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$Stub.class", 
+          "tag": 845136276
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlayProvider_Internal$Proxy.class", 
+          "tag": 2821532401
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$Stub.class", 
+          "tag": 812244704
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider_Internal$AudioOutputStreamProviderAcquireParams.class", 
+          "tag": 3662609062
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient_Internal$1.class", 
+          "tag": 997618774
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EncryptionScheme.class", 
+          "tag": 3189794087
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer_Internal$RendererInitializeResponseParamsProxyToResponder.class", 
+          "tag": 3000704411
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory.class", 
+          "tag": 3629321054
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnAudioConfigChangeParams.class", 
+          "tag": 2220387183
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$1.class", 
+          "tag": 2089082623
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient_Internal$AudioInputStreamClientOnErrorParams.class", 
+          "tag": 730497059
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$1.class", 
+          "tag": 352199011
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor$Status.class", 
+          "tag": 4039330894
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleRemoveSessionResponseParamsForwardToCallback.class", 
+          "tag": 3282661450
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$Stub.class", 
+          "tag": 2000497520
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal$Stub.class", 
+          "tag": 2326002240
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage$InitializeResponse.class", 
+          "tag": 1239873009
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnWaitingForDecryptionKeyParams.class", 
+          "tag": 3728860301
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxyClient_Internal$1.class", 
+          "tag": 3657526443
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator.class", 
+          "tag": 499552629
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory.class", 
+          "tag": 3618962484
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$Proxy.class", 
+          "tag": 1716777000
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Renderer$InitializeResponse.class", 
+          "tag": 3994456030
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$CdmStorageOpenResponseParamsProxyToResponder.class", 
+          "tag": 1704174762
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoColorSpace$TransferId.class", 
+          "tag": 2634141174
+        }, 
+        {
+          "path": "org/chromium/media/mojom/KeySystemSupport_Internal$1.class", 
+          "tag": 4158137136
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CommandBufferId.class", 
+          "tag": 440723697
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PredictionFeatures.class", 
+          "tag": 4169320240
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionEnableProtectionResponseParamsProxyToResponder.class", 
+          "tag": 2599380786
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient.class", 
+          "tag": 3674243774
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodeStatsRecorder$Proxy.class", 
+          "tag": 2162158440
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderConstructParams.class", 
+          "tag": 1988926023
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator_Internal.class", 
+          "tag": 3966126710
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderOnErrorParams.class", 
+          "tag": 2598514462
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$Stub.class", 
+          "tag": 1974159563
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageSavePersistentSessionParams.class", 
+          "tag": 2863795119
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile$OpenFileForWritingResponse.class", 
+          "tag": 3274619205
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileCommitWriteResponseParamsProxyToResponder.class", 
+          "tag": 586940446
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModuleClient_Internal$ContentDecryptionModuleClientOnSessionClosedParams.class", 
+          "tag": 1678347422
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection$LinkType.class", 
+          "tag": 2508411264
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionQueryStatusResponseParams.class", 
+          "tag": 169412303
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher_Internal$1.class", 
+          "tag": 2863277331
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient$Proxy.class", 
+          "tag": 1613861822
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageOnProvisionedResponseParamsProxyToResponder.class", 
+          "tag": 368268200
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderResetResponseParams.class", 
+          "tag": 2648647734
+        }, 
+        {
+          "path": "org/chromium/media/mojom/HostedRendererType.class", 
+          "tag": 2454308273
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyInitializeResponseParamsForwardToCallback.class", 
+          "tag": 375064894
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorInitializeResponseParams.class", 
+          "tag": 2725961675
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnClosedParams.class", 
+          "tag": 4118618205
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoderClient_Internal$1.class", 
+          "tag": 605147774
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$InterfaceFactoryCreateCdmProxyParams.class", 
+          "tag": 2193288285
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder_Internal$AudioDecoderResetParams.class", 
+          "tag": 4182513959
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorUninitializeParams.class", 
+          "tag": 1093966219
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecodePerfHistory$Proxy.class", 
+          "tag": 1370228690
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamInitializeParams.class", 
+          "tag": 710081684
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlaybackProperties.class", 
+          "tag": 4139275241
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal$VideoEncodeAcceleratorClientNotifyErrorParams.class", 
+          "tag": 1262550493
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleLoadSessionParams.class", 
+          "tag": 699889304
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyProcessResponseParamsForwardToCallback.class", 
+          "tag": 3029215401
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient_Internal$1.class", 
+          "tag": 389868975
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient_Internal$Stub.class", 
+          "tag": 2298026743
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal.class", 
+          "tag": 2538437192
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator$InitializeResponse.class", 
+          "tag": 162077532
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyProcessResponseParamsProxyToResponder.class", 
+          "tag": 2661614719
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmStorage_Internal$Proxy.class", 
+          "tag": 880871810
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeAudioDecoderResponseParamsProxyToResponder.class", 
+          "tag": 537809639
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamObserver$DisconnectReason.class", 
+          "tag": 3409128190
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleCloseSessionResponseParamsProxyToResponder.class", 
+          "tag": 725299373
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageInitializeResponseParamsProxyToResponder.class", 
+          "tag": 2654617807
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher$RetrieveResponse.class", 
+          "tag": 1466747178
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageLoadPersistentSessionParams.class", 
+          "tag": 2360803056
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyCreateMediaCryptoSessionResponseParams.class", 
+          "tag": 276648110
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MailboxVideoFrameData.class", 
+          "tag": 2885928887
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$Proxy.class", 
+          "tag": 1568300995
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAccelerator$EncodeResponse.class", 
+          "tag": 885540669
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleSetServerCertificateResponseParamsProxyToResponder.class", 
+          "tag": 3550926566
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DecodeError.class", 
+          "tag": 178046193
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream_Internal$DemuxerStreamInitializeResponseParamsForwardToCallback.class", 
+          "tag": 1001953116
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationChallengePlatformParams.class", 
+          "tag": 4000468258
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MasteringMetadata.class", 
+          "tag": 3010332319
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ProvisionFetcher$Proxy.class", 
+          "tag": 2195431358
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal$VideoEncodeAcceleratorClientBitstreamBufferReadyParams.class", 
+          "tag": 702178457
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DecoderBuffer.class", 
+          "tag": 3369722906
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLogEvent.class", 
+          "tag": 1988239912
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderInitializeParams.class", 
+          "tag": 218354312
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaService_Internal$MediaServiceCreateInterfaceFactoryParams.class", 
+          "tag": 701870153
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$MediaMetricsProviderSetTimeToPlayReadyParams.class", 
+          "tag": 2350805201
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleUpdateSessionResponseParamsProxyToResponder.class", 
+          "tag": 806569366
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorProvider_Internal$Stub.class", 
+          "tag": 3694496414
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider$Proxy.class", 
+          "tag": 29144140
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegEncodeAccelerator_Internal$JpegEncodeAcceleratorEncodeWithFdResponseParams.class", 
+          "tag": 2445793671
+        }, 
+        {
+          "path": "org/chromium/media/mojom/EncodeStatus.class", 
+          "tag": 1891766943
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory$Proxy.class", 
+          "tag": 627438752
+        }, 
+        {
+          "path": "org/chromium/media/mojom/WatchTimeRecorder_Internal$WatchTimeRecorderSetAutoplayInitiatedParams.class", 
+          "tag": 2053710758
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection$EnableProtectionResponse.class", 
+          "tag": 677740078
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile_Internal$CdmFileOpenFileForWritingResponseParamsForwardToCallback.class", 
+          "tag": 4001011538
+        }, 
+        {
+          "path": "org/chromium/media/mojom/ContentDecryptionModule_Internal$ContentDecryptionModuleRemoveSessionParams.class", 
+          "tag": 3644898522
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoColorSpace$MatrixId.class", 
+          "tag": 963268897
+        }, 
+        {
+          "path": "org/chromium/media/mojom/RendererClient_Internal$RendererClientOnVideoConfigChangeParams.class", 
+          "tag": 3773129427
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmService.class", 
+          "tag": 4195682554
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmPromiseResult$Exception.class", 
+          "tag": 1604346442
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoEncodeAcceleratorClient_Internal$1.class", 
+          "tag": 2912746604
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFile$CommitWriteResponse.class", 
+          "tag": 4015949941
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioLog_Internal$AudioLogOnCreatedParams.class", 
+          "tag": 2415292497
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AndroidOverlay_Internal$AndroidOverlayScheduleLayoutParams.class", 
+          "tag": 1162773220
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaDrmStorage_Internal$MediaDrmStorageOnProvisionedParams.class", 
+          "tag": 3527440145
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoder$InitializeResponse.class", 
+          "tag": 2431867926
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioDecoderClient$Proxy.class", 
+          "tag": 1043825769
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$Proxy.class", 
+          "tag": 3051375073
+        }, 
+        {
+          "path": "org/chromium/media/mojom/OutputProtection_Internal$OutputProtectionQueryStatusResponseParamsProxyToResponder.class", 
+          "tag": 2699193380
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver$Proxy.class", 
+          "tag": 2457029989
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DemuxerStream$InitializeResponse.class", 
+          "tag": 797722616
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver_Internal$Stub.class", 
+          "tag": 3528173104
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmFactory_Internal$CdmFactoryCreateCdmParams.class", 
+          "tag": 199529563
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorDecryptAndDecodeVideoParams.class", 
+          "tag": 3344983218
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProvider_Internal$Proxy.class", 
+          "tag": 78682776
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoDecoder_Internal$VideoDecoderResetResponseParamsProxyToResponder.class", 
+          "tag": 747779275
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient_Internal$Proxy.class", 
+          "tag": 1106324665
+        }, 
+        {
+          "path": "org/chromium/media/mojom/Decryptor_Internal$DecryptorInitializeParams.class", 
+          "tag": 2316038616
+        }, 
+        {
+          "path": "org/chromium/media/mojom/VideoFrameHandleReleaser_Internal$Stub.class", 
+          "tag": 1882353336
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamObserver$DisconnectReason.class", 
+          "tag": 114541159
+        }, 
+        {
+          "path": "org/chromium/media/mojom/JpegDecodeAccelerator_Internal$JpegDecodeAcceleratorDecodeWithFdResponseParams.class", 
+          "tag": 3308690837
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaMetricsProvider_Internal$Proxy.class", 
+          "tag": 339909564
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioOutputStreamProviderClient_Internal$AudioOutputStreamProviderClientCreatedParams.class", 
+          "tag": 1582181239
+        }, 
+        {
+          "path": "org/chromium/media/mojom/PlatformVerification_Internal$PlatformVerificationGetStorageIdResponseParamsProxyToResponder.class", 
+          "tag": 2244551277
+        }, 
+        {
+          "path": "org/chromium/media/mojom/AudioInputStreamClient_Internal$AudioInputStreamClientOnMutedStateChangedParams.class", 
+          "tag": 1269342720
+        }, 
+        {
+          "path": "org/chromium/media/mojom/CdmProxy_Internal$CdmProxyCreateMediaCryptoSessionResponseParamsForwardToCallback.class", 
+          "tag": 167684709
+        }, 
+        {
+          "path": "org/chromium/media/mojom/DecodeStatus.class", 
+          "tag": 4086796778
+        }, 
+        {
+          "path": "org/chromium/media/mojom/MediaLog_Internal$Stub.class", 
+          "tag": 3434546051
+        }, 
+        {
+          "path": "org/chromium/media/mojom/InterfaceFactory_Internal$InterfaceFactoryCreateCdmParams.class", 
+          "tag": 1016615108
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "277a8277e064b73447c08e5b7e645f8b"
+}

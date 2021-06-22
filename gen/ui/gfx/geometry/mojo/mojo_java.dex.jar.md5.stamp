@@ -1,0 +1,137 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/ui/gfx/geometry/mojo/mojo_java.dex.jar"
+  ], 
+  "files-md5": "610b8e73fa3fc4cfac0722f5e1d9a905", 
+  "input-files": [
+    {
+      "path": "lib.java/ui/gfx/geometry/mojo/mojo_java.jar", 
+      "tag": "17eb5b1120c404cd7c8a19379503e06b", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/Size.class", 
+          "tag": 1011652327
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/Insets.class", 
+          "tag": 2674390228
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/Point.class", 
+          "tag": 2837271971
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/Vector2d.class", 
+          "tag": 1708485416
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/PointF.class", 
+          "tag": 3651291237
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/ScrollOffset.class", 
+          "tag": 3473740452
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/RectF.class", 
+          "tag": 156152047
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/Vector2dF.class", 
+          "tag": 2240251706
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/SizeF.class", 
+          "tag": 2534344955
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/InsetsF.class", 
+          "tag": 85896831
+        }, 
+        {
+          "path": "org/chromium/gfx/mojom/Rect.class", 
+          "tag": 1347902324
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "1c373d8fd7492bbd30e0ac06c38551bb"
+}

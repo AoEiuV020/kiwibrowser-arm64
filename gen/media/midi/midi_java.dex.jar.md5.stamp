@@ -1,0 +1,149 @@
+{
+  "input-strings": [
+    "../../third_party/android_tools/sdk/build-tools/27.0.3/dx", 
+    "-JXmx2G", 
+    "--num-threads=8", 
+    "--dex", 
+    "--force-jumbo", 
+    "--output", 
+    "gen/media/midi/midi_java.dex.jar"
+  ], 
+  "files-md5": "9f667f4769b4889c2bb79ecc79971950", 
+  "input-files": [
+    {
+      "path": "lib.java/media/midi/midi_java.jar", 
+      "tag": "f126128927c6bab2484be58a352af7e7", 
+      "entries": [
+        {
+          "path": "META-INF/MANIFEST.MF", 
+          "tag": 2374124186
+        }, 
+        {
+          "path": "org/chromium/midi/MidiManagerAndroid$3.class", 
+          "tag": 3183033965
+        }, 
+        {
+          "path": "org/chromium/midi/MidiInputPortAndroid.class", 
+          "tag": 3925505309
+        }, 
+        {
+          "path": "org/chromium/midi/MidiManagerAndroid.class", 
+          "tag": 3608648984
+        }, 
+        {
+          "path": "org/chromium/midi/MidiManagerAndroid$1.class", 
+          "tag": 2987764615
+        }, 
+        {
+          "path": "org/chromium/midi/UsbMidiDeviceAndroid.class", 
+          "tag": 4575560
+        }, 
+        {
+          "path": "org/chromium/midi/MidiManagerAndroid$4.class", 
+          "tag": 672077388
+        }, 
+        {
+          "path": "org/chromium/midi/MidiOutputPortAndroid.class", 
+          "tag": 2986560751
+        }, 
+        {
+          "path": "org/chromium/midi/MidiManagerAndroid$2.class", 
+          "tag": 2546667727
+        }, 
+        {
+          "path": "org/chromium/midi/UsbMidiDeviceFactoryAndroid$1.class", 
+          "tag": 2531851473
+        }, 
+        {
+          "path": "org/chromium/midi/MidiInputPortAndroid$1.class", 
+          "tag": 1110654260
+        }, 
+        {
+          "path": "org/chromium/midi/UsbMidiDeviceAndroid$2.class", 
+          "tag": 2844939465
+        }, 
+        {
+          "path": "org/chromium/midi/MidiDeviceAndroid.class", 
+          "tag": 2016893985
+        }, 
+        {
+          "path": "org/chromium/midi/UsbMidiDeviceFactoryAndroid.class", 
+          "tag": 1964915128
+        }, 
+        {
+          "path": "org/chromium/midi/UsbMidiDeviceAndroid$1.class", 
+          "tag": 2285457984
+        }
+      ]
+    }, 
+    {
+      "path": "../../build/android/gyp/dex.py", 
+      "tag": "9d5f4024a1ea95bdbe1a05faead8d1a1"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/__init__.py", 
+      "tag": "c5a6eed9e7b6a847b0af25d6c918012a"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/build_utils.py", 
+      "tag": "dde52b5e49f967983c50fa9f075e4241"
+    }, 
+    {
+      "path": "../../build/android/gyp/util/md5_check.py", 
+      "tag": "55440f8dae5c1d295a6f230d487ef744"
+    }, 
+    {
+      "path": "../../build/android/pylib/__init__.py", 
+      "tag": "3941017f7c8226efcac8e2bc88ce9756"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/__init__.py", 
+      "tag": "3cf49ef3db8629c44da6361016fe1cc7"
+    }, 
+    {
+      "path": "../../build/android/pylib/constants/host_paths.py", 
+      "tag": "f0ddd46badca594fceb9e4da37fcf4a4"
+    }, 
+    {
+      "path": "../../build/gn_helpers.py", 
+      "tag": "b23c77df74cd1e1a1e582c692f5d37cf"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/__init__.py", 
+      "tag": "2c2baffced354f1c87bbb4188cce1aff"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/constants/chrome.py", 
+      "tag": "108d99573c0a3c0f50107734e3647465"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/__init__.py", 
+      "tag": "73a8a79983ebf4da9dd87eaf6a170582"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/keyevent.py", 
+      "tag": "6946acdc77829d510f8a5a78fd7e53e7"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/android/sdk/version_codes.py", 
+      "tag": "c1623ae934625d81cd6f553efe9f6bf3"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/__init__.py", 
+      "tag": "554cf18947f37d15383f328ef13f893b"
+    }, 
+    {
+      "path": "../../third_party/catapult/devil/devil/constants/exit_codes.py", 
+      "tag": "19540fddcf8d9f1d6fae1f2b6082165e"
+    }
+  ], 
+  "strings-md5": "30d6673717eb5c43c95bbc96d8e83634"
+}
