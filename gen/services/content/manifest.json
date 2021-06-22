@@ -1,0 +1,13 @@
+{
+"display_name": "Content Service", 
+"name": "content", 
+"interface_provider_specs": {
+"service_manager:connector": {
+"provides": {
+"view": [
+"content.mojom.ViewFactory"
+]
+}
+}
+}
+}
