@@ -1,0 +1,2 @@
+android_clang_arm/gen/chrome/grit/quota_internals_resources.h
+android_clang_arm/gen/chrome/quota_internals_resources.pak

@@ -1,0 +1,8 @@
+android_clang_arm/gen/third_party/blink/public/mojom/mojom_platform.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/services/device/public/mojom/mojom.sources_list
+android_clang_arm/gen/services/network/public/mojom/mojom.sources_list
+android_clang_arm/gen/services/network/public/mojom/data_pipe_interfaces.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_gurl.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_origin.sources_list

@@ -1,0 +1,3 @@
+android_clang_arm/lib.unstripped/libEGL.so
+android_clang_arm/lib.unstripped/libGLESv2.so
+android_clang_arm/lib.unstripped/libGLESv1_CM.so

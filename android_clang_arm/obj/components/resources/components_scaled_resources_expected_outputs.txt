@@ -1,0 +1,6 @@
+android_clang_arm/gen/components/grit/components_scaled_resources.h
+android_clang_arm/gen/components/grit/components_scaled_resources_map.cc
+android_clang_arm/gen/components/grit/components_scaled_resources_map.h
+android_clang_arm/gen/components/components_resources_100_percent.pak
+android_clang_arm/gen/components/components_resources_200_percent.pak
+android_clang_arm/gen/components/components_resources_300_percent.pak

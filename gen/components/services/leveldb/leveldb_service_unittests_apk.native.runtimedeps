@@ -1,0 +1,4 @@
+./lib.unstripped/lib_leveldb_service_unittests__library.so
+./exe.unstripped/leveldb.service
+./exe.unstripped/filesystem.service
+../../testing/test_env.py

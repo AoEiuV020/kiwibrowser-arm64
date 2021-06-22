@@ -1,0 +1,4 @@
+android_clang_arm/gen/content/browser/devtools/grit/devtools_resources.h
+android_clang_arm/gen/content/browser/devtools/devtools_resources.pak
+android_clang_arm/gen/content/browser/devtools/grit/devtools_resources_map.cc
+android_clang_arm/gen/content/browser/devtools/grit/devtools_resources_map.h

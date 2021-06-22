@@ -1,0 +1,3 @@
+android_clang_arm/gen/chrome/common/page_load_metrics_mojom.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/third_party/blink/public/web_feature_mojo_bindings.sources_list

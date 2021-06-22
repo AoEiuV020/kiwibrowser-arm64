@@ -1,0 +1,8 @@
+../../gin/shell/hello_world.js
+../../OWNERS
+./exe.unstripped/gin_shell
+natives_blob.bin
+snapshot_blob.bin
+natives_blob.bin
+snapshot_blob.bin
+../../testing/test_env.py

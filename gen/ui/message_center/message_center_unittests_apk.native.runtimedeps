@@ -1,0 +1,5 @@
+./lib.unstripped/lib_message_center_unittests__library.so
+./lib.unstripped/libosmesa.so
+ui_test.pak
+ui_test.pak.info
+../../testing/test_env.py

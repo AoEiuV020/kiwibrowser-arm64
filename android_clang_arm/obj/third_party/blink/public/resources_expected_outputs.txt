@@ -1,0 +1,2 @@
+android_clang_arm/gen/third_party/blink/public/resources/grit/blink_resources.h
+android_clang_arm/gen/third_party/blink/public/resources/blink_resources.pak

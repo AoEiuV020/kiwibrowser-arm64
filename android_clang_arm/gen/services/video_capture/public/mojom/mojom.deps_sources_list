@@ -1,0 +1,5 @@
+android_clang_arm/gen/services/video_capture/public/mojom/mojom.sources_list
+android_clang_arm/gen/media/capture/mojom/image_capture.sources_list
+android_clang_arm/gen/media/capture/mojom/video_capture.sources_list
+android_clang_arm/gen/media/mojo/interfaces/interfaces.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list

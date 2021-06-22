@@ -1,0 +1,8 @@
+../../third_party/blink/renderer/platform/testing/data/
+../../third_party/blink/renderer/platform/image-decoders/testing/
+../../third_party/WebKit/LayoutTests/images/resources/
+natives_blob.bin
+snapshot_blob.bin
+natives_blob.bin
+snapshot_blob.bin
+../../testing/test_env.py

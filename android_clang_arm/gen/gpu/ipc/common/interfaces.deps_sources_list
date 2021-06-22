@@ -1,0 +1,4 @@
+android_clang_arm/gen/gpu/ipc/common/interfaces.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list
+android_clang_arm/gen/ui/gfx/mojo/mojo.sources_list

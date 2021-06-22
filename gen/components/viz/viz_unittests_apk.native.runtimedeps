@@ -1,0 +1,4 @@
+./lib.unstripped/lib_viz_unittests__library.so
+../../components/viz/test/data/
+./lib.unstripped/libosmesa.so
+../../testing/test_env.py

@@ -1,0 +1,5 @@
+android_clang_arm/gen/extensions/common/mojo.sources_list
+android_clang_arm/gen/content/public/common/interfaces.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_gurl.sources_list

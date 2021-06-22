@@ -1,0 +1,6 @@
+android_clang_arm/gen/ui/resources/grit/ui_resources.h
+android_clang_arm/gen/ui/resources/grit/ui_resources_map.cc
+android_clang_arm/gen/ui/resources/grit/ui_resources_map.h
+android_clang_arm/gen/ui/resources/ui_resources_100_percent.pak
+android_clang_arm/gen/ui/resources/ui_resources_200_percent.pak
+android_clang_arm/gen/ui/resources/ui_resources_300_percent.pak

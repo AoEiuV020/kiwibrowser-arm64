@@ -1,0 +1,2 @@
+android_clang_arm/gen/chrome/grit/translate_internals_resources.h
+android_clang_arm/gen/chrome/translate_internals_resources.pak

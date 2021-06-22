@@ -1,0 +1,3 @@
+android_clang_arm/gen/services/resource_coordinator/public/mojom/mojom.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/services/metrics/public/mojom/mojom.sources_list

@@ -1,0 +1,2 @@
+android_clang_arm/gen/ui/resources/grit/ui_unscaled_resources.h
+android_clang_arm/gen/ui/resources/ui_unscaled_resources.rc

@@ -1,0 +1,5 @@
+android_clang_arm/gen/extensions/grit/extensions_browser_resources.h
+android_clang_arm/gen/extensions/grit/extensions_browser_resources_map.cc
+android_clang_arm/gen/extensions/grit/extensions_browser_resources_map.h
+android_clang_arm/gen/extensions/extensions_browser_resources_100_percent.pak
+android_clang_arm/gen/extensions/extensions_browser_resources_200_percent.pak

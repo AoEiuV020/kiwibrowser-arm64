@@ -1,0 +1,4 @@
+../../ui/gfx/test/data/
+ui_test.pak
+ui/en-US.pak
+../../testing/test_env.py

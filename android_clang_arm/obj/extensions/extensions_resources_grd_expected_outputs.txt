@@ -1,0 +1,2 @@
+android_clang_arm/gen/extensions/grit/extensions_resources.h
+android_clang_arm/gen/extensions/extensions_resources.pak

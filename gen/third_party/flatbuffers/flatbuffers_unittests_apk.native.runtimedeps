@@ -1,0 +1,6 @@
+./lib.unstripped/lib_flatbuffers_unittests__library.so
+../../third_party/flatbuffers/src/tests/
+../../testing/scripts/common.py
+../../testing/scripts/run_flatbuffers_unittests.py
+../../testing/xvfb.py
+../../testing/test_env.py

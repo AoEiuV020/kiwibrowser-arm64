@@ -1,0 +1,4 @@
+android_clang_arm/gen/chrome/grit/renderer_resources.h
+android_clang_arm/gen/chrome/renderer_resources_100_percent.pak
+android_clang_arm/gen/chrome/renderer_resources_200_percent.pak
+android_clang_arm/gen/chrome/renderer_resources_300_percent.pak

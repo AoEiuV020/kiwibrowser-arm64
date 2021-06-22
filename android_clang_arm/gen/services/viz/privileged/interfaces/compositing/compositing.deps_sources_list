@@ -1,0 +1,9 @@
+android_clang_arm/gen/services/viz/privileged/interfaces/compositing/compositing.sources_list
+android_clang_arm/gen/gpu/ipc/common/interfaces.sources_list
+android_clang_arm/gen/media/capture/mojom/video_capture.sources_list
+android_clang_arm/gen/media/mojo/interfaces/interfaces.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/services/viz/public/interfaces/interfaces.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list
+android_clang_arm/gen/ui/gfx/mojo/mojo.sources_list
+android_clang_arm/gen/ui/latency/mojo/interfaces.sources_list

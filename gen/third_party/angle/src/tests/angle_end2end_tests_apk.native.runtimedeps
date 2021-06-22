@@ -1,0 +1,6 @@
+./lib.unstripped/lib_angle_end2end_tests__library.so
+../../testing/test_env.py
+./lib.unstripped/libangle_util.so
+./lib.unstripped/libEGL.so
+./lib.unstripped/libGLESv2.so
+./lib.unstripped/libGLESv1_CM.so

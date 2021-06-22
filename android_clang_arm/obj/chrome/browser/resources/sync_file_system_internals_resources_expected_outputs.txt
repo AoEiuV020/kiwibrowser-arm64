@@ -1,0 +1,2 @@
+android_clang_arm/gen/chrome/grit/sync_file_system_internals_resources.h
+android_clang_arm/gen/chrome/sync_file_system_internals_resources.pak

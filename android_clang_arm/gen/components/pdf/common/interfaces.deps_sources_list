@@ -1,0 +1,4 @@
+android_clang_arm/gen/components/pdf/common/interfaces.sources_list
+android_clang_arm/gen/third_party/blink/public/mojo_bindings.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_gurl.sources_list

@@ -1,0 +1,3 @@
+./lib.unstripped/libEGL.so
+./lib.unstripped/libGLESv2.so
+./lib.unstripped/libGLESv1_CM.so

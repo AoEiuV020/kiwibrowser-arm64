@@ -1,0 +1,4 @@
+../../ui/android/junit/src/org/chromium/ui/base/ClipboardTest.java
+../../ui/android/junit/src/org/chromium/ui/base/SelectFileDialogTest.java
+../../ui/android/junit/src/org/chromium/ui/text/SpanApplierTest.java
+../../ui/android/junit/src/org/chromium/ui/widget/AnchoredPopupWindowTest.java

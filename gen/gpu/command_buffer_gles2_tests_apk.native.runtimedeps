@@ -1,0 +1,3 @@
+./lib.unstripped/lib_command_buffer_gles2_tests__library.so
+./lib.unstripped/libcommand_buffer_gles2.so
+../../testing/test_env.py

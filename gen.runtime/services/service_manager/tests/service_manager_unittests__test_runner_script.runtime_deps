@@ -1,0 +1,17 @@
+../../testing/test_env.py
+../../services/catalog/test_data/
+./exe.unstripped/background_service_manager_test_service.service
+./exe.unstripped/host_test_service.service
+./exe.unstripped/connect_test_app.service
+./exe.unstripped/connect_test_class_app.service
+./exe.unstripped/connect_test_singleton_app.service
+./exe.unstripped/connect_test_exe
+./exe.unstripped/connect_test_package.service
+./exe.unstripped/lifecycle_unittest_app.service
+./exe.unstripped/lifecycle_unittest_parent.service
+./exe.unstripped/lifecycle_unittest_exe
+./exe.unstripped/lifecycle_unittest_package.service
+./exe.unstripped/service_manager_unittest_embedder.service
+./exe.unstripped/service_manager_unittest_target
+./exe.unstripped/shutdown_client.service
+./exe.unstripped/shutdown_service.service

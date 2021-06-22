@@ -1,0 +1,4 @@
+android_clang_arm/gen/chrome/grit/settings_resources.h
+android_clang_arm/gen/chrome/grit/settings_resources_map.cc
+android_clang_arm/gen/chrome/grit/settings_resources_map.h
+android_clang_arm/gen/chrome/settings_resources.pak

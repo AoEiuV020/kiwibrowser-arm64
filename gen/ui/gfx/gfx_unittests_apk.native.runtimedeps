@@ -1,0 +1,5 @@
+./lib.unstripped/lib_gfx_unittests__library.so
+../../ui/gfx/test/data/
+ui_test.pak
+ui/en-US.pak
+../../testing/test_env.py

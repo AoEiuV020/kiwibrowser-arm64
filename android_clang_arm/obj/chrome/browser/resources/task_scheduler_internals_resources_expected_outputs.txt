@@ -1,0 +1,2 @@
+android_clang_arm/gen/chrome/grit/task_scheduler_internals_resources.h
+android_clang_arm/gen/chrome/task_scheduler_internals_resources.pak

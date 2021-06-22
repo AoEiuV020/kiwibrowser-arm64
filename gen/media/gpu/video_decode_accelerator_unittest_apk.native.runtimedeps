@@ -1,0 +1,3 @@
+./lib.unstripped/lib_video_decode_accelerator_unittest__library.so
+../../media/test/data/
+../../testing/test_env.py

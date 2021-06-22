@@ -1,0 +1,3 @@
+android_clang_arm/gen/chrome/common/search_mojom.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_gurl.sources_list

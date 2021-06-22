@@ -1,0 +1,2 @@
+android_clang_arm/gen/components/grit/components_resources.h
+android_clang_arm/gen/components/components_resources.pak

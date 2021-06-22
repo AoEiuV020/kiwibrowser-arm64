@@ -1,0 +1,6 @@
+android_clang_arm/gen/ui/views/resources/grit/views_resources.h
+android_clang_arm/gen/ui/views/resources/grit/views_resources_map.cc
+android_clang_arm/gen/ui/views/resources/grit/views_resources_map.h
+android_clang_arm/gen/ui/views/resources/views_resources_100_percent.pak
+android_clang_arm/gen/ui/views/resources/views_resources_200_percent.pak
+android_clang_arm/gen/ui/views/resources/views_resources_300_percent.pak

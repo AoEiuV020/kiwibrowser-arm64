@@ -1,0 +1,3 @@
+./lib.unstripped/lib_compositor_unittests__library.so
+../../ui/gfx/test/data/compositor/
+../../testing/test_env.py

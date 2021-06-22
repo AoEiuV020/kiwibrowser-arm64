@@ -1,0 +1,5 @@
+android_clang_arm/gen/content/public/common/interfaces.sources_list
+android_clang_arm/gen/content/public/common/resource_type_bindings.sources_list
+android_clang_arm/gen/services/network/public/mojom/mojom.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_gurl.sources_list
+android_clang_arm/gen/url/mojom/url_mojom_origin.sources_list

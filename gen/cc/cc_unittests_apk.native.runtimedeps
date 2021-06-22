@@ -1,0 +1,3 @@
+./lib.unstripped/lib_cc_unittests__library.so
+./lib.unstripped/libosmesa.so
+../../testing/test_env.py

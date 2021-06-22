@@ -1,0 +1,4 @@
+android_clang_arm/gen/chrome/grit/extensions_resources.h
+android_clang_arm/gen/chrome/grit/extensions_resources_map.cc
+android_clang_arm/gen/chrome/grit/extensions_resources_map.h
+android_clang_arm/gen/chrome/extensions_resources.pak

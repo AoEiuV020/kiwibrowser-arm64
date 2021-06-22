@@ -1,0 +1,5 @@
+./lib.unstripped/lib_base_unittests__library.so
+../../base/test/data/
+./exe.unstripped/test_child_process
+./lib.unstripped/libtest_shared_library.so
+../../testing/test_env.py

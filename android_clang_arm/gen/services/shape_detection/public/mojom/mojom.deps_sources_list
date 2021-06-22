@@ -1,0 +1,3 @@
+android_clang_arm/gen/services/shape_detection/public/mojom/mojom.sources_list
+android_clang_arm/gen/skia/public/interfaces/interfaces.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list

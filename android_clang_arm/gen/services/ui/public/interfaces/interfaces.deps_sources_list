@@ -1,0 +1,16 @@
+android_clang_arm/gen/services/ui/public/interfaces/interfaces.sources_list
+android_clang_arm/gen/services/ui/public/interfaces/constants.sources_list
+android_clang_arm/gen/gpu/ipc/common/interfaces.sources_list
+android_clang_arm/gen/media/mojo/interfaces/interfaces.sources_list
+android_clang_arm/gen/mojo/public/mojom/base/base.sources_list
+android_clang_arm/gen/services/ui/public/interfaces/cursor/cursor.sources_list
+android_clang_arm/gen/services/ui/public/interfaces/display/display.sources_list
+android_clang_arm/gen/services/ui/public/interfaces/ime/ime.sources_list
+android_clang_arm/gen/services/viz/public/interfaces/interfaces.sources_list
+android_clang_arm/gen/skia/public/interfaces/interfaces.sources_list
+android_clang_arm/gen/ui/base/mojo/mojo_bindings.sources_list
+android_clang_arm/gen/ui/display/mojo/interfaces.sources_list
+android_clang_arm/gen/ui/events/mojo/interfaces.sources_list
+android_clang_arm/gen/ui/gfx/geometry/mojo/mojo.sources_list
+android_clang_arm/gen/ui/gfx/mojo/mojo.sources_list
+android_clang_arm/gen/ui/platform_window/mojo/interfaces.sources_list

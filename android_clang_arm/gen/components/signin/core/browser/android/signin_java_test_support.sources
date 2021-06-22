@@ -1,0 +1,2 @@
+../../components/signin/core/browser/android/javatests/src/org/chromium/components/signin/test/util/AccountHolder.java
+../../components/signin/core/browser/android/javatests/src/org/chromium/components/signin/test/util/FakeAccountManagerDelegate.java

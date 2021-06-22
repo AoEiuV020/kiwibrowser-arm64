@@ -1,0 +1,3 @@
+./lib.unstripped/lib_media_service_unittests__library.so
+./exe.unstripped/media.service
+../../testing/test_env.py

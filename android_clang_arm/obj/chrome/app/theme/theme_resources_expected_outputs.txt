@@ -1,0 +1,6 @@
+android_clang_arm/gen/chrome/grit/theme_resources.h
+android_clang_arm/gen/chrome/grit/theme_resources_map.cc
+android_clang_arm/gen/chrome/grit/theme_resources_map.h
+android_clang_arm/gen/chrome/theme_resources_100_percent.pak
+android_clang_arm/gen/chrome/theme_resources_200_percent.pak
+android_clang_arm/gen/chrome/theme_resources_300_percent.pak

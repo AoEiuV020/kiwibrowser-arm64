@@ -1,0 +1,2 @@
+android_clang_arm/gen/chrome/grit/common_resources.h
+android_clang_arm/gen/chrome/common_resources.pak

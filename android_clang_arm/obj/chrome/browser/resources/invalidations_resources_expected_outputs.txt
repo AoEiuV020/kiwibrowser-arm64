@@ -1,0 +1,2 @@
+android_clang_arm/gen/chrome/grit/invalidations_resources.h
+android_clang_arm/gen/chrome/invalidations_resources.pak

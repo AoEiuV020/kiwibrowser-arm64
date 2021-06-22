@@ -1,0 +1,3 @@
+./lib.unstripped/lib_mojo_unittests__library.so
+../../testing/test_env.py
+../../mojo/public/interfaces/bindings/tests/data/validation/
